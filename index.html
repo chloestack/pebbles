@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pebbles — 세계 뉴스 큐레이션</title>
+  <meta name="description" content="Reuters, BBC, Bloomberg, NYT 등 세계 주요 언론사의 뉴스를 한국어로 큐레이션합니다." />
+  <meta property="og:title" content="Pebbles — 세계 뉴스 큐레이션" />
+  <meta property="og:description" content="18개 글로벌 언론사의 오늘의 뉴스를 한국어로 만나보세요." />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ko_KR" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪨</text></svg>" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-icon">🪨</span>
+          <h1>Pebbles</h1>
+          <span class="logo-sub">세계 뉴스 큐레이션</span>
+        </div>
+        <div class="updated" id="updated"></div>
+      </div>
+      <nav class="tabs" id="tabs"></nav>
+    </div>
+  </header>
+  <main class="container">
+    <div class="news-grid" id="news"></div>
+    <div class="loading" id="loading">뉴스를 불러오는 중...</div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p>Pebbles — 18개 글로벌 언론사의 뉴스를 한국어로 큐레이션합니다.</p>
+      <div class="sources-footer" id="sources-footer"></div>
+    </div>
+  </footer>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
