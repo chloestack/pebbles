@@ -41,14 +41,14 @@ SOURCES = [
     {"id": "scmp", "name": "South China Morning Post", "cat": "business", "lang": "en",
      "url": "https://news.google.com/rss/search?q=source:scmp.com+when:1d&hl=en-US&gl=US&ceid=US:en"},
     # Korea
-    {"id": "yonhap", "name": "연합뉴스", "cat": "korea", "lang": "ko",
-     "url": "https://www.yna.co.kr/rss/all.xml"},
+    {"id": "yonhap", "name": "연합뉴스TV", "cat": "korea", "lang": "ko",
+     "url": "https://www.yonhapnewstv.co.kr/browse/feed/"},
     {"id": "hankyung", "name": "한국경제", "cat": "korea", "lang": "ko",
      "url": "https://www.hankyung.com/feed/all-news"},
     {"id": "mk", "name": "매일경제", "cat": "korea", "lang": "ko",
      "url": "https://www.mk.co.kr/rss/30000001/"},
     {"id": "hani", "name": "한겨레신문", "cat": "korea", "lang": "ko",
-     "url": "https://www.hani.co.kr/rss/headline/"},
+     "url": "https://www.hani.co.kr/rss"},
     # Tech
     {"id": "techcrunch", "name": "TechCrunch", "cat": "tech", "lang": "en",
      "url": "https://techcrunch.com/feed/"},
