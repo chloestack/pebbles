@@ -247,14 +247,15 @@ def translate_numbered(texts: list[str], context: str = "뉴스 제목") -> list
 
 
 def summarize_batch(articles_data: list[dict]) -> list[str]:
-    """Generate 5-line Korean summaries from article title + content."""
+    """Generate 3-line Korean summaries from article title + content/description."""
     if not articles_data:
         return []
     separator = "\n===NEXT===\n"
     items = []
     for a in articles_data:
         text = f"Title: {a.get('titleOriginal') or a['title']}\n"
-        text += f"Content: {a['content'][:1500]}"
+        body = a.get('content', '') or a.get('description', '')
+        text += f"Content: {body[:1500]}"
         items.append(text)
     joined = separator.join(items)
     prompt = (
@@ -262,7 +263,7 @@ def summarize_batch(articles_data: list[dict]) -> list[str]:
         "각 기사는 ===NEXT=== 로 구분되어 있습니다. "
         "요약도 동일하게 ===NEXT=== 로 구분하여 출력하세요.\n"
         "규칙:\n"
-        "- 각 요약은 정확히 5줄 (5문장)\n"
+        "- 각 요약은 정확히 3줄 (3문장)\n"
         "- 핵심 내용을 간결하고 자연스러운 한국어 뉴스 문체로 작성\n"
         "- 설명이나 부가 텍스트 없이 요약만 출력\n\n"
         f"{joined}"
@@ -322,12 +323,11 @@ def translate_articles(articles: list[dict]):
             article["title"] = ko
         print(f"    Batch {i // batch_size + 1}: {len(batch)} titles")
 
-    # 2) Generate 5-line Korean summaries
-    print("\n  [Phase 2] Generating 5-line summaries...")
+    # 2) Generate 3-line Korean summaries for ALL English articles
+    print("\n  [Phase 2] Generating 3-line summaries...")
     summary_batch_size = 5
-    en_with_content = [a for a in en_articles if a["content"] and len(a["content"]) > 50]
-    for i in range(0, len(en_with_content), summary_batch_size):
-        batch = en_with_content[i:i + summary_batch_size]
+    for i in range(0, len(en_articles), summary_batch_size):
+        batch = en_articles[i:i + summary_batch_size]
         summaries = summarize_batch(batch)
         for article, summary in zip(batch, summaries):
             if summary:
