@@ -132,7 +132,6 @@ function renderDetail(a: Article): void {
   const color = SOURCE_COLORS[a.source] || '#666';
   const cat = CAT_LABELS[a.category] || a.category;
   const hasOriginalTitle = a.titleOriginal && a.titleOriginal !== a.title;
-  const hasOriginalDesc = a.descriptionOriginal && a.descriptionOriginal !== a.description;
   const hasContent = a.content && a.content.length > 10;
   const hasOriginalContent = a.contentOriginal && a.contentOriginal !== a.content;
   const pubDate = new Date(a.pubDate);
@@ -164,7 +163,6 @@ function renderDetail(a: Article): void {
           <section class="detail-section">
             <h2>요약</h2>
             <p>${a.description}</p>
-            ${hasOriginalDesc ? `<p class="detail-orig-text">${a.descriptionOriginal}</p>` : ''}
           </section>
         ` : ''}
 

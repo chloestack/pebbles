@@ -244,6 +244,39 @@ def translate_numbered(texts: list[str], context: str = "뉴스 제목") -> list
     return texts
 
 
+def summarize_batch(articles_data: list[dict]) -> list[str]:
+    """Generate 5-line Korean summaries from article title + content."""
+    if not articles_data:
+        return []
+    separator = "\n===NEXT===\n"
+    items = []
+    for a in articles_data:
+        text = f"Title: {a.get('titleOriginal') or a['title']}\n"
+        text += f"Content: {a['content'][:1500]}"
+        items.append(text)
+    joined = separator.join(items)
+    prompt = (
+        "다음 영어 뉴스 기사들을 각각 한국어 5줄 요약으로 작성하세요. "
+        "각 기사는 ===NEXT=== 로 구분되어 있습니다. "
+        "요약도 동일하게 ===NEXT=== 로 구분하여 출력하세요.\n"
+        "규칙:\n"
+        "- 각 요약은 정확히 5줄 (5문장)\n"
+        "- 핵심 내용을 간결하고 자연스러운 한국어 뉴스 문체로 작성\n"
+        "- 설명이나 부가 텍스트 없이 요약만 출력\n\n"
+        f"{joined}"
+    )
+    try:
+        raw = _call_claude(prompt, timeout=180)
+        parts = raw.split("===NEXT===")
+        parts = [p.strip() for p in parts if p.strip()]
+        if len(parts) == len(articles_data):
+            return parts
+        print(f"    [SUMMARY MISMATCH] expected {len(articles_data)}, got {len(parts)}")
+    except Exception as e:
+        print(f"    [SUMMARY ERROR] {e}")
+    return ["" for _ in articles_data]
+
+
 def translate_content_batch(contents: list[str]) -> list[str]:
     """Translate longer content paragraphs via Claude."""
     if not contents:
@@ -287,19 +320,17 @@ def translate_articles(articles: list[dict]):
             article["title"] = ko
         print(f"    Batch {i // batch_size + 1}: {len(batch)} titles")
 
-    # 2) Translate descriptions
-    print("\n  [Phase 2] Translating descriptions...")
-    for i in range(0, len(en_articles), batch_size):
-        batch = en_articles[i:i + batch_size]
-        descs = [a["description"] for a in batch if a["description"]]
-        batch_with_desc = [a for a in batch if a["description"]]
-        if not descs:
-            continue
-        translated = translate_numbered(descs, "뉴스 요약")
-        for article, ko in zip(batch_with_desc, translated):
-            article["descriptionOriginal"] = article["description"]
-            article["description"] = ko
-        print(f"    Batch {i // batch_size + 1}: {len(batch_with_desc)} descriptions")
+    # 2) Generate 5-line Korean summaries
+    print("\n  [Phase 2] Generating 5-line summaries...")
+    summary_batch_size = 5
+    en_with_content = [a for a in en_articles if a["content"] and len(a["content"]) > 50]
+    for i in range(0, len(en_with_content), summary_batch_size):
+        batch = en_with_content[i:i + summary_batch_size]
+        summaries = summarize_batch(batch)
+        for article, summary in zip(batch, summaries):
+            if summary:
+                article["description"] = summary
+        print(f"    Batch {i // summary_batch_size + 1}: {len(batch)} summaries")
 
     # 3) Translate content (longer text, smaller batches)
     print("\n  [Phase 3] Translating content...")
