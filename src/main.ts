@@ -97,8 +97,6 @@ function renderGrid(): void {
     const imgHtml = a.image
       ? `<div class="card-img"><img src="${a.image}" alt="" loading="lazy" onerror="this.parentElement.remove()" /></div>`
       : '';
-    const hasOriginal = a.titleOriginal && a.titleOriginal !== a.title;
-
     return `
       <div class="card" data-id="${(a as any).id}">
         ${imgHtml}
@@ -108,7 +106,6 @@ function renderGrid(): void {
             <span class="card-time">${timeAgo(a.pubDate)}</span>
           </div>
           <h3 class="card-title">${a.title}</h3>
-          ${hasOriginal ? `<p class="card-original">${a.titleOriginal}</p>` : ''}
           ${a.description ? `<p class="card-desc">${a.description}</p>` : ''}
         </div>
       </div>`;
