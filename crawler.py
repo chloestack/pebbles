@@ -25,6 +25,8 @@ SOURCES = [
      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
     {"id": "guardian", "name": "The Guardian", "cat": "world", "lang": "en",
      "url": "https://www.theguardian.com/world/rss"},
+    {"id": "thehindu", "name": "The Hindu", "cat": "world", "lang": "en",
+     "url": "https://www.thehindu.com/news/international/feeder/default.rss"},
     # Business
     {"id": "bloomberg", "name": "Bloomberg", "cat": "business", "lang": "en",
      "url": "https://news.google.com/rss/search?q=source:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en"},

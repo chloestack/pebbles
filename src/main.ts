@@ -11,7 +11,7 @@ const CATEGORIES: { id: Category; label: string }[] = [
 
 const SOURCE_COLORS: Record<string, string> = {
   reuters: '#ff8c00', ap: '#c41200', bbc: '#b80000', nyt: '#1a1a1a',
-  guardian: '#052962', bloomberg: '#472ea4', ft: '#fcd0a1', wsj: '#0274b6',
+  guardian: '#052962', thehindu: '#0b6623', bloomberg: '#472ea4', ft: '#fcd0a1', wsj: '#0274b6',
   economist: '#e3120b', nikkei: '#003d7a', scmp: '#001246',
   yonhap: '#003478', hankyung: '#003366', mk: '#003399', hani: '#00a651',
   techcrunch: '#0a9e01', verge: '#5200ff', wired: '#000000',
