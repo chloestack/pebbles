@@ -5,6 +5,9 @@ export interface Article {
   title: string;
   titleOriginal: string;
   description: string;
+  descriptionOriginal: string;
+  content: string;
+  contentOriginal: string;
   link: string;
   pubDate: string;
   image: string;
