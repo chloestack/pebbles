@@ -376,31 +376,8 @@ def main():
         "sourceCount": len(SOURCES),
     }
 
-    # Save as latest
     OUTPUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\nSaved {len(all_articles)} articles to {OUTPUT}")
-
-    # Save daily archive (news-YYYY-MM-DD.json)
-    today = datetime.now().strftime("%Y-%m-%d")
-    archive_path = DATA_DIR / f"news-{today}.json"
-    archive_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Archived to {archive_path}")
-
-    # Update dates index
-    dates_path = DATA_DIR / "dates.json"
-    existing_dates = []
-    if dates_path.exists():
-        try:
-            existing_dates = json.loads(dates_path.read_text(encoding="utf-8"))
-        except Exception:
-            pass
-    if today not in existing_dates:
-        existing_dates.append(today)
-    existing_dates.sort(reverse=True)
-    # Keep last 30 days
-    existing_dates = existing_dates[:30]
-    dates_path.write_text(json.dumps(existing_dates, ensure_ascii=False), encoding="utf-8")
-    print(f"Dates index: {len(existing_dates)} days")
 
 
 if __name__ == "__main__":

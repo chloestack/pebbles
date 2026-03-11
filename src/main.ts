@@ -25,58 +25,32 @@ let allArticles: Article[] = [];
 let currentCategory: Category = 'all';
 let currentSource: string = 'all';
 let updatedIso = '';
-let availableDates: string[] = [];
 let currentDate: string = '';
+let availableDates: string[] = [];
 
-// ── Data loading ──
-async function loadDates(): Promise<void> {
-  try {
-    const res = await fetch('/data/dates.json');
-    if (res.ok) {
-      availableDates = await res.json();
-    }
-  } catch {
-    // dates.json not yet available
-  }
+// ── Helpers ──
+function toLocalDateStr(iso: string): string {
+  const d = new Date(iso);
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
 }
 
-async function loadNews(date?: string): Promise<void> {
-  const loading = document.getElementById('loading')!;
-  loading.style.display = '';
-  loading.textContent = '뉴스를 불러오는 중...';
-  try {
-    const file = date ? `/data/news-${date}.json` : '/data/news.json';
-    const res = await fetch(file);
-    if (!res.ok) throw new Error('No data');
-    const data: NewsData = await res.json();
-    allArticles = data.articles;
-    updatedIso = data.updated;
-    currentDate = date || '';
-    renderDatePicker();
-    handleRoute();
-    loading.style.display = 'none';
-  } catch {
-    loading.textContent = date
-      ? `${date} 뉴스 데이터가 없습니다.`
-      : '뉴스 데이터를 불러올 수 없습니다. 크롤러를 먼저 실행해주세요.';
-  }
+function getTodayStr(): string {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
 }
 
-function renderDatePicker(): void {
-  const container = document.getElementById('datePicker')!;
-  if (availableDates.length === 0) {
-    container.innerHTML = '';
-    return;
+function extractAvailableDates(articles: Article[]): string[] {
+  const dateSet = new Set<string>();
+  for (const a of articles) {
+    dateSet.add(toLocalDateStr(a.pubDate));
   }
-  const today = availableDates[0] || '';
-  const selected = currentDate || today;
-  container.innerHTML = `
-    <select class="date-select" id="dateSelect">
-      ${availableDates.map(d => {
-        const label = formatDateLabel(d);
-        return `<option value="${d}"${d === selected ? ' selected' : ''}>${label}</option>`;
-      }).join('')}
-    </select>`;
+  return [...dateSet].sort().reverse();
 }
 
 function formatDateLabel(dateStr: string): string {
@@ -88,6 +62,54 @@ function formatDateLabel(dateStr: string): string {
   if (diff === 0) return `${label} (오늘)`;
   if (diff === 1) return `${label} (어제)`;
   return label;
+}
+
+function timeAgo(iso: string): string {
+  const diff = Date.now() - new Date(iso).getTime();
+  const mins = Math.floor(diff / 60000);
+  if (mins < 1) return '방금';
+  if (mins < 60) return `${mins}분 전`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `${hours}시간 전`;
+  const days = Math.floor(hours / 24);
+  return `${days}일 전`;
+}
+
+// ── Data loading ──
+async function loadNews(): Promise<void> {
+  const loading = document.getElementById('loading')!;
+  loading.style.display = '';
+  loading.textContent = '뉴스를 불러오는 중...';
+  try {
+    const res = await fetch('/data/news.json');
+    if (!res.ok) throw new Error('No data');
+    const data: NewsData = await res.json();
+    allArticles = data.articles;
+    updatedIso = data.updated;
+    availableDates = extractAvailableDates(allArticles);
+    currentDate = availableDates[0] || getTodayStr();
+    renderDatePicker();
+    handleRoute();
+    loading.style.display = 'none';
+  } catch {
+    loading.textContent = '뉴스 데이터를 불러올 수 없습니다. 크롤러를 먼저 실행해주세요.';
+  }
+}
+
+// ── Date picker ──
+function renderDatePicker(): void {
+  const container = document.getElementById('datePicker')!;
+  if (availableDates.length === 0) {
+    container.innerHTML = '';
+    return;
+  }
+  container.innerHTML = `
+    <select class="date-select" id="dateSelect">
+      ${availableDates.map(d => {
+        const label = formatDateLabel(d);
+        return `<option value="${d}"${d === currentDate ? ' selected' : ''}>${label}</option>`;
+      }).join('')}
+    </select>`;
 }
 
 // ── Routing ──
@@ -131,12 +153,15 @@ function renderTabs(): void {
 
 function renderGrid(): void {
   const container = document.getElementById('news')!;
-  let filtered = allArticles;
+
+  // Filter by pubDate
+  let filtered = allArticles.filter(a => toLocalDateStr(a.pubDate) === currentDate);
+
   if (currentCategory !== 'all') filtered = filtered.filter(a => a.category === currentCategory);
   if (currentSource !== 'all') filtered = filtered.filter(a => a.source === currentSource);
 
   if (filtered.length === 0) {
-    container.innerHTML = '<div class="empty">해당 카테고리의 뉴스가 없습니다.</div>';
+    container.innerHTML = '<div class="empty">해당 날짜의 뉴스가 없습니다.</div>';
     return;
   }
 
@@ -235,18 +260,6 @@ function renderDetail(a: Article): void {
   window.scrollTo(0, 0);
 }
 
-// ── Helpers ──
-function timeAgo(iso: string): string {
-  const diff = Date.now() - new Date(iso).getTime();
-  const mins = Math.floor(diff / 60000);
-  if (mins < 1) return '방금';
-  if (mins < 60) return `${mins}분 전`;
-  const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}시간 전`;
-  const days = Math.floor(hours / 24);
-  return `${days}일 전`;
-}
-
 // ── Event delegation ──
 document.addEventListener('click', (e) => {
   const target = e.target as HTMLElement;
@@ -292,10 +305,12 @@ document.addEventListener('click', (e) => {
 document.addEventListener('change', (e) => {
   const target = e.target as HTMLElement;
   if (target.id === 'dateSelect') {
-    const date = (target as HTMLSelectElement).value;
+    currentDate = (target as HTMLSelectElement).value;
     currentCategory = 'all';
     currentSource = 'all';
-    loadNews(date);
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('.tab[data-cat="all"]')?.classList.add('active');
+    renderGrid();
   }
 });
 
@@ -303,8 +318,4 @@ document.addEventListener('change', (e) => {
 window.addEventListener('hashchange', handleRoute);
 
 // Init
-async function init() {
-  await loadDates();
-  await loadNews();
-}
-init();
+loadNews();
