@@ -10,7 +10,8 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-OUTPUT = Path(__file__).parent / "public" / "data" / "news.json"
+DATA_DIR = Path(__file__).parent / "public" / "data"
+OUTPUT = DATA_DIR / "news.json"
 ITEMS_PER_SOURCE = 8
 
 SOURCES = [
@@ -367,14 +368,39 @@ def main():
     for idx, article in enumerate(all_articles):
         article["id"] = idx
 
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    now = datetime.now(timezone.utc)
     data = {
         "articles": all_articles,
-        "updated": datetime.now(timezone.utc).isoformat(),
+        "updated": now.isoformat(),
         "sourceCount": len(SOURCES),
     }
+
+    # Save as latest
     OUTPUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\nSaved {len(all_articles)} articles to {OUTPUT}")
+
+    # Save daily archive (news-YYYY-MM-DD.json)
+    today = datetime.now().strftime("%Y-%m-%d")
+    archive_path = DATA_DIR / f"news-{today}.json"
+    archive_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Archived to {archive_path}")
+
+    # Update dates index
+    dates_path = DATA_DIR / "dates.json"
+    existing_dates = []
+    if dates_path.exists():
+        try:
+            existing_dates = json.loads(dates_path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    if today not in existing_dates:
+        existing_dates.append(today)
+    existing_dates.sort(reverse=True)
+    # Keep last 30 days
+    existing_dates = existing_dates[:30]
+    dates_path.write_text(json.dumps(existing_dates, ensure_ascii=False), encoding="utf-8")
+    print(f"Dates index: {len(existing_dates)} days")
 
 
 if __name__ == "__main__":

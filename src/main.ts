@@ -25,21 +25,69 @@ let allArticles: Article[] = [];
 let currentCategory: Category = 'all';
 let currentSource: string = 'all';
 let updatedIso = '';
+let availableDates: string[] = [];
+let currentDate: string = '';
 
 // ── Data loading ──
-async function loadNews(): Promise<void> {
-  const loading = document.getElementById('loading')!;
+async function loadDates(): Promise<void> {
   try {
-    const res = await fetch('/data/news.json');
+    const res = await fetch('/data/dates.json');
+    if (res.ok) {
+      availableDates = await res.json();
+    }
+  } catch {
+    // dates.json not yet available
+  }
+}
+
+async function loadNews(date?: string): Promise<void> {
+  const loading = document.getElementById('loading')!;
+  loading.style.display = '';
+  loading.textContent = '뉴스를 불러오는 중...';
+  try {
+    const file = date ? `/data/news-${date}.json` : '/data/news.json';
+    const res = await fetch(file);
     if (!res.ok) throw new Error('No data');
     const data: NewsData = await res.json();
     allArticles = data.articles;
     updatedIso = data.updated;
+    currentDate = date || '';
+    renderDatePicker();
     handleRoute();
     loading.style.display = 'none';
   } catch {
-    loading.textContent = '뉴스 데이터를 불러올 수 없습니다. 크롤러를 먼저 실행해주세요.';
+    loading.textContent = date
+      ? `${date} 뉴스 데이터가 없습니다.`
+      : '뉴스 데이터를 불러올 수 없습니다. 크롤러를 먼저 실행해주세요.';
   }
+}
+
+function renderDatePicker(): void {
+  const container = document.getElementById('datePicker')!;
+  if (availableDates.length === 0) {
+    container.innerHTML = '';
+    return;
+  }
+  const today = availableDates[0] || '';
+  const selected = currentDate || today;
+  container.innerHTML = `
+    <select class="date-select" id="dateSelect">
+      ${availableDates.map(d => {
+        const label = formatDateLabel(d);
+        return `<option value="${d}"${d === selected ? ' selected' : ''}>${label}</option>`;
+      }).join('')}
+    </select>`;
+}
+
+function formatDateLabel(dateStr: string): string {
+  const d = new Date(dateStr + 'T00:00:00');
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const diff = Math.round((today.getTime() - d.getTime()) / 86400000);
+  const label = d.toLocaleDateString('ko-KR', { month: 'long', day: 'numeric', weekday: 'short' });
+  if (diff === 0) return `${label} (오늘)`;
+  if (diff === 1) return `${label} (어제)`;
+  return label;
 }
 
 // ── Routing ──
@@ -240,8 +288,23 @@ document.addEventListener('click', (e) => {
   }
 });
 
+// Date select change
+document.addEventListener('change', (e) => {
+  const target = e.target as HTMLElement;
+  if (target.id === 'dateSelect') {
+    const date = (target as HTMLSelectElement).value;
+    currentCategory = 'all';
+    currentSource = 'all';
+    loadNews(date);
+  }
+});
+
 // Hash change → route
 window.addEventListener('hashchange', handleRoute);
 
 // Init
-loadNews();
+async function init() {
+  await loadDates();
+  await loadNews();
+}
+init();
