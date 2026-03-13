@@ -46,9 +46,16 @@ function getTodayStr(): string {
 }
 
 function extractAvailableDates(articles: Article[]): string[] {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const cutoff = new Date(today);
+  cutoff.setDate(cutoff.getDate() - 3); // today + 3 days back = 4 days
+  const cutoffStr = cutoff.toISOString().slice(0, 10);
+
   const dateSet = new Set<string>();
   for (const a of articles) {
-    dateSet.add(toLocalDateStr(a.pubDate));
+    const d = toLocalDateStr(a.pubDate);
+    if (d >= cutoffStr) dateSet.add(d);
   }
   return [...dateSet].sort().reverse();
 }
