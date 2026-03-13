@@ -351,6 +351,7 @@ document.addEventListener('click', (e) => {
     e.preventDefault();
     location.hash = '';
     handleRoute();
+    window.scrollTo(0, 0);
     return;
   }
 });
