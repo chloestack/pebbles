@@ -56,6 +56,8 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .logo-icon { font-size: 28px; }
