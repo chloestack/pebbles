@@ -10,6 +10,8 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+from clustering import cluster_articles
+
 DATA_DIR = Path(__file__).parent / "public" / "data"
 OUTPUT = DATA_DIR / "news.json"
 ITEMS_PER_SOURCE = 8
@@ -306,6 +308,39 @@ def translate_content_batch(contents: list[str]) -> list[str]:
     return contents
 
 
+def extract_entities_batch(articles_data: list[dict]) -> list[str]:
+    """Extract key entities from each article via Claude."""
+    if not articles_data:
+        return []
+    separator = "\n===NEXT===\n"
+    items = []
+    for a in articles_data:
+        title = a.get("title", "")
+        body = a.get("description", "") or a.get("content", "")
+        items.append(f"Title: {title}\nContent: {body[:500]}")
+    joined = separator.join(items)
+    prompt = (
+        "다음 뉴스 기사들에서 핵심 개체(entities)를 추출하세요. "
+        "각 기사는 ===NEXT=== 로 구분되어 있습니다. "
+        "결과도 동일하게 ===NEXT=== 로 구분하여 출력하세요.\n"
+        "규칙:\n"
+        "- 인물명, 국가명, 기관명, 지명, 사건명 등 고유명사 위주\n"
+        "- 각 기사당 3~7개, 쉼표로 구분\n"
+        "- 설명 없이 개체명만 출력\n\n"
+        f"{joined}"
+    )
+    try:
+        raw = _call_claude(prompt, timeout=180)
+        parts = raw.split("===NEXT===")
+        parts = [p.strip() for p in parts if p.strip()]
+        if len(parts) == len(articles_data):
+            return parts
+        print(f"    [ENTITY MISMATCH] expected {len(articles_data)}, got {len(parts)}")
+    except Exception as e:
+        print(f"    [ENTITY ERROR] {e}")
+    return ["" for _ in articles_data]
+
+
 def translate_articles(articles: list[dict]):
     """Translate titles, descriptions, and content for all English articles."""
     en_articles = [a for a in articles if a["source"] not in KO_SOURCES]
@@ -335,8 +370,19 @@ def translate_articles(articles: list[dict]):
                 article["description"] = summary
         print(f"    Batch {i // summary_batch_size + 1}: {len(batch)} summaries")
 
-    # 3) Translate content (longer text, smaller batches)
-    print("\n  [Phase 3] Translating content...")
+    # 3) Extract key entities for all articles (EN + KO)
+    print("\n  [Phase 3] Extracting key entities...")
+    all_for_entities = articles  # both EN and KO
+    entity_batch_size = 10
+    for i in range(0, len(all_for_entities), entity_batch_size):
+        batch = all_for_entities[i:i + entity_batch_size]
+        entities = extract_entities_batch(batch)
+        for article, ents in zip(batch, entities):
+            article["entities"] = ents
+        print(f"    Batch {i // entity_batch_size + 1}: {len(batch)} articles")
+
+    # 4) Translate content (longer text, smaller batches)
+    print("\n  [Phase 4] Translating content...")
     content_batch_size = 5
     en_with_content = [a for a in en_articles if a["content"] and len(a["content"]) > 50]
     for i in range(0, len(en_with_content), content_batch_size):
@@ -362,6 +408,9 @@ def main():
     print(f"\nTotal articles fetched: {len(all_articles)}")
 
     translate_articles(all_articles)
+
+    # Cluster similar articles across sources
+    cluster_articles(all_articles)
 
     # Sort by date (newest first), assign IDs
     all_articles.sort(key=lambda a: a["pubDate"], reverse=True)

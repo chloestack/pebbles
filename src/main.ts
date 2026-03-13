@@ -193,6 +193,31 @@ function renderSourcesFooter(): void {
   ).join('');
 }
 
+// ── Related articles ──
+function renderRelatedArticles(a: Article): string {
+  const clusterId = (a as any).clusterId as number | undefined;
+  if (clusterId === undefined) return '';
+  const related = allArticles.filter(
+    r => (r as any).clusterId === clusterId && (r as any).id !== (a as any).id
+  );
+  if (related.length === 0) return '';
+  return `
+    <section class="detail-section detail-related">
+      <h2>관련 기사 (${related.length}건)</h2>
+      <ul class="related-list">
+        ${related.map(r => {
+          const color = SOURCE_COLORS[r.source] || '#666';
+          return `
+            <li class="related-item" data-id="${(r as any).id}">
+              <span class="source-tag" style="background:${color}">${r.sourceName}</span>
+              <span class="related-title">${r.title}</span>
+              <span class="card-time">${timeAgo(r.pubDate)}</span>
+            </li>`;
+        }).join('')}
+      </ul>
+    </section>`;
+}
+
 // ── Detail view ──
 function renderDetail(a: Article): void {
   document.getElementById('tabs')!.style.display = 'none';
@@ -250,6 +275,8 @@ function renderDetail(a: Article): void {
         ` : ''}
       </div>
 
+      ${renderRelatedArticles(a)}
+
       <div class="detail-actions">
         <a href="${a.link}" target="_blank" rel="noopener" class="detail-link">
           ${a.sourceName} 원문 기사 보기 →
@@ -291,6 +318,13 @@ document.addEventListener('click', (e) => {
   const card = target.closest('.card') as HTMLElement | null;
   if (card && card.dataset.id !== undefined) {
     location.hash = `article-${card.dataset.id}`;
+    return;
+  }
+
+  // Related article click
+  const relItem = target.closest('.related-item') as HTMLElement | null;
+  if (relItem && relItem.dataset.id !== undefined) {
+    location.hash = `article-${relItem.dataset.id}`;
     return;
   }
 

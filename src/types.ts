@@ -11,6 +11,8 @@ export interface Article {
   link: string;
   pubDate: string;
   image: string;
+  entities: string;
+  clusterId: number;
 }
 
 export interface NewsData {
