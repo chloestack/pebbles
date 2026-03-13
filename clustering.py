@@ -85,9 +85,6 @@ def cluster_articles(articles: list[dict], threshold: float = 0.70):
     for ii in range(len(recent_indices)):
         for jj in range(ii + 1, len(recent_indices)):
             i, j = recent_indices[ii], recent_indices[jj]
-            # Only compare within the same category
-            if articles[i].get("category") != articles[j].get("category"):
-                continue
             # Skip same source
             if articles[i]["source"] == articles[j]["source"]:
                 continue

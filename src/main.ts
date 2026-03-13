@@ -196,16 +196,27 @@ function renderSourcesFooter(): void {
 // ── Related articles ──
 function renderRelatedArticles(a: Article): string {
   const clusterId = (a as any).clusterId as number | undefined;
-  if (clusterId === undefined) return '';
-  const related = allArticles.filter(
-    r => (r as any).clusterId === clusterId && (r as any).id !== (a as any).id
-  );
-  if (related.length === 0) return '';
+  const clustered = clusterId !== undefined
+    ? allArticles.filter(r => (r as any).clusterId === clusterId && (r as any).id !== (a as any).id)
+    : [];
+
+  const isClustered = clustered.length > 0;
+
+  // Fallback: same category articles (exclude self, limit 5)
+  const fallback = isClustered ? [] : allArticles
+    .filter(r => r.category === a.category && (r as any).id !== (a as any).id)
+    .slice(0, 5);
+
+  const items = isClustered ? clustered : fallback;
+  if (items.length === 0) return '';
+
+  const label = isClustered ? `관련 기사 (${items.length}건)` : `${CAT_LABELS[a.category] || a.category} 카테고리 기사`;
+
   return `
     <section class="detail-section detail-related">
-      <h2>관련 기사 (${related.length}건)</h2>
+      <h2>${label}</h2>
       <ul class="related-list">
-        ${related.map(r => {
+        ${items.map(r => {
           const color = SOURCE_COLORS[r.source] || '#666';
           return `
             <li class="related-item" data-id="${(r as any).id}">
