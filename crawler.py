@@ -6,7 +6,7 @@ import subprocess
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -395,21 +395,63 @@ def translate_articles(articles: list[dict]):
         print(f"    Batch {i // content_batch_size + 1}: {len(batch)} articles")
 
 
+KEEP_DAYS = 4
+
+
+def load_existing_articles() -> list[dict]:
+    """Load previously saved articles from news.json."""
+    if not OUTPUT.exists():
+        return []
+    try:
+        data = json.loads(OUTPUT.read_text(encoding="utf-8"))
+        return data.get("articles", [])
+    except Exception as e:
+        print(f"  [WARN] Failed to load existing data: {e}")
+        return []
+
+
+def merge_articles(existing: list[dict], new: list[dict]) -> list[dict]:
+    """Merge new articles into existing, deduplicate by link, drop older than KEEP_DAYS."""
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).isoformat()
+
+    # Index existing by link for dedup
+    by_link: dict[str, dict] = {}
+    for a in existing:
+        if a.get("link"):
+            by_link[a["link"]] = a
+
+    # New articles override existing (fresher translation/data)
+    for a in new:
+        if a.get("link"):
+            by_link[a["link"]] = a
+
+    # Filter out articles older than cutoff
+    merged = [a for a in by_link.values() if a.get("pubDate", "") >= cutoff]
+    print(f"  Merge: {len(existing)} existing + {len(new)} new → {len(merged)} after dedup & {KEEP_DAYS}-day cutoff")
+    return merged
+
+
 def main():
     print("=== Pebbles News Crawler ===")
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Sources: {len(SOURCES)}\n")
 
-    all_articles = []
+    # Fetch new articles
+    new_articles = []
     for source in SOURCES:
         articles = parse_feed(source)
-        all_articles.extend(articles)
+        new_articles.extend(articles)
 
-    print(f"\nTotal articles fetched: {len(all_articles)}")
+    print(f"\nTotal articles fetched: {len(new_articles)}")
 
-    translate_articles(all_articles)
+    # Translate only new articles
+    translate_articles(new_articles)
 
-    # Cluster similar articles across sources
+    # Merge with existing data
+    existing = load_existing_articles()
+    all_articles = merge_articles(existing, new_articles)
+
+    # Re-cluster across all articles
     cluster_articles(all_articles)
 
     # Sort by date (newest first), assign IDs
