@@ -344,6 +344,15 @@ document.addEventListener('click', (e) => {
     location.hash = '';
     return;
   }
+
+  // Logo click → home
+  const logo = target.closest('.logo') as HTMLElement | null;
+  if (logo) {
+    e.preventDefault();
+    location.hash = '';
+    handleRoute();
+    return;
+  }
 });
 
 // Date select change
