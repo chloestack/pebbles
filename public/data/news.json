@@ -1,6 +1,465 @@
 {
   "articles": [
     {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "도시락 배달·통계조사·폐의약품 회수…집배원 역할, 우편에서 공공서비스로",
+      "titleOriginal": "",
+      "description": "상반기 복지우편으로 29만2000가구 방문 11만 가구 복지 연계우체국 집배원이 우편 배달에 그치지 않고 복지·행정·환경 서비스까지 수행하는 ‘국가행정의 라스트마일’로 진화하고 있..",
+      "descriptionOriginal": "",
+      "content": "상반기 복지우편으로 29만2000가구 방문 11만 가구 복지 연계우체국 집배원이 우편 배달에 그치지 않고 복지·행정·환경 서비스까지 수행하는 ‘국가행정의 라스트마일’로 진화하고 있..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/it/12095590",
+      "pubDate": "2026-07-12T12:00:00",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.899837c836bc46daba92e33f7dbde9a3_R.png",
+      "entities": "",
+      "clusterId": 112,
+      "id": 0
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "살다 살다 잔디도 뜯어다 판다…FIFA '돈벌이' 논란",
+      "titleOriginal": "",
+      "description": "지나친 상업화 비판을 받아온 북중미 월드컵에서 결승전 경기장의 '잔디 조각'까지 공식 상품으로 출시됐습니다. FIFA 스토어에 올라온 이 상품은 결승전이 열리는 뉴저지 스타디움의 천연잔디 조각을 아크릴 케이스에 담은 것으로, 가격은 우리돈으로 약 67만 원에 달합니다. 외신들은 FIFA가 이 잔디 판매로만 우리 돈 165억 원의 수익을 올릴 것으로 전망한 가운데, 축구팬들 사이에서는 과도한 상업주의라는 지적이 나오고 있습니다. 연합뉴스TV...",
+      "descriptionOriginal": "",
+      "content": "지나친 상업화 비판을 받아온 북중미 월드컵에서 결승전 경기장의 '잔디 조각'까지 공식 상품으로 출시됐습니다. FIFA 스토어에 올라온 이 상품은 결승전이 열리는 뉴저지 스타디움의 천연잔디 조각을 아크릴 케이스에 담은 것으로, 가격은 우리돈으로 약 67만 원에 달합니다. 외신들은 FIFA가 이 잔디 판매로만 우리 돈 165억 원의 수익을 올릴 것으로 전망한 가운데, 축구팬들 사이에서는 과도한 상업주의라는 지적이 나오고 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114512oR6",
+      "pubDate": "2026-07-12T11:45:15+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114512oR6.jpg",
+      "entities": "",
+      "clusterId": 100,
+      "id": 1
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "문어철 맞은 삼천포 '들썩'…지역 상권도 활기",
+      "titleOriginal": "",
+      "description": "[앵커] 최근 문어 금어기가 해제되면서 경남 사천 삼천포 앞바다가 낚시객들로 북적이고 있습니다. 전국에서 낚시객이 몰리며 지역 상권에도 모처럼 특수가 기대되고 있습니다. 하준 기자입니다. [기자] 이른 아침부터 낚싯배들이 앞다퉈 바다로 향합니다. 낚싯줄을 걷어 올리자 큼지막한 문어가 모습을 드러내고, 배 위에선 연신 웃음꽃이 피어납니다. &lt;낚시객&gt; \"기분 최고다!\" 문어 금어기가 풀리면서 전국의 낚시객들이 경남 사천 삼천포 앞바...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 최근 문어 금어기가 해제되면서 경남 사천 삼천포 앞바다가 낚시객들로 북적이고 있습니다. 전국에서 낚시객이 몰리며 지역 상권에도 모처럼 특수가 기대되고 있습니다. 하준 기자입니다. [기자] 이른 아침부터 낚싯배들이 앞다퉈 바다로 향합니다. 낚싯줄을 걷어 올리자 큼지막한 문어가 모습을 드러내고, 배 위에선 연신 웃음꽃이 피어납니다. &lt;낚시객&gt; \"기분 최고다!\" 문어 금어기가 풀리면서 전국의 낚시객들이 경남 사천 삼천포 앞바다를 찾고 있습니다. 조류가 빠르고 문어 자원이 풍부한 삼천포는 여름철 대표 문어 낚시 명소로, 예약이 빠르게 마감될 정도로 출조 열기가 뜨겁습니다. &lt;신정수 / 대구시&gt; \"문어가 씨알도 되게 크고 평소에 비해서 엄청나게 크고 마릿수도 작년에 비해서 더 많이 잡고 하여튼 지금 좋습니다.\" 금어기 해제 첫날에 출항한 낚싯배만 600여 척. 배들이 한꺼번에 몰리면서 해경은 주요 해역을 중심으로 순찰을 강화하고 안전수칙 안내도 이어가고 있습니다. &lt;해경 구조정&gt; \"천천히 항해하세요. 천천히. 너무 가깝습니다. 간격 지켜주세요.\" 문어철을 맞아 수산시장과 식당도 손님맞이로 분주합니다. &lt;진남선 / 수산시장 상인&gt; \"바다(파도)가 세서 문어들이 살아남으려면 막 움직여야 되잖아. 그러니까 쫀득쫀득하고 길게 삶으면 부드럽고 맛있어요. \" 9월까지 이어지는 문어철, 삼천포 앞바다를 찾는 낚시객이 늘면서 지역 상권에도 모처럼 활기가 돌고 있습니다. 연합뉴스TV 하준입니다. [화면제공 사천해경] [영상편집 김완기] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 하준(hajun@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114500llL",
+      "pubDate": "2026-07-12T11:45:03+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114500llL.jpg",
+      "entities": "",
+      "clusterId": 101,
+      "id": 2
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "서소문 건널목, 11일부터 차량 통행 재개",
+      "titleOriginal": "",
+      "description": "지난 5월 붕괴 사고가 발생했던 서소문 고가차도의 철거 작업이 완료됨에 따라 어제(11일)부터 건널목 차량 통행이 재개됐습니다. 국토교통부는 지난 10일 오후 6시부로 서소문 고가차도 붕괴 사고 관련 중앙사고수습본부를 해제한다며 이같이 밝혔습니다. 국토부는 중수본 해제 이후에도 건널목 통행 안전 관리를 위해 건널목 관리원 4명을 상시 배치하고, 인공지능 CCTV를 설치할 계획입니다. 국토부는 또 서소문 붕괴 사고의 근본적 원인을 규명하고,...",
+      "descriptionOriginal": "",
+      "content": "지난 5월 붕괴 사고가 발생했던 서소문 고가차도의 철거 작업이 완료됨에 따라 어제(11일)부터 건널목 차량 통행이 재개됐습니다. 국토교통부는 지난 10일 오후 6시부로 서소문 고가차도 붕괴 사고 관련 중앙사고수습본부를 해제한다며 이같이 밝혔습니다. 국토부는 중수본 해제 이후에도 건널목 통행 안전 관리를 위해 건널목 관리원 4명을 상시 배치하고, 인공지능 CCTV를 설치할 계획입니다. 국토부는 또 서소문 붕괴 사고의 근본적 원인을 규명하고, 유사사고 재발방지 대책을 올해 하반기 중 마련하기로 했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 정다미(smjung@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114431ntk",
+      "pubDate": "2026-07-12T11:44:32+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114431ntk.jpg",
+      "entities": "",
+      "clusterId": 102,
+      "id": 3
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "'쫀득한 여름'…괴산 대학찰옥수수 첫 출하",
+      "titleOriginal": "",
+      "description": "[ 앵커 ] 여름철 대표 간식 하면 떠오르는 것, 바로 옥수수죠. 그 중 유명한 괴산 대학찰옥수수가 올해 첫 수확과 함께 본격 출하를 시작했습니다. 쫀득한 식감과 높은 당도로 유명한 괴산 대학찰옥수수가 전국 소비자들 입맛을 사로잡을 준비를 하고 있습니다. 최다훈 기자입니다. [ 기자 ] 옥수수가 빼곡히 열린 충북 괴산군의 한 밭. 농민들이 이른 아침부터 옥수수를 수확합니다. 손질을 거쳐 김이 모락모락 피어오르는 솥에서 삶으니, 금새 먹음직...",
+      "descriptionOriginal": "",
+      "content": "[ 앵커 ] 여름철 대표 간식 하면 떠오르는 것, 바로 옥수수죠. 그 중 유명한 괴산 대학찰옥수수가 올해 첫 수확과 함께 본격 출하를 시작했습니다. 쫀득한 식감과 높은 당도로 유명한 괴산 대학찰옥수수가 전국 소비자들 입맛을 사로잡을 준비를 하고 있습니다. 최다훈 기자입니다. [ 기자 ] 옥수수가 빼곡히 열린 충북 괴산군의 한 밭. 농민들이 이른 아침부터 옥수수를 수확합니다. 손질을 거쳐 김이 모락모락 피어오르는 솥에서 삶으니, 금새 먹음직스러운 간식거리로 변신합니다. 올해 첫 출하를 시작한 괴산 대학찰옥수수가 소비자들에게 첫선을 보였습니다. 옥수수를 맛보려는 소비자들이 몰리며 인기 만점입니다. &lt;장현경 / 청주시 방서동&gt; \"아이들이 다 괴산 대학찰옥수수를 좋아해서 1년을 기다렸다가 첫 출하할 때 항상 사 먹습니다. \" 최봉호 전 충남대 교수가 품종을 개발해 대학찰옥수수라는 이름이 붙었는데, 일반 옥수수보다 당도가 높고 식감이 좋은 것으로 유명합니다. 지역 대표 특산품으로 자리매김한 옥수수를 정책적으로 육성하려는 움직임도 이어져, 올해는 1,400여 농가가 재배해 400억여 원의 농가 소득을 올릴 것으로 기대하고 있습니다. &lt;송인헌 / 괴산군수&gt; \"괴산에서 제일 유명한 게 대학찰옥수수, 고추, 절임배추인데 그 세 종목이 합하면 우리 괴산군 농가 소득의 절반 이상을 차지합니다.\" 봄철 가뭄과 농자재 가격 상승으로 어려움도 있었지만, 농가들은 브랜드를 지키기 위한 노력을 이어가고 있습니다. &lt;엄재학 / 장연 대학찰옥수수 총무&gt; \"좋은 품질의 농산물을 수확하고 정말 맛있는 옥수수 수확하기 위해서 최선을 다해서…\" 괴산 대학찰옥수수 출하는 오는 9월까지 이어집니다. 연합뉴스TV 최다훈입니다. [영상취재 이용준] [영상편집 심지미] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최다훈(hoon@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114412EnC",
+      "pubDate": "2026-07-12T11:44:14+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114412EnC.jpg",
+      "entities": "",
+      "clusterId": 103,
+      "id": 4
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "\"골칫거리 갈대\"…영양 풍부 사료로 재탄생",
+      "titleOriginal": "",
+      "description": "[앵커] 방치된 상태에선 골칫거리 였던 하천 인근 갈대가 사료로 변신했습니다. 사료비 급등으로 어려운 축산농가를 돕고 하천 환경도 개선하는 일거양득의 효과가 기대됩니다. 엄승현 기자입니다. [기자] 끝없이 펼쳐진 새만금 간척지 갈대밭. 농기계가 쉴 새 없이 움직이며 갈대를 잘라냅니다. 그동안 마땅한 활용처를 찾지 못해 관리가 안된 채 방치된 갈대들은 미관에도 좋지 않고, 악취를 풍기기도 했습니다. 최근 이렇게 버려져 있던 갈대들을 사료로 ...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 방치된 상태에선 골칫거리 였던 하천 인근 갈대가 사료로 변신했습니다. 사료비 급등으로 어려운 축산농가를 돕고 하천 환경도 개선하는 일거양득의 효과가 기대됩니다. 엄승현 기자입니다. [기자] 끝없이 펼쳐진 새만금 간척지 갈대밭. 농기계가 쉴 새 없이 움직이며 갈대를 잘라냅니다. 그동안 마땅한 활용처를 찾지 못해 관리가 안된 채 방치된 갈대들은 미관에도 좋지 않고, 악취를 풍기기도 했습니다. 최근 이렇게 버려져 있던 갈대들을 사료로 재탄생하는 기술이 개발됐습니다. 수확한 갈대를 기계에 넣자, 소들이 소화하기 좋고 부드러운 발효 사료로 변신합니다. &lt;전홍윤/(주)엔텍바이오에스 총괄&gt; \"갈대는 딱딱하고 거친 재질로 되어 있기 때문에 이를 연질화 기술을 이용해서 부드럽게 만들게 되면 소의 소화율을 35% 이상 향상…\" 농촌진흥청이 분석한 결과, 갈대는 조단백질 함량이 11%로 볏짚보다 2배 이상 높고, 영양소 총량도 월등해 사료적 가치가 매우 높은 것으로 나타났습니다. &lt;홍석준/축산농가&gt; \"갈대 사료를 이제 먹인 뒤로부터 육성기 소들은 크는 속도가 많이 커졌고 이제 살찌우는 비육소들은 체중량이라든가…\" 특히 갈대를 사료로 활용할 경우 우리나라 수입 '조사료'의 약 10%를 대체할 수 있어 500억 원의 수입 비용을 줄일 수 있을 것으로 기대됩니다. 한국농업기술진흥원은 갈대 사료 사업을 확장하기 위해 규제 완화에 노력할 계획입니다. &lt;이석형/한국농업기술진흥원장&gt; \"환경부를 설득하고 또 농림부하고 업무협의를 해서 추진한다고 한다면 원만하게 저는 해결될 거라고 봅니다.\" 방치되고 버려지던 갈대가 새로운 기술력 덕분에 지속 가능한 축산 기반을 만들어가는 데 일조하고 있습니다. 연합뉴스TV 엄승현입니다. [영상취재 정경환] #한국농업기술진흥원 #갈대 #조사료 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 엄승현(esh@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114344dhG",
+      "pubDate": "2026-07-12T11:43:47+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114344dhG.jpg",
+      "entities": "",
+      "clusterId": 104,
+      "id": 5
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "'에어컨 불모지' 유럽이 달라졌다…삼성·LG도 공략",
+      "titleOriginal": "",
+      "description": "[앵커] 올여름 최악의 폭염 때문에 유럽에서 에어컨 수요가 폭발적으로 늘었습니다. 국내 가전기업의 유럽 시장 판매량도 반짝 성장세를 보였는데요. 현지 맞춤형 전략을 고심하고 있습니다. 구하림 기자입니다. [기자] 지난달 프랑스 파리의 한 가전매장. 펄펄 끓는 폭염을 이겨낼 냉방 제품을 찾는 사람들로 북적입니다. 최고기온 40도를 웃도는 무더위에, 지난달 유럽에서 삼성전자와 LG전자의 에어컨 판매량은 지난해 같은 달보다 두 자릿 수 넘게 증...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 올여름 최악의 폭염 때문에 유럽에서 에어컨 수요가 폭발적으로 늘었습니다. 국내 가전기업의 유럽 시장 판매량도 반짝 성장세를 보였는데요. 현지 맞춤형 전략을 고심하고 있습니다. 구하림 기자입니다. [기자] 지난달 프랑스 파리의 한 가전매장. 펄펄 끓는 폭염을 이겨낼 냉방 제품을 찾는 사람들로 북적입니다. 최고기온 40도를 웃도는 무더위에, 지난달 유럽에서 삼성전자와 LG전자의 에어컨 판매량은 지난해 같은 달보다 두 자릿 수 넘게 증가했습니다. 주로 가정에서 손쉽게 사용할 수 있는 이동식 에어컨이 인기를 끌었습니다. &lt;정서빈 / LG전자 직원&gt; \"남유럽과 서유럽을 중심으로 유럽 가정용 (에어컨) 매출이 지난해보다 두 자릿수 성장했습니다.\" 실외기 설치가 어려운 유럽 건물의 특성을 반영한 고효율 에어컨도 뚜렷한 성장세를 보였습니다. 각종 건설 규제와 환경보호 기조 영향으로 유럽의 에어컨 보급률은 낮은 수준이었는데, 최근에는 분위기가 달라졌습니다. &lt;김인동/삼성전자 DA사업부 그룹장&gt; \"유럽에서 기후 변화가 일상화되면서 냉방 기기 필요성에 대한 인식이 꾸준히 증가한 결과로 보고 있습니다. 이탈리아, 스페인, 프랑스 등 주요 국가를 중심으로 높은 성장세를 보이고 있습니다.\" 다만 저렴한 가격을 내세운 중국 브랜드의 시장 점유율이 아직 크다는 게 업계 분석입니다. 삼성전자 관계자는 이번 폭염을 계기로 유럽 시장의 잠재력을 확인한 만큼, 고품질·현지화 전략이 필요한 상황이라고 설명했습니다. 무엇보다 건물 외관 보호에 대한 규제가 여전히 적용되고 있어, 단일 실외기로 실내기 여러 개를 연결할 수 있는 제품이나, 대용량 시스템 에어컨 위주로 시장 공략에 속도를 내고 있습니다. 유럽에서도 생존 필수품이 되고 있는 에어컨. 국내외 가전업계의 경쟁은 더 치열해질 전망입니다. 연합뉴스TV 구하림입니다. [영상편집 송아해] [그래픽 임혜빈] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 구하림(halimkoo@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114224Atg",
+      "pubDate": "2026-07-12T11:42:25+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114224Atg.jpg",
+      "entities": "",
+      "clusterId": 105,
+      "id": 6
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "이란·오만, 호르무즈 회담…\"오만, 남북 2개 항로 제안\"",
+      "titleOriginal": "",
+      "description": "호르무즈 해협 통제권을 둘러싸고 미국과 이란 간 무력 충돌이 벌어진 가운데, 이란과 오만이 외무장관 회담을 열고 해협 안전 통항 보장 방안에 대해 의견을 교환했습니다. 아바스 아라그치 이란 외무장관 측은 현지시간 11일 텔레그램 채널을 통해 \"사이드 바드르 알부사이디 오만 외무장관과 이슬라마바드 양해각서 제5조에 따라 호르무즈 해협을 지나는 선박들의 안전한 통항을 보장하기 위한 적절한 메커니즘에 대해 의견을 교환했다\"고 말했습니다. CNN...",
+      "descriptionOriginal": "",
+      "content": "호르무즈 해협 통제권을 둘러싸고 미국과 이란 간 무력 충돌이 벌어진 가운데, 이란과 오만이 외무장관 회담을 열고 해협 안전 통항 보장 방안에 대해 의견을 교환했습니다. 아바스 아라그치 이란 외무장관 측은 현지시간 11일 텔레그램 채널을 통해 \"사이드 바드르 알부사이디 오만 외무장관과 이슬라마바드 양해각서 제5조에 따라 호르무즈 해협을 지나는 선박들의 안전한 통항을 보장하기 위한 적절한 메커니즘에 대해 의견을 교환했다\"고 말했습니다. CNN 방송은 정통한 소식통을 인용해 \"오만 측이 호르무즈 해협의 선박 통항을 2개의 분리된 경로로 관리하는 내용의 제안서를 마련했다\"고 보도하기도 했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 안채원(chae1@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260712114141o10",
+      "pubDate": "2026-07-12T11:41:43+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114141o10.jpg",
+      "entities": "",
+      "clusterId": 106,
+      "id": 7
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "민주 당권주자들 한 자리…오늘 '전대룰' 재논의",
+      "titleOriginal": "",
+      "description": "[앵커] 주말에도 숨 가쁜 행보를 이어가고 있는 민주당 당권주자들은 오늘 오후 국회에서 처음으로 한자리에 모입니다. 일제히 당권 후보로서 정견 발표에 나서는데요. 자세한 소식 국회 연결해 알아봅니다. 이채연 기자! [기자] 네, 오늘 오후 민주당 당권주자들이 국회에서 처음으로 마주합니다. 김민석, 정청래, 송영길, 고민정, 김보미 등 모두 5명의 당권 주자들이 오후 4시부터 열리는 전국자치분권민주지도자회의에서 정견발표에 나서는데요. 소속 ...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 주말에도 숨 가쁜 행보를 이어가고 있는 민주당 당권주자들은 오늘 오후 국회에서 처음으로 한자리에 모입니다. 일제히 당권 후보로서 정견 발표에 나서는데요. 자세한 소식 국회 연결해 알아봅니다. 이채연 기자! [기자] 네, 오늘 오후 민주당 당권주자들이 국회에서 처음으로 마주합니다. 김민석, 정청래, 송영길, 고민정, 김보미 등 모두 5명의 당권 주자들이 오후 4시부터 열리는 전국자치분권민주지도자회의에서 정견발표에 나서는데요. 소속 자치단체장과 지방의원들이 모인 자리에서, 저마다 자치분권 정책과 당 운영 비전을 내며 표심 잡기에 나설 걸로 보입니다. 이에 앞서 개별 행보도 이어가는데요. 김 전 총리는 국회에서 '유튜버 백문백답' 형식의 당원 간담회를 열고 제한 없는 자유토론에 나서고요. 송 의원은 오늘은 경기 북부 지역 당원들과 타운홀 미팅으로 머리를 맞댑니다. 이번 주 초 등판이 유력한 정 전 대표도 주말 동안 충청 등 각지를 돌며 당원 민심 공략 행보를 이어가고 있습니다. 최고위원 출마 선언도 계속되고 있는데, 오늘은 친명계인 박성준 의원이 출사표를 던졌습니다. 당대표 선거 룰, 후보 1~3순위를 동시에 기입하는 '선호투표제' 도입을 둘러싼 공전은 거듭되고 있는데요. 민주당은 오늘 저녁 6시 비공개 최고위에서 재차 논의에 나섭니다. 이번 주 목요일로 정식 후보 등록이 코앞으로 다가오고 있는 만큼, 투표 방식 최종 결정을 시도하는데 결과가 분수령이 될 걸로 보입니다. 당헌·당규 위반이냐를 두고 친청계에선 맞다, 친석계에선 아니다 입장이 갈리는 가운데 갈등이 쉽사리 봉합될 수 있을지 주목됩니다. [앵커] 국민의힘 장동혁 대표는 투표용지 사태를 앞세워 주말에도 장외 행보 보폭을 넓히고 있죠? [기자] 네, 장동혁 대표는 오늘 오후 부산에서 '참정권 박탈 사태' 관련 청년·대학생 간담회에 참석할 예정입니다. 간담회에는 당 지도부를 비롯해 부산 지역 현역 의원들도 일부 참석할 것으로 전해졌는데요. 이후 부산 서면에서 열리는 '참정권 수호' 집회 현장을 찾아 야당 추천 선관위 특검 수용 등을 촉구할 예정입니다. 광주, 대구·경북도 방문해 재선거 요구를 이어갈 계획인데, 지난 8일 인천을 시작으로 전국 순회 일정을 소화하며 강성 지지층 결집에 나선 모습입니다. 이런 장 대표 행보에 투톱 정점식 원내대표 등 원내지도부는 거리를 유지하며 원 구성 협상 출구 전략을 고심 중인데요. 조정식 국회의장이 오는 17일을 원 구성 데드라인으로 못 박은 가운데, 내부에선 야당 몫 7개 상임위장직을 받아들이고 여당 입법에 제동을 걸어야 한단 현실론도 나오고 있습니다. 정 원내대표는 이와 관련해 내일 오전 중진 의원들과 회의에 이어, 오후엔 의총을 열고 의견 수렴에 나설 계획입니다. 지금까지 국회에서 전해드렸습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이채연(touche@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607121140317jh",
+      "pubDate": "2026-07-12T11:40:34+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607121140317jh.jpg",
+      "entities": "",
+      "clusterId": 107,
+      "id": 8
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“우리집 줄 테니 주식하고 바꿔요”…상장도 전에 ‘품귀현상’ 난리난 AI주식",
+      "titleOriginal": "",
+      "description": "인공지능(AI) 모델 클로드 개발사 앤트로픽의 기업가치가 장외시장에서는 이미 1조 달러를 훌쩍 넘어섰다. 11일(현지시간) 비즈니스 인사이더에 따르면 앤트로픽은 장외시장 플랫폼 ‘..",
+      "descriptionOriginal": "",
+      "content": "인공지능(AI) 모델 클로드 개발사 앤트로픽의 기업가치가 장외시장에서는 이미 1조 달러를 훌쩍 넘어섰다. 11일(현지시간) 비즈니스 인사이더에 따르면 앤트로픽은 장외시장 플랫폼 ‘..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/stock/12096329",
+      "pubDate": "2026-07-12T11:32:21",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.33f801f803914b5486c09a94c9d7fa96_R.png",
+      "entities": "",
+      "clusterId": 113,
+      "id": 9
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "머스크 “스페이스X, 지구 전체보다 가치 커질것”…주주들은 속 탄다",
+      "titleOriginal": "",
+      "description": "“10년내 수만 명 달·화성에 보내겠다” 주가 부진한 와중에 머스크 발언 눈총 모건 75·씨티 900달러 월가도 엇갈려 우주ETF에 물린 韓개미들 5천억 매도일론 머스크 스페이스X..",
+      "descriptionOriginal": "",
+      "content": "“10년내 수만 명 달·화성에 보내겠다” 주가 부진한 와중에 머스크 발언 눈총 모건 75·씨티 900달러 월가도 엇갈려 우주ETF에 물린 韓개미들 5천억 매도일론 머스크 스페이스X..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/it/12096328",
+      "pubDate": "2026-07-12T11:32:08",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/rcv.YNA.20260630.PRU20260630488201009_R.jpg",
+      "entities": "",
+      "clusterId": 114,
+      "id": 10
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"한강에 피카츄 떴다\"…주말 반포에 사람들 몰린 이유",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607129831i",
+      "pubDate": "2026-07-12T11:26:18+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 19,
+      "id": 11
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“카메라 케이블 맞고 굴절?”…월드컵 8강전 잉글랜드 동점골 오심 논란",
+      "titleOriginal": "",
+      "description": "‘축구 종가’ 잉글랜드가 월드컵 8강전에서 ‘바이킹 군단’ 노르웨이에 역전승을 거뒀으나, 예상치 못한 논란이 나왔다. 잉글랜드는 12일(한국시간) 미국 플로리다주 마이애미 가든스의..",
+      "descriptionOriginal": "",
+      "content": "‘축구 종가’ 잉글랜드가 월드컵 8강전에서 ‘바이킹 군단’ 노르웨이에 역전승을 거뒀으나, 예상치 못한 논란이 나왔다. 잉글랜드는 12일(한국시간) 미국 플로리다주 마이애미 가든스의..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/world/12096327",
+      "pubDate": "2026-07-12T11:26:18",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.ab11762db5f84a628b6160d6747b7da2_R.jpg",
+      "entities": "",
+      "clusterId": 5,
+      "id": 12
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“폭우 피해 그대로인데 어쩌나”…태풍 ‘바비’ 상륙에 中 200만명 대피 ‘비상’",
+      "titleOriginal": "",
+      "description": "제9호 태풍 ‘바비’ 상륙과 폭우로 중국 각지에서 약 200만명이 대피했다. 태풍의 영향권에 든 대만에서는 100여 명의 부상자가 발생했다. 12일 로이터와 AP·AFP통신에 따르..",
+      "descriptionOriginal": "",
+      "content": "제9호 태풍 ‘바비’ 상륙과 폭우로 중국 각지에서 약 200만명이 대피했다. 태풍의 영향권에 든 대만에서는 100여 명의 부상자가 발생했다. 12일 로이터와 AP·AFP통신에 따르..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/world/12096326",
+      "pubDate": "2026-07-12T11:22:47",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.496ca01c3b7f41d19dc76fab77ee8ab9_R.png",
+      "entities": "",
+      "clusterId": 115,
+      "id": 13
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"49도, 얼굴서 모든 액체 나와\"…파리 폭염 '희생양' 된 韓 제과사",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071297937",
+      "pubDate": "2026-07-12T11:21:55+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 108,
+      "id": 14
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "[속보] “이란, 중동 내 미국 표적들 공격 개시” [러 매체]",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/world/12096325",
+      "pubDate": "2026-07-12T11:20:17",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.90d227c9fb534774bbe31d2e1219ec6d_R.jpg",
+      "entities": "",
+      "clusterId": 0,
+      "id": 15
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“선생님이 우리아이 학대했어요”…부모 신고 급증하는데, 교사 사건 90% 무혐의",
+      "titleOriginal": "",
+      "description": "부모가 신고 비중 2배 늘었지만 아동학대 행위자는 부모가 압도적 교원들 보호 강화 법적장치 필요“무혐의 판정 나면 그때는 어쩌시려구요?”(담임 교사) “그럼 사과해야죠. 그게 끝이..",
+      "descriptionOriginal": "",
+      "content": "부모가 신고 비중 2배 늘었지만 아동학대 행위자는 부모가 압도적 교원들 보호 강화 법적장치 필요“무혐의 판정 나면 그때는 어쩌시려구요?”(담임 교사) “그럼 사과해야죠. 그게 끝이..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/society/12096324",
+      "pubDate": "2026-07-12T11:19:06",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.bb629b60ff8142108bb8316bccf04d57_R.png",
+      "entities": "",
+      "clusterId": 116,
+      "id": 16
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“사망 기사 123개” 전영록, 과거 가짜뉴스 피해 토로",
+      "titleOriginal": "",
+      "description": "가수 전영록(72)이 화려했던 전성기 뒤 감춰왔던 아픔과 삶의 이야기를 털어놨다. 지난 11일 방송된 MBN ‘김주하의 데이앤나잇’에는 전영록과 혜은이가 출연해 오랜 시간 대중의 ..",
+      "descriptionOriginal": "",
+      "content": "가수 전영록(72)이 화려했던 전성기 뒤 감춰왔던 아픔과 삶의 이야기를 털어놨다. 지난 11일 방송된 MBN ‘김주하의 데이앤나잇’에는 전영록과 혜은이가 출연해 오랜 시간 대중의 ..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/society/12096323",
+      "pubDate": "2026-07-12T11:18:00",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.b6d0173e03a0411f92ad2340373aff8d_R.jpg",
+      "entities": "",
+      "clusterId": 117,
+      "id": 17
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "이해찬·부모님 묘소 방문한 정청래…'4통 통합' 강조",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607129754i",
+      "pubDate": "2026-07-12T11:11:39+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 3,
+      "id": 18
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "아이티원, 한성모듈러 등 건설AI·스마트건설 실증 기술과 강소기업 선정",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607129704i",
+      "pubDate": "2026-07-12T11:07:01+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 109,
+      "id": 19
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "'한 잔 3만원' 줄 서서 마신다…한물갔다더니 '화려한 부활' [박상경의 영수증 리뷰]",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607107964g",
+      "pubDate": "2026-07-12T11:00:05+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 110,
+      "id": 20
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "“동생들 앞에서 뭐 하냐”…355만원 술값 시비로 시작된 난동 [최영총의 머니 크라임]",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607107954i",
+      "pubDate": "2026-07-12T11:00:01+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 5,
+      "id": 21
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "'낮 최고 37도' 찜통더위 계속…포항·경산엔 '폭염 중대경보'",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071297747",
+      "pubDate": "2026-07-12T10:54:21+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 6,
+      "id": 22
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "軍 겨냥 해킹 역대 최다인데…사이버 인재는 '탈출 러시'",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607129785H",
+      "pubDate": "2026-07-12T10:53:04+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 111,
+      "id": 23
+    },
+    {
+      "source": "thehindu",
+      "sourceName": "The Hindu",
+      "category": "world",
+      "title": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+      "titleOriginal": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+      "description": "The United States is imposing a heavy cost by continuing to degrade Iran's ability to attack civilian mariners and commercial ships freely transiting the strait, the American military said.",
+      "descriptionOriginal": "",
+      "content": "The United States is imposing a heavy cost by continuing to degrade Iran's ability to attack civilian mariners and commercial ships freely transiting the strait, the American military said.",
+      "contentOriginal": "The United States is imposing a heavy cost by continuing to degrade Iran's ability to attack civilian mariners and commercial ships freely transiting the strait, the American military said.",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-strait-of-hormuz/article71212985.ece",
+      "pubDate": "2026-07-12T08:08:48+05:30",
+      "image": "https://th-i.thgim.com/public/incoming/5wtfvy/article71212992.ece/alternates/LANDSCAPE_1200/2026-07-09T075744Z_1894631077_RC25AMAEBGG0_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+      "entities": "",
+      "clusterId": 10,
+      "id": 24
+    },
+    {
+      "source": "thehindu",
+      "sourceName": "The Hindu",
+      "category": "world",
+      "title": "2 dead and 3 wounded in shooting near Toronto street festival, police say",
+      "titleOriginal": "2 dead and 3 wounded in shooting near Toronto street festival, police say",
+      "description": "Two people have been killed and three others wounded in a shooting near a Toronto street festival, prompting police to warn of an active shooter before later saying the scene had been secured",
+      "descriptionOriginal": "",
+      "content": "Two people have been killed and three others wounded in a shooting near a Toronto street festival, prompting police to warn of an active shooter before later saying the scene had been secured",
+      "contentOriginal": "Two people have been killed and three others wounded in a shooting near a Toronto street festival, prompting police to warn of an active shooter before later saying the scene had been secured",
+      "link": "https://www.thehindu.com/news/international/toronto-salsa-street-festival-shooting-death-injuries-july-2026/article71212979.ece",
+      "pubDate": "2026-07-12T07:33:12+05:30",
+      "image": "https://th-i.thgim.com/public/incoming/a0x526/article71212980.ece/alternates/LANDSCAPE_1200/2026-07-12T014545Z_1856486480_RC20CMA6YCJD_RTRMADP_3_CANADA-TORONTO-SHOOTING.JPG",
+      "entities": "",
+      "clusterId": 18,
+      "id": 25
+    },
+    {
+      "source": "thehindu",
+      "sourceName": "The Hindu",
+      "category": "world",
+      "title": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
+      "titleOriginal": "West Asia war LIVE: U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
+      "description": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
+      "descriptionOriginal": "",
+      "content": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
+      "contentOriginal": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
+      "pubDate": "2026-07-12T07:31:50+05:30",
+      "image": "",
+      "entities": "",
+      "clusterId": 87,
+      "id": 26
+    },
+    {
       "source": "yonhap",
       "sourceName": "연합뉴스TV",
       "category": "korea",
@@ -15,7 +474,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712050600mlc_01_i.jpg",
       "entities": "",
       "clusterId": 118,
-      "id": 0
+      "id": 27
     },
     {
       "source": "mk",
@@ -32,7 +491,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/09/news-p.v1.20260709.d555bb613b8b4a86aedaaba4cef4f04d_R.jpg",
       "entities": "",
       "clusterId": 119,
-      "id": 1
+      "id": 28
     },
     {
       "source": "mk",
@@ -49,7 +508,24 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.6dbe53a33e2c439aa413bec90eec4a88_R.jpg",
       "entities": "",
       "clusterId": 120,
-      "id": 2
+      "id": 29
+    },
+    {
+      "source": "thehindu",
+      "sourceName": "The Hindu",
+      "category": "world",
+      "title": "How undercover agents and informants helped the FBI unravel Lawrence Bishnoi’s gang | Explained",
+      "titleOriginal": "How undercover agents and informants helped the FBI unravel Lawrence Bishnoi’s gang | Explained",
+      "description": "A years-long U.S. investigation culminated in charges against 37 people linked to alleged transnational crime syndicates. Here’s how the FBI pieced together the case",
+      "descriptionOriginal": "",
+      "content": "A years-long U.S. investigation culminated in charges against 37 people linked to alleged transnational crime syndicates. Here’s how the FBI pieced together the case",
+      "contentOriginal": "A years-long U.S. investigation culminated in charges against 37 people linked to alleged transnational crime syndicates. Here’s how the FBI pieced together the case",
+      "link": "https://www.thehindu.com/news/international/how-undercover-agents-informants-helped-the-fbi-unravel-lawrence-bishnois-gang-explained/article71201267.ece",
+      "pubDate": "2026-07-12T04:27:27+05:30",
+      "image": "https://th-i.thgim.com/public/incoming/xw5jgn/article71201345.ece/alternates/LANDSCAPE_1200/lawrence%20bishnoi.jpg",
+      "entities": "",
+      "clusterId": 88,
+      "id": 30
     },
     {
       "source": "mk",
@@ -66,7 +542,177 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260709.62be633e37674b44af35265146ac3583_R.png",
       "entities": "",
       "clusterId": 121,
-      "id": 3
+      "id": 31
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "오페라 여름대전…다른 해석 ‘투란도트’ 압축 버전 ‘니벨룽의 반지’",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/culture/music/1267832.html",
+      "pubDate": "2026-07-12T03:05:06.319537+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 122,
+      "id": 32
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "한은, 기준금리 16일 결정…금융시장은 2.75%로 인상 예상",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1267833.html",
+      "pubDate": "2026-07-12T03:05:06.319480+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 121,
+      "id": 33
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "현대차 싼타페, 경호 차량으로 변신…아세안 정상회의에 50대 지원",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/economy/car/1267834.html",
+      "pubDate": "2026-07-12T03:05:06.319422+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 120,
+      "id": 34
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "커피 매입가격 올려 20억 빼돌린 대형 식품업체 사주 일가, 국세청 덜미",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1267835.html",
+      "pubDate": "2026-07-12T03:05:06.319362+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 119,
+      "id": 35
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "후기인 척 뒷광고…표시광고법 위반 성형외과 3곳 제재",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1267836.html",
+      "pubDate": "2026-07-12T03:05:06.319296+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 9,
+      "id": 36
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "환자 없는 ‘가짜 구급차’ 잡는다…운행기록 실시간 관리",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/society/rights/1267837.html",
+      "pubDate": "2026-07-12T03:05:06.319236+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 118,
+      "id": 37
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "해바라기센터 피해자 지원 어떻게…지난해 이용자 2만4755명",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/society/women/1267838.html",
+      "pubDate": "2026-07-12T03:05:06.319175+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 5,
+      "id": 38
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "육아휴직급여 수급자 상반기 10만명…4만명은 ‘아빠’",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/society/labor/1267839.html",
+      "pubDate": "2026-07-12T03:05:06.319083+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 19,
+      "id": 39
+    },
+    {
+      "source": "guardian",
+      "sourceName": "The Guardian",
+      "category": "world",
+      "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
+      "titleOriginal": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
+      "description": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair FestivalA shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later sa",
+      "descriptionOriginal": "",
+      "content": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair FestivalA shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was secure.Toronto police said six people were found with gunshot wounds after the shooting near St Clair Avenue West and Arlington Avenue, where the Salsa on St Clair festival was underway. Continue reading...",
+      "contentOriginal": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair FestivalA shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was secure.Toronto police said six people were found with gunshot wounds after the shooting near St Clair Avenue West and Arlington Avenue, where the Salsa on St Clair festival was underway. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "pubDate": "2026-07-12T02:35:11+00:00",
+      "image": "https://i.guim.co.uk/img/media/03ea8ebd47324289b87f52874c1ce05a57e91f67/249_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=0ee1aeadeb515b1687fd2b34b8c306cc",
+      "entities": "",
+      "clusterId": 18,
+      "id": 40
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "At least two killed in Toronto street festival shooting",
+      "titleOriginal": "At least two killed in Toronto street festival shooting",
+      "description": "Police have urged the public to stay away from the area.",
+      "descriptionOriginal": "",
+      "content": "Police have urged the public to stay away from the area.",
+      "contentOriginal": "Police have urged the public to stay away from the area.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T02:18:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/bfc51ee0-7d92-11f1-b0c0-b9b367ec5905.jpg",
+      "entities": "",
+      "clusterId": 18,
+      "id": 41
     },
     {
       "source": "yonhap",
@@ -83,7 +729,75 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712020647x83_01_i.jpg",
       "entities": "",
       "clusterId": 14,
-      "id": 4
+      "id": 42
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "titleOriginal": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "descriptionOriginal": "",
+      "content": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "contentOriginal": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T01:55:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6961/live/7bbcded0-7d7f-11f1-b976-0b9c15b0ccfc.jpg",
+      "entities": "",
+      "clusterId": 10,
+      "id": 43
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News",
+      "titleOriginal": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News",
+      "description": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals&nbsp;&nbsp;AP News",
+      "contentOriginal": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5",
+      "pubDate": "2026-07-12T01:53:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 84,
+      "id": 44
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Nootbaar, Liberatore spark Cardinals to 4-1 win over the Braves - AP News",
+      "titleOriginal": "Nootbaar, Liberatore spark Cardinals to 4-1 win over the Braves - AP News",
+      "description": "Nootbaar, Liberatore spark Cardinals to 4-1 win over the Braves&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Nootbaar, Liberatore spark Cardinals to 4-1 win over the Braves&nbsp;&nbsp;AP News",
+      "contentOriginal": "Nootbaar, Liberatore spark Cardinals to 4-1 win over the Braves&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVhuRkt2SFozcVlVRVNTNG50dVRSclVxNHhOaDk3ZEdmRUFPZFVhNm9Tb0xyQ2JkMk1wYzAtVnlGTmN4eWtrVkVZSUtsbVlfM0FXTUZzUUtTRmVCOXlQSG5MZGUwcXBwWEVPQ29RMy02U3BJTGJtSWFRazlNX2RwclV3RmQ1Tk5fbUE?oc=5",
+      "pubDate": "2026-07-12T01:47:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 85,
+      "id": 45
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
+      "titleOriginal": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
+      "description": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
+      "contentOriginal": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVo3MFhOUks2d1FTNTNsWE5tOGFGblpBLWN2MzlMZ0Y3a3RLQU01UHVZZzlScGdyWmN2aXRuSHVXNk1pTXg1ckJCVUppSko2SkZIc0V3RERtcU9kQWg1aUFycXNubEFWXzA1WDNrM1FBWkM1WFZGeHRLTlZ3UWowRzFWeUd1QXowdWp2eVJSeHJEY0l2akF3a0Zjc2RSQQ?oc=5",
+      "pubDate": "2026-07-12T01:36:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 26,
+      "id": 46
     },
     {
       "source": "thehindu",
@@ -99,8 +813,42 @@
       "pubDate": "2026-07-12T01:32:28+05:30",
       "image": "https://th-i.thgim.com/public/incoming/ihfwoa/article71211459.ece/alternates/LANDSCAPE_1200/APTOPIX_Turkey_NATO_Summit_Trump_52897.jpg",
       "entities": "",
-      "clusterId": 111,
-      "id": 5
+      "clusterId": 20,
+      "id": 47
+    },
+    {
+      "source": "economist",
+      "sourceName": "The Economist",
+      "category": "business",
+      "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
+      "titleOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
+      "description": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "descriptionOriginal": "",
+      "content": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "contentOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
+      "pubDate": "2026-07-12T01:25:14+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 94,
+      "id": 48
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "China's second typhoon in a week makes landfall",
+      "titleOriginal": "China's second typhoon in a week makes landfall",
+      "description": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "descriptionOriginal": "",
+      "content": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "contentOriginal": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T01:22:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
+      "entities": "",
+      "clusterId": 2,
+      "id": 49
     },
     {
       "source": "yonhap",
@@ -117,7 +865,41 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712011253Hc2_01_i.jpg",
       "entities": "",
       "clusterId": 15,
-      "id": 6
+      "id": 50
+    },
+    {
+      "source": "nyt",
+      "sourceName": "The New York Times",
+      "category": "world",
+      "title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
+      "titleOriginal": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
+      "description": "Iran’s attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
+      "descriptionOriginal": "",
+      "content": "Iran’s attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
+      "contentOriginal": "Iran’s attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
+      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "pubDate": "2026-07-12T01:08:40+00:00",
+      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11iran-strait-whmp/11iran-strait-whmp-mediumSquareAt3X.jpg",
+      "entities": "",
+      "clusterId": 10,
+      "id": 51
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns - AP News",
+      "titleOriginal": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns - AP News",
+      "description": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns&nbsp;&nbsp;AP News",
+      "contentOriginal": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGJJRXh3VW1OSnRiOVlOeXhPYUJmMXRnV0ZySG1DLV9GNmwwelp4NXpZOFdfNXpUblhIdF9NTTVKaWY0WlJVWmZ1U3hBUUxMbzBPRlRnMmM4YjdKS1Jxakc5T0JuTG9LbzJCSi1GNzdhRnVzZHZXa3Q2bms2RVJfbmpnN2lxSDhTOXYwZFJHLWllNk92UEs5OGd3?oc=5",
+      "pubDate": "2026-07-12T00:54:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 15,
+      "id": 52
     },
     {
       "source": "yonhap",
@@ -134,7 +916,41 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712005258Yg5_01_i.jpg",
       "entities": "",
       "clusterId": 0,
-      "id": 7
+      "id": 53
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - AP News",
+      "titleOriginal": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - AP News",
+      "description": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz&nbsp;&nbsp;AP News",
+      "contentOriginal": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+      "pubDate": "2026-07-12T00:45:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 10,
+      "id": 54
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "Inside India's largest transgender festival - Nikkei Asia",
+      "titleOriginal": "Inside India's largest transgender festival - Nikkei Asia",
+      "description": "Inside India's largest transgender festival&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "Inside India's largest transgender festival&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "Inside India's largest transgender festival&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNldMM2pzY2tuSVhCczVjaDl0WHprdk1OVVB5d0tEUmgzQ3g0VEpnWngwQjZQZ1pHQ2pVRG1WNmpUUzJnbmk2dldpcWM4TWhqMjJSZUt6TFpLSTNCc2NJblR3ekhhN2hBQjQxWGlfYUM1Uks5bzBKTGl5d2ZMNmNINV9pd3E4ZF9TQ3c?oc=5",
+      "pubDate": "2026-07-12T00:45:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 97,
+      "id": 55
     },
     {
       "source": "thehindu",
@@ -150,8 +966,110 @@
       "pubDate": "2026-07-12T00:39:59+05:30",
       "image": "",
       "entities": "",
+      "clusterId": 21,
+      "id": 56
+    },
+    {
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "tech",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "titleOriginal": "Reed Jobs would rather talk about curing cancer than his last name",
+      "description": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same wind",
+      "descriptionOriginal": "",
+      "content": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
+      "contentOriginal": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said.",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "pubDate": "2026-07-12T00:16:06+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 123,
+      "id": 57
+    },
+    {
+      "source": "nyt",
+      "sourceName": "The New York Times",
+      "category": "world",
+      "title": "England and Norway Resurrect a Rivalry for the World Cup",
+      "titleOriginal": "England and Norway Resurrect a Rivalry for the World Cup",
+      "description": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+      "descriptionOriginal": "",
+      "content": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+      "contentOriginal": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
+      "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "pubDate": "2026-07-12T00:12:39+00:00",
+      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17Worldcup-header-vqhj/17Worldcup-header-vqhj-mediumSquareAt3X.jpg",
+      "entities": "",
       "clusterId": 30,
-      "id": 8
+      "id": 58
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "US launches more strikes after Iran declares Strait of Hormuz closed - Financial Times",
+      "titleOriginal": "US launches more strikes after Iran declares Strait of Hormuz closed - Financial Times",
+      "description": "US launches more strikes after Iran declares Strait of Hormuz closed&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "US launches more strikes after Iran declares Strait of Hormuz closed&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "US launches more strikes after Iran declares Strait of Hormuz closed&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MS2xfVnlDa2ZEdEdwZVBoanIzSmMyTXpTY2d3eDlOTW5QUDRDanA1QzFlNEZseE5NcnN2TmV3OHBmb2pKSHdyN3hDV3NNVTkwZWxqLXJ6R1JnUE4zaTNBLXdjNkYwcWpGZThnc1BJX0Y?oc=5",
+      "pubDate": "2026-07-12T00:00:34+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 10,
+      "id": 59
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever - Bloomberg.com",
+      "titleOriginal": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever - Bloomberg.com",
+      "description": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVJRZlkwV3llend4UDExcko0T092V1pISlktTzV5X0VvUmlHTHBoUUhqb05fell1Rl92bkNXYVNLa0YzT2c3OVIwVHpMX0tTdW5KZEZjQUlfMGhzU0t3dXIzREhzY3dORllrYXNzajlhc254cE5lOVpDa0l6SEM3TWtzbUIzZktjYmpLX1JkdHVnZWZsS1VTYUl1dy1zQS1KOENvMThpRFRsSnRLZjJrRU1aaw?oc=5",
+      "pubDate": "2026-07-12T00:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 89,
+      "id": 60
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "titleOriginal": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "descriptionOriginal": "",
+      "content": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "contentOriginal": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-11T23:58:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+      "entities": "",
+      "clusterId": 86,
+      "id": 61
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "Iran declares Strait of Hormuz closed as 'unauthorized' vessel hit - Nikkei Asia",
+      "titleOriginal": "Iran declares Strait of Hormuz closed as 'unauthorized' vessel hit - Nikkei Asia",
+      "description": "Iran declares Strait of Hormuz closed as 'unauthorized' vessel hit&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "Iran declares Strait of Hormuz closed as 'unauthorized' vessel hit&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "Iran declares Strait of Hormuz closed as 'unauthorized' vessel hit&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk90eWxfeS0yYk96VTVXeHZiSFZWNnY0MGQyT3hMWEpaaFhhb1M4T192bDJULXRXTy1TU2JBbm8yejhoaDhNalRVZmxCZ3ljWm1ZNUhhQUQ2ZXR0M3U0SXhad01zcnJENk5QV1hXTFQ3S0V2aWtDTUp3ejVRd1Zsa1RnSHdYVk9mZUZ3Nnl0V3NYZGV2eXdxemNMTDNIMWFfUGNTQk5ad3FxcWhlQlFJSnJEM3FUQnExQlNTUEpn?oc=5",
+      "pubDate": "2026-07-11T23:57:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 14,
+      "id": 62
     },
     {
       "source": "yonhap",
@@ -168,7 +1086,24 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711234800HRK_01_i.jpg",
       "entities": "",
       "clusterId": 16,
-      "id": 9
+      "id": 63
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "US citizen in Congo tests positive for Ebola virus, US CDC says - Reuters",
+      "titleOriginal": "US citizen in Congo tests positive for Ebola virus, US CDC says - Reuters",
+      "description": "US citizen in Congo tests positive for Ebola virus, US CDC says&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "US citizen in Congo tests positive for Ebola virus, US CDC says&nbsp;&nbsp;Reuters",
+      "contentOriginal": "US citizen in Congo tests positive for Ebola virus, US CDC says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXYxZnBYby1GYk9jWEp4czFxdFhyaTlFSEVTZHBoZENRakIzSXhFczZFWERQYl96OVpjVmNrRGN0S2xpNDVweElCZjllZTNVUXZpR25GYXRpMWRJMm1Wci04aUN2MVc5MjFWREdfaGV1UUZoM01neExuZVRXdGFkVU9iQW5zbEJtSmRwVHZJZXo0X0Y0cUsxM3JhUF9KSFVHM3B4dGVsTXVjV1hKalR4SzlCOGdsRGlIM1IxY1VhU3UteHhUYkE?oc=5",
+      "pubDate": "2026-07-11T23:43:18+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 11,
+      "id": 64
     },
     {
       "source": "thehindu",
@@ -184,8 +1119,8 @@
       "pubDate": "2026-07-11T23:33:58+05:30",
       "image": "https://th-i.thgim.com/public/incoming/5tdklb/article71211581.ece/alternates/LANDSCAPE_1200/2026-07-06T171022Z_738694510_RC2C8MADBFVI_RTRMADP_3_IRAN-CRISIS-LEBANON-RETURN.JPG",
       "entities": "",
-      "clusterId": 17,
-      "id": 10
+      "clusterId": 22,
+      "id": 65
     },
     {
       "source": "thehindu",
@@ -201,8 +1136,25 @@
       "pubDate": "2026-07-11T23:32:57+05:30",
       "image": "https://th-i.thgim.com/public/incoming/lmohg9/article71211629.ece/alternates/LANDSCAPE_1200/AFP__20260623__B82L49E__v1__HighRes__PakistanReligionIslamMuharram.jpg",
       "entities": "",
-      "clusterId": 112,
-      "id": 11
+      "clusterId": 23,
+      "id": 66
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "VAR shouldn't become football's anger amplifier - Nikkei Asia",
+      "titleOriginal": "VAR shouldn't become football's anger amplifier - Nikkei Asia",
+      "description": "VAR shouldn't become football's anger amplifier&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "VAR shouldn't become football's anger amplifier&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "VAR shouldn't become football's anger amplifier&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1hkU0ZieWM2Mkozc2VwQzN4U2JXa3pGbFB2OWo2Z29LMU51SVBsNWdqWWh2TFd0SHhma1VZendkdTJ3NTBDZkEzSnRvY1dYV1dKenhFT09oTHJ0elh3QUxOQjJJdXkxTm82VlN6akR1eUtsVjdGbnQ2d2UtRDVzU1U5Sk5qa09IZml5elJqRmNVUQ?oc=5",
+      "pubDate": "2026-07-11T23:30:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 96,
+      "id": 67
     },
     {
       "source": "thehindu",
@@ -219,7 +1171,24 @@
       "image": "https://th-i.thgim.com/public/incoming/ihlwtw/article71211603.ece/alternates/LANDSCAPE_1200/2026-07-11T111556Z_1351199082_RC26AMAHPQOD_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-KHANNA.JPG",
       "entities": "",
       "clusterId": 1,
-      "id": 12
+      "id": 68
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz - Reuters",
+      "titleOriginal": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz - Reuters",
+      "description": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz&nbsp;&nbsp;Reuters",
+      "contentOriginal": "US launches more strikes on Iran after commercial ship struck in Strait of Hormuz&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+      "pubDate": "2026-07-11T23:21:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 10,
+      "id": 69
     },
     {
       "source": "thehindu",
@@ -236,7 +1205,7 @@
       "image": "https://th-i.thgim.com/public/opinion/cartoon/geyozp/article71211547.ece/alternates/LANDSCAPE_1200/iStock-1395839106.jpg",
       "entities": "",
       "clusterId": 18,
-      "id": 13
+      "id": 70
     },
     {
       "source": "thehindu",
@@ -253,7 +1222,7 @@
       "image": "",
       "entities": "",
       "clusterId": 0,
-      "id": 14
+      "id": 71
     },
     {
       "source": "thehindu",
@@ -270,7 +1239,7 @@
       "image": "https://th-i.thgim.com/public/incoming/3bb7sl/article71211511.ece/alternates/LANDSCAPE_1200/2026-07-11T045715Z_592048544_RC2DBMALXE0C_RTRMADP_3_ASIA-WEATHER-CHINA.JPG",
       "entities": "",
       "clusterId": 2,
-      "id": 15
+      "id": 72
     },
     {
       "source": "mk",
@@ -287,7 +1256,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.a95683e079464d6d8a04edbac2fa0b35_R.png",
       "entities": "",
       "clusterId": 3,
-      "id": 16
+      "id": 73
     },
     {
       "source": "yonhap",
@@ -304,7 +1273,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711223114HGS_01_i.jpg",
       "entities": "",
       "clusterId": 4,
-      "id": 17
+      "id": 74
     },
     {
       "source": "mk",
@@ -321,7 +1290,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.d36c693f6a9045de8d5b6043b7e0df5d_R.jpg",
       "entities": "",
       "clusterId": 19,
-      "id": 18
+      "id": 75
     },
     {
       "source": "mk",
@@ -338,7 +1307,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260706.85eac1a98002420eb5137761eafbfebd_R.png",
       "entities": "",
       "clusterId": 20,
-      "id": 19
+      "id": 76
     },
     {
       "source": "yonhap",
@@ -355,7 +1324,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711222325Tai_01_i.jpg",
       "entities": "",
       "clusterId": 5,
-      "id": 20
+      "id": 77
     },
     {
       "source": "thehindu",
@@ -372,7 +1341,24 @@
       "image": "https://th-i.thgim.com/public/incoming/bhmlhr/article71211456.ece/alternates/LANDSCAPE_1200/2026-07-11T092103Z_1953222914_RC2LBMAES666_RTRMADP_3_GERMANY-POLITICS-AFD.JPG",
       "entities": "",
       "clusterId": 111,
-      "id": 21
+      "id": 78
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - AP News",
+      "titleOriginal": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - AP News",
+      "description": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call&nbsp;&nbsp;AP News",
+      "contentOriginal": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS09GLTR6OERMc0tDYndyV0VZQ3NxdEFwa1Zpc1JZZVpzVFVqME1hLWtaNElHNmZsZjZIbjFyRGwyakdSU0U2cjdXSUFaSlVBYks2ejFtOVg5LUpLZGc4akg3SjI1eXY1VHJveE1TMVUyTHgxR1ZCOWExdHAwQXRUZTloanZ2WWVrbWROLVhsR1VDSEZybHQ2OGttdmI2LWc0Z01V?oc=5",
+      "pubDate": "2026-07-11T22:12:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 82,
+      "id": 79
     },
     {
       "source": "mk",
@@ -389,7 +1375,58 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.06d3862312a54318b705f7cef488d2e5_R.png",
       "entities": "",
       "clusterId": 21,
-      "id": 22
+      "id": 80
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "Japan to help universities pool investments as smaller schools struggle - Nikkei Asia",
+      "titleOriginal": "Japan to help universities pool investments as smaller schools struggle - Nikkei Asia",
+      "description": "Japan to help universities pool investments as smaller schools struggle&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "Japan to help universities pool investments as smaller schools struggle&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "Japan to help universities pool investments as smaller schools struggle&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTYzYUpYblROTXNhSkZJSGVSdlVmeF9SeERZdURCbHF1dTlXeDUyN2JpZnBERFpOaC10SUpiWVpYOWQwVXVsT3hsWXJtUk5DRnAxN0JQZXhmNk9NcE41OHdKUXRhT19uNkFyVWpENEVRSmJxa05xYVNyWHVVS0d4aVVrM29LNHZwRWxEVjZnM1NNWW1OTzUyaU1PR2phdXFNdVpKWnVLdUFWcFRxNk51NHh1RVY?oc=5",
+      "pubDate": "2026-07-11T22:06:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 95,
+      "id": 81
+    },
+    {
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "tech",
+      "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "titleOriginal": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "description": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on",
+      "descriptionOriginal": "",
+      "content": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+      "contentOriginal": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+      "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "pubDate": "2026-07-11T22:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 124,
+      "id": 82
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "titleOriginal": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "description": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "descriptionOriginal": "",
+      "content": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "contentOriginal": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-11T21:56:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
+      "entities": "",
+      "clusterId": 25,
+      "id": 83
     },
     {
       "source": "thehindu",
@@ -406,7 +1443,7 @@
       "image": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
       "entities": "",
       "clusterId": 6,
-      "id": 23
+      "id": 84
     },
     {
       "source": "yonhap",
@@ -423,7 +1460,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR202607112147443FC_01_i.jpg",
       "entities": "",
       "clusterId": 22,
-      "id": 24
+      "id": 85
     },
     {
       "source": "thehindu",
@@ -440,7 +1477,7 @@
       "image": "",
       "entities": "",
       "clusterId": 7,
-      "id": 25
+      "id": 86
     },
     {
       "source": "mk",
@@ -457,7 +1494,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.b617efc2bbe24c0c9b1e841aaffba773_R.png",
       "entities": "",
       "clusterId": 23,
-      "id": 26
+      "id": 87
     },
     {
       "source": "hankyung",
@@ -474,7 +1511,7 @@
       "image": "",
       "entities": "",
       "clusterId": 24,
-      "id": 27
+      "id": 88
     },
     {
       "source": "hankyung",
@@ -491,7 +1528,7 @@
       "image": "",
       "entities": "",
       "clusterId": 25,
-      "id": 28
+      "id": 89
     },
     {
       "source": "mk",
@@ -508,7 +1545,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.28dc776734844fbb87138933a0229d21_R.jpg",
       "entities": "",
       "clusterId": 18,
-      "id": 29
+      "id": 90
     },
     {
       "source": "hani",
@@ -524,8 +1561,8 @@
       "pubDate": "2026-07-11T21:01:06.229897+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 9,
-      "id": 30
+      "clusterId": 0,
+      "id": 91
     },
     {
       "source": "hani",
@@ -541,8 +1578,8 @@
       "pubDate": "2026-07-11T21:01:06.229840+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 5,
-      "id": 31
+      "clusterId": 6,
+      "id": 92
     },
     {
       "source": "hani",
@@ -558,8 +1595,8 @@
       "pubDate": "2026-07-11T21:01:06.229781+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 31,
-      "id": 32
+      "clusterId": 7,
+      "id": 93
     },
     {
       "source": "hani",
@@ -576,7 +1613,7 @@
       "image": "",
       "entities": "",
       "clusterId": 3,
-      "id": 33
+      "id": 94
     },
     {
       "source": "hani",
@@ -592,8 +1629,8 @@
       "pubDate": "2026-07-11T21:01:06.229665+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 10,
-      "id": 34
+      "clusterId": 8,
+      "id": 95
     },
     {
       "source": "hani",
@@ -610,7 +1647,7 @@
       "image": "",
       "entities": "",
       "clusterId": 32,
-      "id": 35
+      "id": 96
     },
     {
       "source": "hani",
@@ -627,7 +1664,7 @@
       "image": "",
       "entities": "",
       "clusterId": 4,
-      "id": 36
+      "id": 97
     },
     {
       "source": "hani",
@@ -644,7 +1681,7 @@
       "image": "",
       "entities": "",
       "clusterId": 33,
-      "id": 37
+      "id": 98
     },
     {
       "source": "hankyung",
@@ -661,7 +1698,24 @@
       "image": "",
       "entities": "",
       "clusterId": 26,
-      "id": 38
+      "id": 99
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Modi Courts Pacific Partners as China, US Reshape Region - Bloomberg.com",
+      "titleOriginal": "Modi Courts Pacific Partners as China, US Reshape Region - Bloomberg.com",
+      "description": "Modi Courts Pacific Partners as China, US Reshape Region&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Modi Courts Pacific Partners as China, US Reshape Region&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Modi Courts Pacific Partners as China, US Reshape Region&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUklDZ29jazRlTFZXYTNpWmt5aWF1N3lUZDdPS1dBb0NZcnlZdUVyMlpKM3F3WWhmM3hPNExseXkwOHM5Q1RNNG43SXgzRXVOY3E3UmdsQU1DNlBYd2ZqeEg5WnZEREM5UUpXbGRqSDdQYTdBOVVKRDJOcW9wQ3YxR2xtR3VMOHBQblotT0NnUHV5U3VodF80ZmJBRkNKQUU1ZEVBVmZSdmY1d2Q3Ykc3Rg?oc=5",
+      "pubDate": "2026-07-11T21:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 90,
+      "id": 100
     },
     {
       "source": "mk",
@@ -678,7 +1732,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.966f6c6cddca46be8c2af0d5db001d9f_R.png",
       "entities": "",
       "clusterId": 20,
-      "id": 39
+      "id": 101
     },
     {
       "source": "yonhap",
@@ -695,7 +1749,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR202607112046505SE_01_i.jpg",
       "entities": "",
       "clusterId": 21,
-      "id": 40
+      "id": 102
     },
     {
       "source": "hankyung",
@@ -712,7 +1766,7 @@
       "image": "",
       "entities": "",
       "clusterId": 27,
-      "id": 41
+      "id": 103
     },
     {
       "source": "mk",
@@ -729,7 +1783,41 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.879e9b6535fb45a3979320bd020a62fa_R.jpg",
       "entities": "",
       "clusterId": 23,
-      "id": 42
+      "id": 104
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
+      "titleOriginal": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
+      "description": "Apple sues OpenAI, two former employees for trade secrets theft&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Apple sues OpenAI, two former employees for trade secrets theft&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Apple sues OpenAI, two former employees for trade secrets theft&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+      "pubDate": "2026-07-11T20:44:23+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 17,
+      "id": 105
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Democrat announces whistleblower allegations of construction problems at Kennedy Center - AP News",
+      "titleOriginal": "Democrat announces whistleblower allegations of construction problems at Kennedy Center - AP News",
+      "description": "Democrat announces whistleblower allegations of construction problems at Kennedy Center&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Democrat announces whistleblower allegations of construction problems at Kennedy Center&nbsp;&nbsp;AP News",
+      "contentOriginal": "Democrat announces whistleblower allegations of construction problems at Kennedy Center&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhsTC10S0dJLXRMVVVhcS03bG5oRGtOZnVxM1JWWWRxYTNCaEdIYVNRNDNCbFl6dnk3ZkJUMlczd3k4YkNwUnkzYjBNcDJMeTlqX3hFWU9XNjctRHhLNUI4S3FiRi0wNlJNZkY0NlN0NXNnVGFLa2FvWkJ1N1RyY2xHVTE0SnA2Y3YyU2Z6R09vLXVKNG9LdmZqTVR4eWx4VzVGcm5hUUdMTHZWTVh3LVNoWjBKcXh6WDBWRjJzbXBQN0o0SVE?oc=5",
+      "pubDate": "2026-07-11T20:39:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 83,
+      "id": 106
     },
     {
       "source": "yonhap",
@@ -746,7 +1834,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711203220pah_01_i.jpg",
       "entities": "",
       "clusterId": 88,
-      "id": 43
+      "id": 107
     },
     {
       "source": "yonhap",
@@ -763,7 +1851,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711202108hga_01_i.jpg",
       "entities": "",
       "clusterId": 89,
-      "id": 44
+      "id": 108
     },
     {
       "source": "hankyung",
@@ -779,8 +1867,8 @@
       "pubDate": "2026-07-11T20:20:38+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 28,
-      "id": 45
+      "clusterId": 9,
+      "id": 109
     },
     {
       "source": "yonhap",
@@ -797,7 +1885,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711202004SBB_01_i.jpg",
       "entities": "",
       "clusterId": 90,
-      "id": 46
+      "id": 110
     },
     {
       "source": "nikkei",
@@ -814,7 +1902,7 @@
       "image": "",
       "entities": "",
       "clusterId": 116,
-      "id": 47
+      "id": 111
     },
     {
       "source": "nikkei",
@@ -830,8 +1918,25 @@
       "pubDate": "2026-07-11T20:05:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 115,
-      "id": 48
+      "clusterId": 24,
+      "id": 112
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Philippine fishers see no gain a decade after legal win over China - Reuters",
+      "titleOriginal": "Philippine fishers see no gain a decade after legal win over China - Reuters",
+      "description": "Philippine fishers see no gain a decade after legal win over China&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Philippine fishers see no gain a decade after legal win over China&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Philippine fishers see no gain a decade after legal win over China&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1aWlfTHBOUUVBVXg1Y2RNZXRGMHA1Z2kybE9wSHlsc244YUFYcEdYNG91bkVCWWpXbV9RWVAwZl94ODhy?oc=5",
+      "pubDate": "2026-07-11T20:03:08+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 80,
+      "id": 113
     },
     {
       "source": "hankyung",
@@ -848,7 +1953,24 @@
       "image": "",
       "entities": "",
       "clusterId": 29,
-      "id": 49
+      "id": 114
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision - Bloomberg.com",
+      "titleOriginal": "Warsh and US Inflation Will Set Tone for July Fed Decision - Bloomberg.com",
+      "description": "Warsh and US Inflation Will Set Tone for July Fed Decision&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Warsh and US Inflation Will Set Tone for July Fed Decision&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Warsh and US Inflation Will Set Tone for July Fed Decision&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObV9saktwa2dkUVBDSzVjY0lkZ0dkSm45aGREZDQ2bkZWX1A5WjBPTjRLWDZHSVNEakNSNDlaSlZSUEVDMTNlVmtKcklYSUIyOWFQbUFXRGFDTVdEU05MbURtbnNCWDdiYVF0ZTh3LXVuZF9PNzVEZHhrTDVlMFNkM0FZWEFMdDRSdnJIM2ppcHBFOXhVRkdCRHViVUE0em9nT19lN0FOQWFEYjdpcUE?oc=5",
+      "pubDate": "2026-07-11T20:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 91,
+      "id": 115
     },
     {
       "source": "hankyung",
@@ -864,25 +1986,8 @@
       "pubDate": "2026-07-11T19:53:34+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 3,
-      "id": 50
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks - AP News",
-      "titleOriginal": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks - AP News",
-      "description": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks&nbsp;&nbsp;AP News",
-      "contentOriginal": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-      "pubDate": "2026-07-11T19:53:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 36,
-      "id": 51
+      "clusterId": 7,
+      "id": 116
     },
     {
       "source": "hankyung",
@@ -899,41 +2004,7 @@
       "image": "",
       "entities": "",
       "clusterId": 5,
-      "id": 52
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "titleOriginal": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "description": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "descriptionOriginal": "",
-      "content": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "contentOriginal": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:32:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
-      "entities": "",
-      "clusterId": 110,
-      "id": 53
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "titleOriginal": "Iran supreme leader calls for revenge for father's killing",
-      "description": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-      "descriptionOriginal": "",
-      "content": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-      "contentOriginal": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T19:30:36+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-      "entities": "",
-      "clusterId": 7,
-      "id": 54
+      "id": 117
     },
     {
       "source": "nyt",
@@ -949,25 +2020,8 @@
       "pubDate": "2026-07-11T19:25:29+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 37,
-      "id": 55
-    },
-    {
-      "source": "nyt",
-      "sourceName": "The New York Times",
-      "category": "world",
-      "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
-      "titleOriginal": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
-      "description": "Recent clashes between the U.S. and Iran, and a vow by the ayatollah to avenge his father’s death, further eroded a shaky cease-fire signed last month.",
-      "descriptionOriginal": "",
-      "content": "Recent clashes between the U.S. and Iran, and a vow by the ayatollah to avenge his father’s death, further eroded a shaky cease-fire signed last month.",
-      "contentOriginal": "Recent clashes between the U.S. and Iran, and a vow by the ayatollah to avenge his father’s death, further eroded a shaky cease-fire signed last month.",
-      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "pubDate": "2026-07-11T19:21:01+00:00",
-      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11iran-strait-whmp/11iran-strait-whmp-mediumSquareAt3X.jpg",
-      "entities": "",
-      "clusterId": 6,
-      "id": 56
+      "clusterId": 11,
+      "id": 118
     },
     {
       "source": "thehindu",
@@ -983,25 +2037,8 @@
       "pubDate": "2026-07-11T19:10:01+05:30",
       "image": "https://th-i.thgim.com/public/incoming/mb2rj7/article71210218.ece/alternates/LANDSCAPE_1200/AFP_B9WH769.jpg",
       "entities": "",
-      "clusterId": 8,
-      "id": 57
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
-      "titleOriginal": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
-      "description": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
-      "contentOriginal": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVo3MFhOUks2d1FTNTNsWE5tOGFGblpBLWN2MzlMZ0Y3a3RLQU01UHVZZzlScGdyWmN2aXRuSHVXNk1pTXg1ckJCVUppSko2SkZIc0V3RERtcU9kQWg1aUFycXNubEFWXzA1WDNrM1FBWkM1WFZGeHRLTlZ3UWowRzFWeUd1QXowdWp2eVJSeHJEY0l2akF3a0Zjc2RSQQ?oc=5",
-      "pubDate": "2026-07-11T19:10:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 108,
-      "id": 58
+      "clusterId": 12,
+      "id": 119
     },
     {
       "source": "thehindu",
@@ -1018,7 +2055,24 @@
       "image": "https://th-i.thgim.com/public/incoming/p32hap/article71192468.ece/alternates/LANDSCAPE_1200/Indonesia_India_821_6.jpg",
       "entities": "",
       "clusterId": 48,
-      "id": 59
+      "id": 120
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters",
+      "titleOriginal": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters",
+      "description": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5",
+      "pubDate": "2026-07-11T18:04:55+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 13,
+      "id": 121
     },
     {
       "source": "bbc",
@@ -1035,7 +2089,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
       "entities": "",
       "clusterId": 1,
-      "id": 60
+      "id": 122
     },
     {
       "source": "nikkei",
@@ -1051,25 +2105,8 @@
       "pubDate": "2026-07-11T17:48:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 117,
-      "id": 61
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "China's second typhoon in a week makes landfall",
-      "titleOriginal": "China's second typhoon in a week makes landfall",
-      "description": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "descriptionOriginal": "",
-      "content": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "contentOriginal": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-11T17:41:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
-      "entities": "",
-      "clusterId": 2,
-      "id": 62
+      "clusterId": 27,
+      "id": 123
     },
     {
       "source": "ap",
@@ -1086,7 +2123,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 63
+      "id": 124
     },
     {
       "source": "thehindu",
@@ -1103,7 +2140,7 @@
       "image": "https://th-i.thgim.com/public/news/national/k9ve9v/article71210319.ece/alternates/LANDSCAPE_1200/Spain%201.png",
       "entities": "",
       "clusterId": 49,
-      "id": 64
+      "id": 125
     },
     {
       "source": "techcrunch",
@@ -1119,8 +2156,8 @@
       "pubDate": "2026-07-11T17:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 34,
-      "id": 65
+      "clusterId": 28,
+      "id": 126
     },
     {
       "source": "guardian",
@@ -1136,8 +2173,8 @@
       "pubDate": "2026-07-11T17:23:19+00:00",
       "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a0200f32904d618c7b42e114e12a816f",
       "entities": "",
-      "clusterId": 35,
-      "id": 66
+      "clusterId": 13,
+      "id": 127
     },
     {
       "source": "reuters",
@@ -1154,7 +2191,7 @@
       "image": "",
       "entities": "",
       "clusterId": 105,
-      "id": 67
+      "id": 128
     },
     {
       "source": "verge",
@@ -1170,8 +2207,8 @@
       "pubDate": "2026-07-11T16:57:42-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 122,
-      "id": 68
+      "clusterId": 29,
+      "id": 129
     },
     {
       "source": "bbc",
@@ -1187,8 +2224,8 @@
       "pubDate": "2026-07-11T16:55:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
       "entities": "",
-      "clusterId": 11,
-      "id": 69
+      "clusterId": 14,
+      "id": 130
     },
     {
       "source": "thehindu",
@@ -1205,7 +2242,7 @@
       "image": "https://th-i.thgim.com/public/incoming/e9ekmg/article71210206.ece/alternates/LANDSCAPE_1200/2026-03-05T021340Z_551703584_RC20YJAC5T11_RTRMADP_3_CHINA-PARLIAMENT.JPG",
       "entities": "",
       "clusterId": 50,
-      "id": 70
+      "id": 131
     },
     {
       "source": "bbc",
@@ -1221,25 +2258,8 @@
       "pubDate": "2026-07-11T16:11:33+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
       "entities": "",
-      "clusterId": 38,
-      "id": 71
-    },
-    {
-      "source": "nyt",
-      "sourceName": "The New York Times",
-      "category": "world",
-      "title": "England and Norway Resurrect a Rivalry for the World Cup",
-      "titleOriginal": "England and Norway Resurrect a Rivalry for the World Cup",
-      "description": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
-      "descriptionOriginal": "",
-      "content": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
-      "contentOriginal": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
-      "link": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
-      "pubDate": "2026-07-11T15:38:09+00:00",
-      "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-worldcup-england-norway-phwb/11int-worldcup-england-norway-phwb-mediumSquareAt3X.jpg",
-      "entities": "",
-      "clusterId": 39,
-      "id": 72
+      "clusterId": 15,
+      "id": 132
     },
     {
       "source": "ap",
@@ -1255,8 +2275,8 @@
       "pubDate": "2026-07-11T15:32:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 44,
-      "id": 73
+      "clusterId": 31,
+      "id": 133
     },
     {
       "source": "scmp",
@@ -1273,7 +2293,7 @@
       "image": "",
       "entities": "",
       "clusterId": 1,
-      "id": 74
+      "id": 134
     },
     {
       "source": "bbc",
@@ -1289,8 +2309,8 @@
       "pubDate": "2026-07-11T15:03:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
       "entities": "",
-      "clusterId": 10,
-      "id": 75
+      "clusterId": 8,
+      "id": 135
     },
     {
       "source": "bbc",
@@ -1307,7 +2327,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
       "entities": "",
       "clusterId": 40,
-      "id": 76
+      "id": 136
     },
     {
       "source": "nyt",
@@ -1323,8 +2343,8 @@
       "pubDate": "2026-07-11T14:46:11+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-spain-fire-fhqc/11int-spain-fire-fhqc-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 10,
-      "id": 77
+      "clusterId": 8,
+      "id": 137
     },
     {
       "source": "verge",
@@ -1340,8 +2360,8 @@
       "pubDate": "2026-07-11T14:44:12-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 123,
-      "id": 78
+      "clusterId": 32,
+      "id": 138
     },
     {
       "source": "nikkei",
@@ -1357,8 +2377,8 @@
       "pubDate": "2026-07-11T14:32:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 41,
-      "id": 79
+      "clusterId": 33,
+      "id": 139
     },
     {
       "source": "scmp",
@@ -1375,7 +2395,7 @@
       "image": "",
       "entities": "",
       "clusterId": 120,
-      "id": 80
+      "id": 140
     },
     {
       "source": "bbc",
@@ -1392,7 +2412,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94a/live/062ee420-7d2e-11f1-9bb6-f90d2cb001e2.jpg",
       "entities": "",
       "clusterId": 42,
-      "id": 81
+      "id": 141
     },
     {
       "source": "techcrunch",
@@ -1408,8 +2428,8 @@
       "pubDate": "2026-07-11T14:13:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 43,
-      "id": 82
+      "clusterId": 34,
+      "id": 142
     },
     {
       "source": "bloomberg",
@@ -1425,8 +2445,8 @@
       "pubDate": "2026-07-11T14:03:46+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 45,
-      "id": 83
+      "clusterId": 35,
+      "id": 143
     },
     {
       "source": "scmp",
@@ -1442,8 +2462,25 @@
       "pubDate": "2026-07-11T14:00:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 46,
-      "id": 84
+      "clusterId": 36,
+      "id": 144
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
+      "titleOriginal": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
+      "description": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5",
+      "pubDate": "2026-07-11T13:59:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 92,
+      "id": 145
     },
     {
       "source": "bbc",
@@ -1459,8 +2496,8 @@
       "pubDate": "2026-07-11T13:44:03+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff78/live/f1159af0-7d1b-11f1-b61e-1b6852ddc42f.jpg",
       "entities": "",
-      "clusterId": 8,
-      "id": 85
+      "clusterId": 12,
+      "id": 146
     },
     {
       "source": "bbc",
@@ -1477,7 +2514,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
       "entities": "",
       "clusterId": 27,
-      "id": 86
+      "id": 147
     },
     {
       "source": "bloomberg",
@@ -1493,8 +2530,8 @@
       "pubDate": "2026-07-11T13:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 47,
-      "id": 87
+      "clusterId": 37,
+      "id": 148
     },
     {
       "source": "nyt",
@@ -1511,7 +2548,7 @@
       "image": "",
       "entities": "",
       "clusterId": 37,
-      "id": 88
+      "id": 149
     },
     {
       "source": "ap",
@@ -1528,7 +2565,7 @@
       "image": "",
       "entities": "",
       "clusterId": 48,
-      "id": 89
+      "id": 150
     },
     {
       "source": "nyt",
@@ -1544,8 +2581,8 @@
       "pubDate": "2026-07-11T13:16:54+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-uk-murder-tlpm/11int-uk-murder-tlpm-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 49,
-      "id": 90
+      "clusterId": 38,
+      "id": 151
     },
     {
       "source": "bbc",
@@ -1562,7 +2599,24 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7562/live/ef363980-cfa0-11ef-b967-0b921216563e.jpg",
       "entities": "",
       "clusterId": 40,
-      "id": 91
+      "id": 152
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role - Reuters",
+      "titleOriginal": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role - Reuters",
+      "description": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3hld3A4dWNJa3hsVm55NzMtTmtCWk0tamFxSllTcF9BanZpeU1WOGtHNEVOb2hMYU52UjluV0FzSG1vNVVLQ29sVmthQzlxV291a1lkNXNOa3pwYkNqLXpsOWN0OF9BN3VWS3gwTndXQ0RNdW10MlI4cERVNDBza1NEQXdPRU1WUGpZMWg0akladEg2WFNWbU1mOUkwUThwMi02bDhOanhHNXdCY1pCT1QzSGlHSVVvUTdEX3F1cVNJZks4THNyZg?oc=5",
+      "pubDate": "2026-07-11T13:01:44+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 81,
+      "id": 153
     },
     {
       "source": "reuters",
@@ -1578,8 +2632,8 @@
       "pubDate": "2026-07-11T12:53:43+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 106,
-      "id": 92
+      "clusterId": 39,
+      "id": 154
     },
     {
       "source": "economist",
@@ -1595,8 +2649,8 @@
       "pubDate": "2026-07-11T12:53:37+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 50,
-      "id": 93
+      "clusterId": 40,
+      "id": 155
     },
     {
       "source": "ft",
@@ -1613,7 +2667,7 @@
       "image": "",
       "entities": "",
       "clusterId": 51,
-      "id": 94
+      "id": 156
     },
     {
       "source": "guardian",
@@ -1629,8 +2683,8 @@
       "pubDate": "2026-07-11T11:59:11+00:00",
       "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
       "entities": "",
-      "clusterId": 52,
-      "id": 95
+      "clusterId": 41,
+      "id": 157
     },
     {
       "source": "ap",
@@ -1647,7 +2701,7 @@
       "image": "",
       "entities": "",
       "clusterId": 53,
-      "id": 96
+      "id": 158
     },
     {
       "source": "wired",
@@ -1663,8 +2717,8 @@
       "pubDate": "2026-07-11T11:02:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 54,
-      "id": 97
+      "clusterId": 42,
+      "id": 159
     },
     {
       "source": "verge",
@@ -1680,8 +2734,8 @@
       "pubDate": "2026-07-11T11:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 55,
-      "id": 98
+      "clusterId": 43,
+      "id": 160
     },
     {
       "source": "verge",
@@ -1697,8 +2751,8 @@
       "pubDate": "2026-07-11T11:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 56,
-      "id": 99
+      "clusterId": 44,
+      "id": 161
     },
     {
       "source": "bloomberg",
@@ -1715,7 +2769,7 @@
       "image": "",
       "entities": "",
       "clusterId": 57,
-      "id": 100
+      "id": 162
     },
     {
       "source": "wired",
@@ -1731,8 +2785,8 @@
       "pubDate": "2026-07-11T11:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 58,
-      "id": 101
+      "clusterId": 45,
+      "id": 163
     },
     {
       "source": "scmp",
@@ -1748,8 +2802,8 @@
       "pubDate": "2026-07-11T10:49:16+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 59,
-      "id": 102
+      "clusterId": 46,
+      "id": 164
     },
     {
       "source": "nikkei",
@@ -1766,7 +2820,7 @@
       "image": "",
       "entities": "",
       "clusterId": 2,
-      "id": 103
+      "id": 165
     },
     {
       "source": "nikkei",
@@ -1783,7 +2837,7 @@
       "image": "",
       "entities": "",
       "clusterId": 60,
-      "id": 104
+      "id": 166
     },
     {
       "source": "wired",
@@ -1799,8 +2853,8 @@
       "pubDate": "2026-07-11T10:31:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 61,
-      "id": 105
+      "clusterId": 47,
+      "id": 167
     },
     {
       "source": "wired",
@@ -1816,8 +2870,8 @@
       "pubDate": "2026-07-11T10:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 62,
-      "id": 106
+      "clusterId": 48,
+      "id": 168
     },
     {
       "source": "verge",
@@ -1833,8 +2887,8 @@
       "pubDate": "2026-07-11T10:18:33-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 63,
-      "id": 107
+      "clusterId": 49,
+      "id": 169
     },
     {
       "source": "bloomberg",
@@ -1850,8 +2904,8 @@
       "pubDate": "2026-07-11T10:01:11+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 64,
-      "id": 108
+      "clusterId": 50,
+      "id": 170
     },
     {
       "source": "nyt",
@@ -1867,8 +2921,8 @@
       "pubDate": "2026-07-11T10:00:04+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/world/11-int-canadaletter-04/11-int-canadaletter-04-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 65,
-      "id": 109
+      "clusterId": 51,
+      "id": 171
     },
     {
       "source": "wired",
@@ -1884,8 +2938,25 @@
       "pubDate": "2026-07-11T10:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 66,
-      "id": 110
+      "clusterId": 52,
+      "id": 172
+    },
+    {
+      "source": "scmp",
+      "sourceName": "South China Morning Post",
+      "category": "business",
+      "title": "New Zealand-India trade, defence pact celebrated despite criticism - South China Morning Post",
+      "titleOriginal": "New Zealand-India trade, defence pact celebrated despite criticism - South China Morning Post",
+      "description": "New Zealand-India trade, defence pact celebrated despite criticism&nbsp;&nbsp;South China Morning Post",
+      "descriptionOriginal": "",
+      "content": "New Zealand-India trade, defence pact celebrated despite criticism&nbsp;&nbsp;South China Morning Post",
+      "contentOriginal": "New Zealand-India trade, defence pact celebrated despite criticism&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUktSeXY0WHp1SEZqZXFrcGdpOEpNMzd1Vm4zM1JMWWZpeTJpeFpLN2d5a3pMTUx4NFNIWml6Wkl1d0tzOXJjYlh2RGhNb29aZGVQa3ZuVTVQTTJ0dU9kYk5Vdmw2bkFKb0otS1h0WDdjUFRhdVR5T0MxV2JhckFqdmhXcHB3WENsOGZOcWNRQ01zVFVEWjRGOEM4RVpmZ2NvQUZacXFPNjBiSW9rUUN6c1NpVE16U2JJZEF1UDlhRjdCd9IBwgFBVV95cUxPekJaaEdnVFhUR1pUeDBoWnhhZlRjNmJBZ291Z0lqRzY0bTJfczZ0Zkx2SDk5ZXNmblFIN0todkJPNmQwdDdSTHBCanVoVkVUNFY2OE5Lc0wyRllxXzBxT1dDY1d2MjEzNGE0bEk0aHJtUWZCMVlfelJVS1g3N1lpUWNHVTUwUE92Sk92SU1xRVRTLThZcE5lRGt2UWVlUEdCcVA1Q2tFMENrXzh2d1ZxeTg5TGRqbTBjbFkwRDFXN1h0dw?oc=5",
+      "pubDate": "2026-07-11T09:55:40+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 99,
+      "id": 173
     },
     {
       "source": "wired",
@@ -1901,8 +2972,8 @@
       "pubDate": "2026-07-11T09:32:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 67,
-      "id": 111
+      "clusterId": 53,
+      "id": 174
     },
     {
       "source": "wired",
@@ -1918,8 +2989,8 @@
       "pubDate": "2026-07-11T09:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 68,
-      "id": 112
+      "clusterId": 54,
+      "id": 175
     },
     {
       "source": "scmp",
@@ -1935,8 +3006,8 @@
       "pubDate": "2026-07-11T09:00:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 69,
-      "id": 113
+      "clusterId": 55,
+      "id": 176
     },
     {
       "source": "verge",
@@ -1946,14 +3017,14 @@
       "titleOriginal": "ICE are heavily armed killers. They’re also huge losers",
       "description": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the firs",
       "descriptionOriginal": "",
-      "content": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online. Since taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy railing against immigrants and call up ICE recruits as if we're fig … Read the full story at The Verge.",
-      "contentOriginal": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online. Since taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy railing against immigrants and call up ICE recruits as if we're fig … Read the full story at The Verge.",
+      "content": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online. Since taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy and call up ICE recruits as if we're fighting a new World War, this … Read the full story at The Verge.",
+      "contentOriginal": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online. Since taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy and call up ICE recruits as if we're fighting a new World War, this … Read the full story at The Verge.",
       "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
       "pubDate": "2026-07-11T09:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 70,
-      "id": 114
+      "clusterId": 56,
+      "id": 177
     },
     {
       "source": "wired",
@@ -1969,8 +3040,8 @@
       "pubDate": "2026-07-11T09:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 71,
-      "id": 115
+      "clusterId": 57,
+      "id": 178
     },
     {
       "source": "bloomberg",
@@ -1986,8 +3057,8 @@
       "pubDate": "2026-07-11T09:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 72,
-      "id": 116
+      "clusterId": 58,
+      "id": 179
     },
     {
       "source": "verge",
@@ -2003,8 +3074,8 @@
       "pubDate": "2026-07-11T08:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 73,
-      "id": 117
+      "clusterId": 59,
+      "id": 180
     },
     {
       "source": "verge",
@@ -2020,8 +3091,8 @@
       "pubDate": "2026-07-11T08:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 74,
-      "id": 118
+      "clusterId": 60,
+      "id": 181
     },
     {
       "source": "nikkei",
@@ -2037,8 +3108,8 @@
       "pubDate": "2026-07-11T08:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 75,
-      "id": 119
+      "clusterId": 61,
+      "id": 182
     },
     {
       "source": "bloomberg",
@@ -2055,7 +3126,7 @@
       "image": "",
       "entities": "",
       "clusterId": 113,
-      "id": 120
+      "id": 183
     },
     {
       "source": "nikkei",
@@ -2072,7 +3143,7 @@
       "image": "",
       "entities": "",
       "clusterId": 77,
-      "id": 121
+      "id": 184
     },
     {
       "source": "bloomberg",
@@ -2089,7 +3160,24 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 122
+      "id": 185
+    },
+    {
+      "source": "scmp",
+      "sourceName": "South China Morning Post",
+      "category": "business",
+      "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert - South China Morning Post",
+      "titleOriginal": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert - South China Morning Post",
+      "description": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert&nbsp;&nbsp;South China Morning Post",
+      "descriptionOriginal": "",
+      "content": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert&nbsp;&nbsp;South China Morning Post",
+      "contentOriginal": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk9hT19FbmVCNTRUdk9GeXpCTndibVBNVEMwOHhaM19lS2FZZnM2eklYNDhvbng3bDNnTlF0WDlHQjF4XzRaRGhHRzM2RXNJQW1zZS1yaXNqY0hISzhGRWZJUFY1U1h0bG91OEFKZnhUbnNUOWl4MkNVZDZvTW1mbXhhTV9VVlBsM0dUdmVrOFFvYlVOd2FpbllUQk9WU2tkUTA0c2FMcVpmYzZIeHFHRjZ5TjZvUkZiTzNZdjZlZEhtMmRa0gHEAUFVX3lxTE9Zd2I2bFVyVnExUWU4TkVZajl3UHpwcC1YVnR1U3BIRkFlNHBHS0NTckhKaVZYdUFQY0drRlBfc3NqVVQ4azRfOUNuSVZJbUdEaE9aZjBGa0p6VHJvekYzSEdjR0ljcURzNnUxYm0tenAtNVZIcTU3TmpjS3hjU09nM2hGZlhHQloxY0NNdFJzNGl0bHVTTGpwQW9vYTlQQldieTJscFI5ZjFsSHNzNDZzdTJ4Xzgzb2xxVEhFUXJnanhPa2E?oc=5",
+      "pubDate": "2026-07-11T07:00:07+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 98,
+      "id": 186
     },
     {
       "source": "scmp",
@@ -2106,7 +3194,7 @@
       "image": "",
       "entities": "",
       "clusterId": 79,
-      "id": 123
+      "id": 187
     },
     {
       "source": "scmp",
@@ -2122,8 +3210,8 @@
       "pubDate": "2026-07-11T06:00:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 76,
-      "id": 124
+      "clusterId": 62,
+      "id": 188
     },
     {
       "source": "scmp",
@@ -2140,7 +3228,7 @@
       "image": "",
       "entities": "",
       "clusterId": 67,
-      "id": 125
+      "id": 189
     },
     {
       "source": "reuters",
@@ -2156,8 +3244,8 @@
       "pubDate": "2026-07-11T04:46:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 80,
-      "id": 126
+      "clusterId": 63,
+      "id": 190
     },
     {
       "source": "ft",
@@ -2174,24 +3262,7 @@
       "image": "",
       "entities": "",
       "clusterId": 81,
-      "id": 127
-    },
-    {
-      "source": "ft",
-      "sourceName": "Financial Times",
-      "category": "business",
-      "title": "Prepare for a perilous summer in markets - Financial Times",
-      "titleOriginal": "Prepare for a perilous summer in markets - Financial Times",
-      "description": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
-      "descriptionOriginal": "",
-      "content": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
-      "contentOriginal": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODNUOEg4Z1JOUFkzTzdqSW5ZazBFZE1SSFFFVURUUlpJRWxCa09uQ3d1VUZnSS1DelBDNUNaUEd3Y2hnVnhBWThWdHNtSVFSeEFyaldMRkNpVVBCQnZ3RUYzTkRleFdhQ3hTSXl5Y2NlR1FybzNVQThBSk1fMmNYd05Kd0w?oc=5",
-      "pubDate": "2026-07-11T04:01:10+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 82,
-      "id": 128
+      "id": 191
     },
     {
       "source": "ft",
@@ -2208,7 +3279,7 @@
       "image": "",
       "entities": "",
       "clusterId": 61,
-      "id": 129
+      "id": 192
     },
     {
       "source": "ft",
@@ -2225,7 +3296,7 @@
       "image": "",
       "entities": "",
       "clusterId": 71,
-      "id": 130
+      "id": 193
     },
     {
       "source": "ft",
@@ -2241,8 +3312,8 @@
       "pubDate": "2026-07-11T04:01:10+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 84,
-      "id": 131
+      "clusterId": 65,
+      "id": 194
     },
     {
       "source": "nyt",
@@ -2258,42 +3329,25 @@
       "pubDate": "2026-07-11T04:01:08+00:00",
       "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 85,
-      "id": 132
+      "clusterId": 66,
+      "id": 195
     },
     {
       "source": "ft",
       "sourceName": "Financial Times",
       "category": "business",
-      "title": "Tropical nights come to Europe - Financial Times",
-      "titleOriginal": "Tropical nights come to Europe - Financial Times",
-      "description": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
+      "title": "Prepare for a perilous summer in markets - Financial Times",
+      "titleOriginal": "Prepare for a perilous summer in markets - Financial Times",
+      "description": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
       "descriptionOriginal": "",
-      "content": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
-      "contentOriginal": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUU1N1hpaXYyRjgwYTF5UGZOTWkwSE1jR1Q5U3UwYkRoS3oxeW0tNGxEckZPdjZQMXJlTEdJNF9ySzlMX3FuZFNHczNHSTlMVUNkTHozN3JYUjFHWndReXBEUHdSZjV5d2lkTld3T0dfMVo1eG5tb3RQTjQyejZ3bWFkZnU?oc=5",
-      "pubDate": "2026-07-11T04:00:50+00:00",
+      "content": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Prepare for a perilous summer in markets&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODNUOEg4Z1JOUFkzTzdqSW5ZazBFZE1SSFFFVURUUlpJRWxCa09uQ3d1VUZnSS1DelBDNUNaUEd3Y2hnVnhBWThWdHNtSVFSeEFyaldMRkNpVVBCQnZ3RUYzTkRleFdhQ3hTSXl5Y2NlR1FybzNVQThBSk1fMmNYd05Kd0w?oc=5",
+      "pubDate": "2026-07-11T04:00:41+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 86,
-      "id": 133
-    },
-    {
-      "source": "ft",
-      "sourceName": "Financial Times",
-      "category": "business",
-      "title": "Who cleans up after the vibe-coding party? - Financial Times",
-      "titleOriginal": "Who cleans up after the vibe-coding party? - Financial Times",
-      "description": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
-      "descriptionOriginal": "",
-      "content": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
-      "contentOriginal": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk9CWXNEajNGUTBTS2dNM0ZGMFVRUU1JZndPUC1xSVgta2lUQzBXdG9PV3hLY09YekRfR3ptVy1NMExVallGTHVCNFV5bmxMcHkzZmIzQTE2eThkVTJuUkI0bUgyc190YW5kd0tvalhFRHZuVnltaFk3clcxV1BQS3BzVEE?oc=5",
-      "pubDate": "2026-07-11T04:00:50+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 87,
-      "id": 134
+      "clusterId": 64,
+      "id": 196
     },
     {
       "source": "ft",
@@ -2309,8 +3363,59 @@
       "pubDate": "2026-07-11T04:00:41+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 83,
-      "id": 135
+      "clusterId": 69,
+      "id": 197
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "What history tells us about Trump’s self-enrichment - Financial Times",
+      "titleOriginal": "What history tells us about Trump’s self-enrichment - Financial Times",
+      "description": "What history tells us about Trump’s self-enrichment&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "What history tells us about Trump’s self-enrichment&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "What history tells us about Trump’s self-enrichment&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zWERMUmhRU1hZMlp4bnNQSkdpQkFJSnBMWE9ZRm1tb0Qwb09IX1JvbjlvSmc3V2NjZThLbmtBVFJPNEY0b2RZOENjMU5HWDBFbGxyMkZfU0EzMjcxQnY2RXk4eE01U1lqR0dGdE9uNFI?oc=5",
+      "pubDate": "2026-07-11T04:00:19+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 93,
+      "id": 198
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "Who cleans up after the vibe-coding party? - Financial Times",
+      "titleOriginal": "Who cleans up after the vibe-coding party? - Financial Times",
+      "description": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Who cleans up after the vibe-coding party?&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMk9CWXNEajNGUTBTS2dNM0ZGMFVRUU1JZndPUC1xSVgta2lUQzBXdG9PV3hLY09YekRfR3ptVy1NMExVallGTHVCNFV5bmxMcHkzZmIzQTE2eThkVTJuUkI0bUgyc190YW5kd0tvalhFRHZuVnltaFk3clcxV1BQS3BzVEE?oc=5",
+      "pubDate": "2026-07-11T04:00:10+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 68,
+      "id": 199
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "Tropical nights come to Europe - Financial Times",
+      "titleOriginal": "Tropical nights come to Europe - Financial Times",
+      "description": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Tropical nights come to Europe&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUU1N1hpaXYyRjgwYTF5UGZOTWkwSE1jR1Q5U3UwYkRoS3oxeW0tNGxEckZPdjZQMXJlTEdJNF9ySzlMX3FuZFNHczNHSTlMVUNkTHozN3JYUjFHWndReXBEUHdSZjV5d2lkTld3T0dfMVo1eG5tb3RQTjQyejZ3bWFkZnU?oc=5",
+      "pubDate": "2026-07-11T04:00:09+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 67,
+      "id": 200
     },
     {
       "source": "ft",
@@ -2326,8 +3431,8 @@
       "pubDate": "2026-07-11T04:00:08+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 114,
-      "id": 136
+      "clusterId": 70,
+      "id": 201
     },
     {
       "source": "scmp",
@@ -2343,8 +3448,8 @@
       "pubDate": "2026-07-11T03:51:54+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 9,
-      "id": 137
+      "clusterId": 0,
+      "id": 202
     },
     {
       "source": "verge",
@@ -2361,7 +3466,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 138
+      "id": 203
     },
     {
       "source": "bloomberg",
@@ -2378,7 +3483,7 @@
       "image": "",
       "entities": "",
       "clusterId": 52,
-      "id": 139
+      "id": 204
     },
     {
       "source": "techcrunch",
@@ -2394,8 +3499,8 @@
       "pubDate": "2026-07-11T01:01:28+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 88,
-      "id": 140
+      "clusterId": 71,
+      "id": 205
     },
     {
       "source": "reuters",
@@ -2412,7 +3517,7 @@
       "image": "",
       "entities": "",
       "clusterId": 89,
-      "id": 141
+      "id": 206
     },
     {
       "source": "ap",
@@ -2429,7 +3534,7 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 142
+      "id": 207
     },
     {
       "source": "techcrunch",
@@ -2445,8 +3550,8 @@
       "pubDate": "2026-07-11T00:29:25+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 90,
-      "id": 143
+      "clusterId": 72,
+      "id": 208
     },
     {
       "source": "ap",
@@ -2463,7 +3568,7 @@
       "image": "",
       "entities": "",
       "clusterId": 91,
-      "id": 144
+      "id": 209
     },
     {
       "source": "ap",
@@ -2480,7 +3585,7 @@
       "image": "",
       "entities": "",
       "clusterId": 92,
-      "id": 145
+      "id": 210
     },
     {
       "source": "techcrunch",
@@ -2496,8 +3601,8 @@
       "pubDate": "2026-07-10T23:55:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 12,
-      "id": 146
+      "clusterId": 16,
+      "id": 211
     },
     {
       "source": "nikkei",
@@ -2514,7 +3619,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 147
+      "id": 212
     },
     {
       "source": "reuters",
@@ -2531,7 +3636,7 @@
       "image": "",
       "entities": "",
       "clusterId": 83,
-      "id": 148
+      "id": 213
     },
     {
       "source": "bloomberg",
@@ -2548,7 +3653,7 @@
       "image": "",
       "entities": "",
       "clusterId": 93,
-      "id": 149
+      "id": 214
     },
     {
       "source": "nikkei",
@@ -2565,7 +3670,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 150
+      "id": 215
     },
     {
       "source": "scmp",
@@ -2582,7 +3687,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 151
+      "id": 216
     },
     {
       "source": "scmp",
@@ -2598,8 +3703,8 @@
       "pubDate": "2026-07-10T22:27:02+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 13,
-      "id": 152
+      "clusterId": 17,
+      "id": 217
     },
     {
       "source": "scmp",
@@ -2616,7 +3721,7 @@
       "image": "",
       "entities": "",
       "clusterId": 85,
-      "id": 153
+      "id": 218
     },
     {
       "source": "ap",
@@ -2632,8 +3737,8 @@
       "pubDate": "2026-07-10T22:17:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 11,
-      "id": 154
+      "clusterId": 14,
+      "id": 219
     },
     {
       "source": "techcrunch",
@@ -2649,8 +3754,8 @@
       "pubDate": "2026-07-10T21:51:55+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 94,
-      "id": 155
+      "clusterId": 73,
+      "id": 220
     },
     {
       "source": "reuters",
@@ -2666,8 +3771,8 @@
       "pubDate": "2026-07-10T21:36:03+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 11,
-      "id": 156
+      "clusterId": 14,
+      "id": 221
     },
     {
       "source": "reuters",
@@ -2684,7 +3789,7 @@
       "image": "",
       "entities": "",
       "clusterId": 107,
-      "id": 157
+      "id": 222
     },
     {
       "source": "reuters",
@@ -2701,7 +3806,7 @@
       "image": "",
       "entities": "",
       "clusterId": 95,
-      "id": 158
+      "id": 223
     },
     {
       "source": "reuters",
@@ -2718,7 +3823,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 159
+      "id": 224
     },
     {
       "source": "ap",
@@ -2735,7 +3840,7 @@
       "image": "",
       "entities": "",
       "clusterId": 89,
-      "id": 160
+      "id": 225
     },
     {
       "source": "techcrunch",
@@ -2751,8 +3856,8 @@
       "pubDate": "2026-07-10T21:00:29+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 13,
-      "id": 161
+      "clusterId": 17,
+      "id": 226
     },
     {
       "source": "nikkei",
@@ -2769,7 +3874,7 @@
       "image": "",
       "entities": "",
       "clusterId": 91,
-      "id": 162
+      "id": 227
     },
     {
       "source": "bloomberg",
@@ -2786,7 +3891,7 @@
       "image": "",
       "entities": "",
       "clusterId": 58,
-      "id": 163
+      "id": 228
     },
     {
       "source": "bloomberg",
@@ -2803,7 +3908,7 @@
       "image": "",
       "entities": "",
       "clusterId": 92,
-      "id": 164
+      "id": 229
     },
     {
       "source": "ft",
@@ -2820,7 +3925,7 @@
       "image": "",
       "entities": "",
       "clusterId": 66,
-      "id": 165
+      "id": 230
     },
     {
       "source": "reuters",
@@ -2837,7 +3942,7 @@
       "image": "",
       "entities": "",
       "clusterId": 105,
-      "id": 166
+      "id": 231
     },
     {
       "source": "verge",
@@ -2854,7 +3959,7 @@
       "image": "",
       "entities": "",
       "clusterId": 93,
-      "id": 167
+      "id": 232
     },
     {
       "source": "bloomberg",
@@ -2871,7 +3976,7 @@
       "image": "",
       "entities": "",
       "clusterId": 94,
-      "id": 168
+      "id": 233
     },
     {
       "source": "nikkei",
@@ -2888,7 +3993,7 @@
       "image": "",
       "entities": "",
       "clusterId": 76,
-      "id": 169
+      "id": 234
     },
     {
       "source": "verge",
@@ -2904,8 +4009,8 @@
       "pubDate": "2026-07-10T19:49:50-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 12,
-      "id": 170
+      "clusterId": 16,
+      "id": 235
     },
     {
       "source": "reuters",
@@ -2922,7 +4027,7 @@
       "image": "",
       "entities": "",
       "clusterId": 95,
-      "id": 171
+      "id": 236
     },
     {
       "source": "nikkei",
@@ -2939,7 +4044,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 172
+      "id": 237
     },
     {
       "source": "reuters",
@@ -2956,7 +4061,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 173
+      "id": 238
     },
     {
       "source": "techcrunch",
@@ -2973,7 +4078,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 174
+      "id": 239
     },
     {
       "source": "techcrunch",
@@ -2990,7 +4095,7 @@
       "image": "",
       "entities": "",
       "clusterId": 112,
-      "id": 175
+      "id": 240
     },
     {
       "source": "reuters",
@@ -3007,7 +4112,7 @@
       "image": "",
       "entities": "",
       "clusterId": 8,
-      "id": 176
+      "id": 241
     },
     {
       "source": "economist",
@@ -3024,7 +4129,7 @@
       "image": "",
       "entities": "",
       "clusterId": 68,
-      "id": 177
+      "id": 242
     },
     {
       "source": "scmp",
@@ -3041,7 +4146,7 @@
       "image": "",
       "entities": "",
       "clusterId": 84,
-      "id": 178
+      "id": 243
     },
     {
       "source": "nyt",
@@ -3057,8 +4162,8 @@
       "pubDate": "2026-07-10T16:00:30+00:00",
       "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-Iran-Supreme-Leader-lpbq/10int-Iran-Supreme-Leader-lpbq-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 98,
-      "id": 179
+      "clusterId": 74,
+      "id": 244
     },
     {
       "source": "ft",
@@ -3075,7 +4180,7 @@
       "image": "",
       "entities": "",
       "clusterId": 62,
-      "id": 180
+      "id": 245
     },
     {
       "source": "guardian",
@@ -3091,8 +4196,8 @@
       "pubDate": "2026-07-10T07:00:14+00:00",
       "image": "https://i.guim.co.uk/img/media/1f3499a36b13998727100bda701915513e4c6156/149_0_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=3a9965c4a40c281dd153f2e8e18170a6",
       "entities": "",
-      "clusterId": 99,
-      "id": 181
+      "clusterId": 75,
+      "id": 246
     },
     {
       "source": "guardian",
@@ -3108,8 +4213,8 @@
       "pubDate": "2026-07-09T18:17:49+00:00",
       "image": "https://i.guim.co.uk/img/media/d0cfc80c5603c13819ba56c51101b2175286d613/378_0_2678_2143/master/2678.jpg?width=140&quality=85&auto=format&fit=max&s=3e08e0f3ae95d4bb57c7e897404c3e56",
       "entities": "",
-      "clusterId": 100,
-      "id": 182
+      "clusterId": 76,
+      "id": 247
     },
     {
       "source": "guardian",
@@ -3125,8 +4230,8 @@
       "pubDate": "2026-07-09T16:20:41+00:00",
       "image": "https://i.guim.co.uk/img/media/f80796421f1ba8310e6cf11d9923b0d36fda17d6/584_0_3309_2649/master/3309.jpg?width=140&quality=85&auto=format&fit=max&s=2c7e4088119348a28d3bdfa3bae10781",
       "entities": "",
-      "clusterId": 101,
-      "id": 183
+      "clusterId": 77,
+      "id": 248
     },
     {
       "source": "guardian",
@@ -3142,8 +4247,8 @@
       "pubDate": "2026-07-09T12:59:24+00:00",
       "image": "https://i.guim.co.uk/img/media/cb64db381071a26d7d1ec4f5be1dd6a4cec35e1b/373_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=657bd343268c53ef0b7f90b382be7899",
       "entities": "",
-      "clusterId": 102,
-      "id": 184
+      "clusterId": 78,
+      "id": 249
     },
     {
       "source": "guardian",
@@ -3159,8 +4264,8 @@
       "pubDate": "2026-07-09T12:20:09+00:00",
       "image": "https://i.guim.co.uk/img/media/1187bdfd3c4a3cbb71340e89c8fc9f455b7f72b5/501_358_1830_1464/master/1830.jpg?width=140&quality=85&auto=format&fit=max&s=a519940cfcc5c97f2c25c967b1c78dfe",
       "entities": "",
-      "clusterId": 103,
-      "id": 185
+      "clusterId": 79,
+      "id": 250
     },
     {
       "source": "guardian",
@@ -3177,9 +4282,9 @@
       "image": "https://i.guim.co.uk/img/media/df099147619de4c1f6a96fd8bb43231d50b1eca4/523_0_3561_2850/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=fa32eba055a8cafd018630403f3a0e2a",
       "entities": "",
       "clusterId": 104,
-      "id": 186
+      "id": 251
     }
   ],
-  "updated": "2026-07-11T23:56:30.619995+00:00",
+  "updated": "2026-07-12T03:46:42.689347+00:00",
   "sourceCount": 19
 }
