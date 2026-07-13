@@ -1,6 +1,414 @@
 {
   "articles": [
     {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "‘유럽 폭염’ 한국도 전염됐나…오늘 낮 최고 37도 ‘찜통 더위’, 곳곳 소나기",
+      "titleOriginal": "",
+      "description": "전국이 매우 무덥고 열대야가 나타나는 곳이 많겠다. 13일 연합뉴스에 따르면 오전 8시 주요 도시 기온을 보면 서울 28.6도, 인천 29.1도, 대전 29.6도, 광주 28.8도..",
+      "descriptionOriginal": "",
+      "content": "전국이 매우 무덥고 열대야가 나타나는 곳이 많겠다. 13일 연합뉴스에 따르면 오전 8시 주요 도시 기온을 보면 서울 28.6도, 인천 29.1도, 대전 29.6도, 광주 28.8도..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/society/12096718",
+      "pubDate": "2026-07-13T09:00:03",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/rcv.YNA.20260712.PYH2026071207400001300_R.jpg",
+      "entities": "",
+      "clusterId": 17,
+      "id": 0
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "[월드앤이슈] 미군, 이란에 추가 공습…MOU 파국",
+      "titleOriginal": "",
+      "description": "&lt;출연 : 조윤주 외신캐스터&gt; 다양한 국제뉴스를 깊이있게 전해드리는 &lt;월드앤이슈&gt;입니다. 오늘은 조윤주 외신캐스터와 함께 합니다. &lt;질문 1&gt; 미국과 이란이 지난달 체결한 60일짜리 휴전 MOU가 이렇게 끝나는 걸까요? 이란이 호르무즈 해협 재봉쇄라는 초강수를 꺼내 들었고, 미국은 다시 대대적인 추가 공습에 나섰다고요? &lt;질문 2&gt; 한발 더 나아가 이란에서는 트럼프 대통령 등에 대한 직접적인 신변...",
+      "descriptionOriginal": "",
+      "content": "&lt;출연 : 조윤주 외신캐스터&gt; 다양한 국제뉴스를 깊이있게 전해드리는 &lt;월드앤이슈&gt;입니다. 오늘은 조윤주 외신캐스터와 함께 합니다. &lt;질문 1&gt; 미국과 이란이 지난달 체결한 60일짜리 휴전 MOU가 이렇게 끝나는 걸까요? 이란이 호르무즈 해협 재봉쇄라는 초강수를 꺼내 들었고, 미국은 다시 대대적인 추가 공습에 나섰다고요? &lt;질문 2&gt; 한발 더 나아가 이란에서는 트럼프 대통령 등에 대한 직접적인 신변 위협 얘기마저 나오고 있죠? &lt;질문 3&gt; 이런 가운데 최근 이란 전 최고지도자 하메네이의 장례식에서 마스크로 얼굴을 가린 남성이 포착돼 그 정체를 두고 관심이 쏠리고 있습니다. 일각에서는 끝내 나타나지 않았던 아들 모즈타바 신임 최고지도자가 변장한 것 아니냔 추측이 나오고 있어요? &lt;질문 4 &gt; 지난 주 중국 남부 지역에 폭우와 산사태로 큰 피해가 있었는데요, 이번에는 태풍 ‘바비’가 상륙해 200만여 명 대피하고, 대만에서도 인명피해가 발생했다고요? &lt;질문 5&gt; 유럽은 이른 여름부터 살인적인 폭염에 시달리면서 폭염으로 인한 사망자가 계속해서 나오는 상황인데요. 이번엔 열대야가 계속되면서 최고기록마저 넘어섰다고요? &lt;질문 5-1&gt; 이렇게 유럽을 덮친 폭염에 관광객이 몰리는 프랑스 파리의 정책도 달라지고 있습니다. 유명한 관광명소들의 단축 운영은 물론, 고속철도는 운행을 멈췄다고요? &lt;질문 6&gt; 트럼프 대통령의 최측근 중 한 명이죠. 미국의 국방·국제·외교 정책 전반에 걸쳐 막강한 영향력을 행사해왔던 린지 그레이엄 상원의원이, 갑작스럽게 세상을 떠났어요? &lt;질문 7&gt; 북중미 월드컵 4강 대진표가 나왔습니다. 메시 대 케인, 음바페 대 야말, 이렇게 만나게 될 것 같은데, 정말 말 그대로 별들의 전쟁이 되겠는데요? 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 손성훈(sunghun906@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713085933hzO",
+      "pubDate": "2026-07-13T08:59:36+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713085933hzO.jpg",
+      "entities": "",
+      "clusterId": 8,
+      "id": 1
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "32→48→64개국…월드컵, 이러다 다 나가는 거 아니냐는 말까지",
+      "titleOriginal": "",
+      "description": "FIFA 회장, 월드컵 64개국 확대 검토잔니 인판티노 국제축구연맹(FIFA) 회장이 2030년 월드컵부터 출전국을 64개국으로 대폭 늘리는 방안을 본격적으로 검토하겠다고 밝혔다...",
+      "descriptionOriginal": "",
+      "content": "FIFA 회장, 월드컵 64개국 확대 검토잔니 인판티노 국제축구연맹(FIFA) 회장이 2030년 월드컵부터 출전국을 64개국으로 대폭 늘리는 방안을 본격적으로 검토하겠다고 밝혔다...",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/world/12096717",
+      "pubDate": "2026-07-13T08:58:51",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/rcv.NEWSIS.NEWSIS.20260612.NISI20260612_0001328526_R.jpg",
+      "entities": "",
+      "clusterId": 55,
+      "id": 2
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "[사건사고] 제주 강풍에 결항 속출…가로수도 쓰러져 外",
+      "titleOriginal": "",
+      "description": "사건사고입니다. ▶ 제주 강풍에 결항 속출…가로수도 쓰러져 주말 제주, 하늘길이 막혔습니다. 무더위 속에 강풍까지 불면서, 비행기 항공편 결항이 100편 넘게 이어졌는데요. 대체편을 구하려는 이용객들로 공항은 북새통을 이뤘습니다. 강풍의 위력이 어느 정도였냐면, 보시는 것처럼 가로수가 뿌리째 뽑혀 도로를 덮칠 정도였습니다. 곳곳에서 시설물 피해가 잇따랐는데요. 김나영 기자가 전해드립니다. [기자] 제주공항 전광판이 '결항' 안내로 빨갛게 ...",
+      "descriptionOriginal": "",
+      "content": "사건사고입니다. ▶ 제주 강풍에 결항 속출…가로수도 쓰러져 주말 제주, 하늘길이 막혔습니다. 무더위 속에 강풍까지 불면서, 비행기 항공편 결항이 100편 넘게 이어졌는데요. 대체편을 구하려는 이용객들로 공항은 북새통을 이뤘습니다. 강풍의 위력이 어느 정도였냐면, 보시는 것처럼 가로수가 뿌리째 뽑혀 도로를 덮칠 정도였습니다. 곳곳에서 시설물 피해가 잇따랐는데요. 김나영 기자가 전해드립니다. [기자] 제주공항 전광판이 '결항' 안내로 빨갛게 물들었습니다. 오도 가도 못한 승객들은 바닥에 주저앉았고, 항공편을 변경하려는 긴 줄은 끝없이 이어집니다. 이용객들이 한꺼번에 몰리면서 온라인 예약 사이트도 접속 장애를 빚었습니다. &lt;오상준 / 서울시&gt; \"지금 이렇게 줄이 많아가지고 (줄을) 서더라도 오래 걸리고 (예매)사이트에 들어갔는데 전부 오류로 떠가지고….\" 한라산과 주변 지형의 영향으로 제주공항에는 강풍과 급변풍이 자주 발생하는데, 주말 동안 두 경보가 동시에 내려지면서 항공편 105편이 결항해 약 2만명의 발이 묶였습니다. 국내선 74편과 국제선 11편 등 모두 85편이 지연 운항했고, 국제선 3편은 다른 공항으로 회항했습니다. 제주 대부분 지역에도 강풍주의보가 내려진 가운데, 전선이 끊기고 구조물이 떨어지거나 나무가 쓰러지는 등 모두 31건의 피해가 이어졌습니다. 기상청은 제주에 순간풍속 초속 20m 이상의 매우 강한 바람이 예상된다며 시설물 관리와 안전사고에 각별한 주의를 당부했습니다. 연합뉴스TV 김나영입니다. ▶ 대전 아파트 지하주차장 전기차 화재 깊은 새벽 지하 주차장, 이곳에 주차된 차량에서 갑자기 불길이 번집니다. 보시는 것처럼 차량 앞부분이 순식간에 화염에 휩싸였는데요. 어제 새벽 1시 40분쯤 대전시 동구에 있는 한 아파트 지하 주차장에 주차돼 있던 전기차에서 불이 났습니다. 불은 1시간 10여 분 만에 진화됐는데요. 불이 나면서 주민 100여 명이 긴급히 집 밖으로 대피하는 소동이 벌어졌고, 9살 어린이가 연기를 마시고 병원으로 옮겨져 치료를 받았습니다. 경찰은 정확한 화재 원인을 조사하고 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 손성훈(sunghun906@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713085841WAU",
+      "pubDate": "2026-07-13T08:58:41+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713085841WAU.jpg",
+      "entities": "",
+      "clusterId": 137,
+      "id": 3
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "서울 이틀째 열대야…전국 곳곳 ‘잠 못 드는 밤’",
+      "titleOriginal": "",
+      "description": "[앵커] 서울에서는 이틀째 열대야가 기승을 부렸습니다. 어제는 올해 처음으로 서울 전역에 열대야주의보도 내려졌는데요. 일요일 저녁인데도 시민들은 바깥으로 나가 저마다 다른 방식으로 더위를 피했습니다. 그 현장을 이재경 기자가 취재했습니다. [기자] 늦은 밤이지만, 한강공원은 더위를 피해 나온 시민들로 북적입니다. 더위를 식히기 위해 물에 발을 담그고, 시원한 물장구도 쳐봅니다. &lt;김예닮 / 서울시 동작구&gt; \"덥고 집에만 있으면 ...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 서울에서는 이틀째 열대야가 기승을 부렸습니다. 어제는 올해 처음으로 서울 전역에 열대야주의보도 내려졌는데요. 일요일 저녁인데도 시민들은 바깥으로 나가 저마다 다른 방식으로 더위를 피했습니다. 그 현장을 이재경 기자가 취재했습니다. [기자] 늦은 밤이지만, 한강공원은 더위를 피해 나온 시민들로 북적입니다. 더위를 식히기 위해 물에 발을 담그고, 시원한 물장구도 쳐봅니다. &lt;김예닮 / 서울시 동작구&gt; \"덥고 집에만 있으면 냉방비가 많이 나와서 일부러 좀 밖에 나오는 것 같아요. 좀 덥긴 한데, 물에 발을 담그니까 괜찮은 것 같아요.\" 휴대용 선풍기를 켜보고, 손부채도 부쳐보지만, 더위를 식히기엔 역부족입니다. 그래도 멀리서 온 친척과 함께 공원에 둘러앉아 여름밤을 즐겨봅니다. &lt;김기영·김은영 / 울산 울주군·경기도 성남시&gt; \"애들하고 같이 더워도, 앉아서 먹으면서, 땀 흘리면서 그렇게 여름을 보내려고요. &lt;너무 즐거워요. 날씨는 덥지만, 좋은 추억, 진짜 잊지 못할 추억인 것 같아요.&gt;\" 서울에서는 지난 토요일, 올해 처음으로 열대야가 관측된 데 이어 어제(12일)는 열대야주의보까지 내려지며 열대야는 이틀째 계속됐습니다. 열대야주의보는 서울의 경우 밤 최저기온이 26도 이상으로 예상될 때 발효됩니다. 지금 시각이 오후 11시쯤인데요. 이곳 서울 여의도 한강공원의 기온은 여전히 30도를 웃돌고 있습니다. 서울을 비롯해 전국 곳곳에서 열대야는 이어졌습니다. 해가 진 뒤 공원을 찾은 시민들은 야외무대에서 펼쳐지는 공연과 함께 더위를 잠시 잊어보는가 하면, 친구들과 운동하며 땀을 흘려 더위를 이겨내 봅니다. &lt;조성원·고이든샘·고원균·김민건 / 제주시&gt; \"친구들과 이제 함께 재밌게 농구를 하면서 지내다 보니까 더위가 생각나지도 않더라고요. 오히려 이제 땀이 나다 보면 더 시원해지는 경향이 있더라고요.\" 열대야를 이겨내는 방법은 조금씩 달랐지만, 더위가 물러가길 바라는 마음만큼은 같았습니다. &lt;현장음&gt; \"더위야 물러가라!\" 연합뉴스TV 이재경입니다. [영상취재 최문섭 송철홍 이병권] [영상편집 김경미] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이재경(jack0@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607130857220mR",
+      "pubDate": "2026-07-13T08:57:23+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607130857220mR.jpg",
+      "entities": "",
+      "clusterId": 138,
+      "id": 4
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "반도체 고점론? 내년까지 문제 없다는 한은…“AI 덕에 슈퍼사이클 더 간다”",
+      "titleOriginal": "",
+      "description": "“반도체 수요 증가보다 공급 더뎌”한국은행이 최근 제기되는 ‘반도체 고점론(피크아웃)’에 선을 그으며 인공지능(AI) 투자에 힘입어 글로벌 반도체 경기가 상당 기간 확장세를 이어갈..",
+      "descriptionOriginal": "",
+      "content": "“반도체 수요 증가보다 공급 더뎌”한국은행이 최근 제기되는 ‘반도체 고점론(피크아웃)’에 선을 그으며 인공지능(AI) 투자에 힘입어 글로벌 반도체 경기가 상당 기간 확장세를 이어갈..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/business/12096715",
+      "pubDate": "2026-07-13T08:57:04",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20231027.5a71eddb5b194e6d9ff8ab70a08d93cf_R.jpeg",
+      "entities": "",
+      "clusterId": 149,
+      "id": 5
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "‘좀 오르나’ 했던 국힘 지지율 꺾였다…“보수재건 없고 집안싸움만”",
+      "titleOriginal": "",
+      "description": "6·3 지방선거 패배 이후 한 달 넘게 지났지만 국민의힘이 보수 재건은커녕 계파 갈등의 늪에서 좀처럼 벗어나지 못하고 있다. 장동혁 대표 거취를 둘러싼 징계 공방과 한동훈 전 대표..",
+      "descriptionOriginal": "",
+      "content": "6·3 지방선거 패배 이후 한 달 넘게 지났지만 국민의힘이 보수 재건은커녕 계파 갈등의 늪에서 좀처럼 벗어나지 못하고 있다. 장동혁 대표 거취를 둘러싼 징계 공방과 한동훈 전 대표..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/politics/12096714",
+      "pubDate": "2026-07-13T08:57:03",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.7131a7b575c04c329945d303b0d0826e_R.png",
+      "entities": "",
+      "clusterId": 150,
+      "id": 6
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "베스핀글로벌, AIA생명 AI상담 어시스턴트 구축",
+      "titleOriginal": "",
+      "description": "AIA생명 고객 상담 프로젝트 지원 답변 추천 및 상담 후처리 자동화인공지능(AI) 서비스 및 솔루션 전문 기업 베스핀글로벌은 AIA생명의 차세대 고객 상담 혁신을 위한 스마트 인..",
+      "descriptionOriginal": "",
+      "content": "AIA생명 고객 상담 프로젝트 지원 답변 추천 및 상담 후처리 자동화인공지능(AI) 서비스 및 솔루션 전문 기업 베스핀글로벌은 AIA생명의 차세대 고객 상담 혁신을 위한 스마트 인..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/it/12096713",
+      "pubDate": "2026-07-13T08:56:42",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.6a36d7f79695439fb80f58eec4228efd_R.jpg",
+      "entities": "",
+      "clusterId": 151,
+      "id": 7
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "‘15억 피해’ 양치승, 헬스장 폐업 사건 법원으로…“전세 사기”",
+      "titleOriginal": "",
+      "description": "기부채납 관련 건물 임대와 보증금 사기 등으로 ‘15억원’의 피해를 입었다고 주장하고 있는 헬스 트레이너 양치승(52)의 사건이 법원의 판단을 받게 됐다. 13일 법조계에 따르면 ..",
+      "descriptionOriginal": "",
+      "content": "기부채납 관련 건물 임대와 보증금 사기 등으로 ‘15억원’의 피해를 입었다고 주장하고 있는 헬스 트레이너 양치승(52)의 사건이 법원의 판단을 받게 됐다. 13일 법조계에 따르면 ..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/society/12096711",
+      "pubDate": "2026-07-13T08:54:51",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.dc77ce31bb8e4a29a60f3bef951d3103_R.png",
+      "entities": "",
+      "clusterId": 32,
+      "id": 8
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "“2027년, 반도체 역사상 가장 심한 공급절벽”[오늘나온보고서]",
+      "titleOriginal": "",
+      "description": "KB증권, 삼전 목표가 60만원 유지KB증권이 2027년이 70년 반도체 역사상 가장 공급이 타이트할 것으로 예상된다면서 삼성전자의 목표가격을 60만원으로 제시했다. KB증권은 1..",
+      "descriptionOriginal": "",
+      "content": "KB증권, 삼전 목표가 60만원 유지KB증권이 2027년이 70년 반도체 역사상 가장 공급이 타이트할 것으로 예상된다면서 삼성전자의 목표가격을 60만원으로 제시했다. KB증권은 1..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/stock/12096709",
+      "pubDate": "2026-07-13T08:51:21",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.5b15fd91d3dc406e99faff5bac74e6bb_R.jpg",
+      "entities": "",
+      "clusterId": 152,
+      "id": 9
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "'프랑스 드레퓌스 무죄 판결 120주년' 동상 설치...마크롱 \"반유대주의 여전\"",
+      "titleOriginal": "",
+      "description": "프랑스 대법원 앞 광장에 설치된 드레퓌스 동상[AP 연합뉴스][AP 연합뉴스] 19세기 말 독일 스파이 누명을 쓰고 억울하게 투옥됐던 프랑스 유대계 장교 알프레드 드레퓌스의 무죄 인정 120주년을 맞아 그의 동상이 대법원 앞에 설치됐습니다. AFP 통신에 따르면 프랑스 정부는 대법원이 드레퓌스에게 무죄를 선고한 지 정확히 120주년이 되는 현지시간 12일 첫 국가 기념식을 열었습니다. 프랑스 정부는 지난해 7월 12일을 국가 기념일로 지정...",
+      "descriptionOriginal": "",
+      "content": "프랑스 대법원 앞 광장에 설치된 드레퓌스 동상[AP 연합뉴스][AP 연합뉴스] 19세기 말 독일 스파이 누명을 쓰고 억울하게 투옥됐던 프랑스 유대계 장교 알프레드 드레퓌스의 무죄 인정 120주년을 맞아 그의 동상이 대법원 앞에 설치됐습니다. AFP 통신에 따르면 프랑스 정부는 대법원이 드레퓌스에게 무죄를 선고한 지 정확히 120주년이 되는 현지시간 12일 첫 국가 기념식을 열었습니다. 프랑스 정부는 지난해 7월 12일을 국가 기념일로 지정하기로 했습니다. 1894년 당시 프랑스 육군 포병대위였던 드레퓌스는 반유대주의 기류에 휩쓸려 독일 스파이라는 누명을 쓰고 종신형 판결을 받았습니다. 이후 참모본부 정보국장이던 조르주 피카르 중령의 진상 규명 노력을 계기로 어렵게 두 차례 재심이 이뤄줘 드레퓌스 대위는 1906년 7월 무죄 선고와 함께 복권됐습니다. 이 사건으로 당시 프랑스 사회 전체는 드레퓌스파와 반(反)드레퓌스파로 양분돼 심각한 갈등을 겪었으며, 프랑스 사회 내 반유대주의가 얼마나 만연해 있었는지가 드러났습니다. 높이 3.5ｍ 드레퓌스 조각상은 1985년 처음 제작됐습니다. 애초 군사 교육기관인 에콜 밀리테르 안뜰에 설치될 예정이었으나 군 수뇌부의 반대로 설치되지 못해 40년 동안 파리 곳곳을 떠돌았습니다. 마크롱 대통령은 기념식에서 \"드레퓌스 사건은 1906년 대법원 판결과 드레퓌스의 군 복직으로 끝난 역사가 아니다. 반유대주의라는 오래된 악령이 우리나라에서 완전히 사라진 적이 없다는 걸 우리는 잘 알고 있다\"며 항상 경계를 늦춰선 안 된다고 밝혔습니다. 마크롱 대통령은 \"'드레퓌스주의'는 한 사람이 속한 종교, 출신, 공동체가 그를 맹목적인 사법과 여론의 희생양으로 내몰 수 있는 구실이 돼서는 안 된다는 정신\"이라고 강조했습니다. #드레퓌스 #무죄 #120주년 #동상 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이성섭(leess@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260713085001w3g",
+      "pubDate": "2026-07-13T08:50:04+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713085001w3g_01_i.jpg",
+      "entities": "",
+      "clusterId": 139,
+      "id": 10
+    },
+    {
+      "source": "mk",
+      "sourceName": "매일경제",
+      "category": "korea",
+      "title": "iM증권 “DB손해보험, 신계약 물량 축소 예상…투자손익 중심 호실적”",
+      "titleOriginal": "",
+      "description": "iM증권은 13일 DB손해보험에 대해 투자손익 중심의 호실적이 예상된다며 투자의견 ‘매수’, 목표주가 22만원을 유지했다. iM증권은 DB손해보험의 올해 2분기 별도 순이익은 전년..",
+      "descriptionOriginal": "",
+      "content": "iM증권은 13일 DB손해보험에 대해 투자손익 중심의 호실적이 예상된다며 투자의견 ‘매수’, 목표주가 22만원을 유지했다. iM증권은 DB손해보험의 올해 2분기 별도 순이익은 전년..",
+      "contentOriginal": "",
+      "link": "https://www.mk.co.kr/news/stock/12096705",
+      "pubDate": "2026-07-13T08:47:45",
+      "image": "https://pimg.mk.co.kr/news/cms/202607/13/news-p.v1.20260713.606c6f6301984024b2c60830ed77e15a_R.jpg",
+      "entities": "",
+      "clusterId": 153,
+      "id": 11
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "칩플레이션 여파…삼성전자, 수리용 자재비 인상",
+      "titleOriginal": "",
+      "description": "삼성전자서비스 엔지니어가 스마트폰을 수리하는 모습[삼성전자서비스 제공. 재판매 및 DB 금지][삼성전자서비스 제공. 재판매 및 DB 금지] 메모리 반도체 가격 상승 등 이른바 '칩플레이션' 영향으로 원자재 가격이 오르면서, AS나 서비스 가격도 동반 상승할 것으로 전망됩니다. 업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 인상했습니다. 부품·자재 전반의 가격 폭등에 지난 1월에 이어 6개월 만에 올해 두 번째 ...",
+      "descriptionOriginal": "",
+      "content": "삼성전자서비스 엔지니어가 스마트폰을 수리하는 모습[삼성전자서비스 제공. 재판매 및 DB 금지][삼성전자서비스 제공. 재판매 및 DB 금지] 메모리 반도체 가격 상승 등 이른바 '칩플레이션' 영향으로 원자재 가격이 오르면서, AS나 서비스 가격도 동반 상승할 것으로 전망됩니다. 업계에 따르면 삼성전자는 이달 초 삼성전자서비스에 납품하는 수리용 자재비를 인상했습니다. 부품·자재 전반의 가격 폭등에 지난 1월에 이어 6개월 만에 올해 두 번째 인상을 결정한 것으로 전해졌습니다. 스마트폰 등 모바일경험(MX)사업부 제품 자재비는 평균 5%, 생활가전(DA)사업부 제품 자재비는 평균 9% 올랐고, 스마트폰에 탑재되는 칩과 패널뿐 아니라 에어컨·세탁기 등에 탑재되는 모터, 컴프레셔 등 각종 부품이 포함됐습니다. 통상 수리용 자재비는 경쟁사와 단가를 비교해 결정되는데, 앞서 경쟁사들이 먼저 비용을 올렸고 삼성전자도 이러한 흐름에 발맞춰 가격 인상을 결정한 것으로 알려졌습니다. AS·수리 비용의 80∼90%를 자재비가 차지하는 것을 감안하면, 향후 소비자가 체감하는 서비스 가격도 소폭 오를 전망입니다. 이와함께 스마트폰·노트북 가격도 지속 상승하고 있습니다. 시장조사업체 옴디아는 올해 전 세계 스마트폰 평균판매가격(ASP)이 전년 대비 21% 상승할 것으로 내다봤습니다. 실제로 업계에서는 오는 9월 출시되는 애플의 차세대 스마트폰 '아이폰18 프로맥스' 국내 판매가격이 300만원을 넘어설 수 있다는 전망이 나옵니다. 이달 공개될 삼성전자의 '갤럭시 Z폴드8' 출고가도 256GB 기준 2천달러(약 301만 원)를 넘길 것으로 보입니다. #칩플레이션 #삼성전자 #삼성전자서비스 #스마트폰 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 구하림(halimkoo@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260713084234iJD",
+      "pubDate": "2026-07-13T08:42:37+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713084234iJD_01_i.jpg",
+      "entities": "",
+      "clusterId": 140,
+      "id": 12
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "미, 이란 추가 공습…\"호르무즈 공격 역량 약화\"",
+      "titleOriginal": "",
+      "description": "[앵커] 미국이 이란에 추가 공습을 감행했습니다. 이틀 연속 타격이 이뤄지며 군사적 긴장이 고조되고 있는데요. 자세한 내용 국제부 취재기자 연결합니다. 김예린 기자. [기자] 네, 미 중부사령부는 트럼프 대통령 지시로 이란에 추가 공습을 개시했다고 밝혔습니다. 호르무즈 해협에서 이란의 선박 공격 능력을 약화시키기 위한 조치라고 설명했는데요. 악시오스는 미 당국자를 인용해 미사일과 방공 시스템, 호르무즈 해협 주변에 있는 혁명수비대의 소형 ...",
+      "descriptionOriginal": "",
+      "content": "[앵커] 미국이 이란에 추가 공습을 감행했습니다. 이틀 연속 타격이 이뤄지며 군사적 긴장이 고조되고 있는데요. 자세한 내용 국제부 취재기자 연결합니다. 김예린 기자. [기자] 네, 미 중부사령부는 트럼프 대통령 지시로 이란에 추가 공습을 개시했다고 밝혔습니다. 호르무즈 해협에서 이란의 선박 공격 능력을 약화시키기 위한 조치라고 설명했는데요. 악시오스는 미 당국자를 인용해 미사일과 방공 시스템, 호르무즈 해협 주변에 있는 혁명수비대의 소형 선박들을 공격했다고 전했습니다. 미국이 이란을 타격한 건 지난 일주일 새 네 번째인데요. 이란 국영 언론은 게슘섬에 포탄 10여발이 떨어졌지만, 인명피해는 없었다고 밝혔습니다. [앵커] 호르무즈 해협을 둘러싼 갈등이 계속되는 상황인데요. 트럼프 대통령은 해협이 여전히 열려 있다고 주장했다고요. [기자] 트럼프 대통령은 언론 전화 인터뷰에서 \"이란을 사정없이 폭격했다\"며 호르무즈는 열려 있다고 말했습니다. 호르무즈 해협을 전면 봉쇄한다는 이란 측 주장을 정면 반박한 건데요. 미 중부사령부도 호르무즈 해협이 모든 선박에 열려 있다며 항행 보장을 위해 대비하고 있다고 강조했습니다. 이란이 또다시 선박을 공격하면 무력으로 대응하겠다는 압박으로 풀이됩니다. 트럼프 대통령은 이란을 겨냥해 날선 비난도 퍼부었습니다. 전날 이란과 협상을 진행했고 완벽한 합의를 이뤘다고 주장했는데요. 다만 이란이 한 시간도 안 돼 공격을 가했다며 '정신 나간 사람들'이라고 맹비난했습니다. [앵커] 이란은 여전히 호르무즈 통제권을 고수하고 있죠? [기자] 네, 이란 페르시아만해협청은 \"호르무즈 해협 통항은 현재 불가능하다\"며 미군의 불법 이동 때문이라고 주장했습니다. 직접 들어보시죠. &lt;이란 페르시아만 해협청 성명 / IRINN 앵커 대독&gt; \"페르시아만 해협청은 성명에서 최근 미군의 불법 이동으로 인해 호르무즈 해협을 통과하는 것이 현재 불가능하다고 밝혔습니다.\" 이란 최고지도자의 군사 고문 모흐센 레자이는 알리 하메네이의 추모 행사에서 호르무즈 해협이 '전략적 통로'라며 '수십 개의 원자폭탄보다 중요하다'고 언급했습니다. 또 전쟁 첫날 공습으로 숨진 전 최고지도자를 거론하며 복수를 촉구하기도 했습니다. 워싱턴포스트는 미국과 이스라엘의 수개월간 군사 공세에도 이란 체제가 무너지지 않았을 뿐 아니라 더욱 강경하게 재편됐다고 분석했습니다. 또 하메네이 장례식은 더 공고해진 강경파 정권의 출범을 알리는 신호탄과 다름없다고 보도했습니다. 이란의 한 보수 성향 매체는 복수 대상으로 트럼프 대통령을 포함해 13명을 지목하기도 했는데요. 네타냐후 이스라엘 총리와 마크롱 프랑스 대통령, 멜로니아 이탈리아 총리 등 유럽 지도자들도 포함된 것으로 전해졌습니다. 지금까지 국제부에서 전해드렸습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김예린(yey@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713084146e2I",
+      "pubDate": "2026-07-13T08:41:48+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713084146e2I.jpg",
+      "entities": "",
+      "clusterId": 3,
+      "id": 13
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "2030년 월드컵은 64개국 체제되나…인판티노 \"검토 예정\"",
+      "titleOriginal": "",
+      "description": "잔니 인판티노 FIFA 회장[Getty Images via AFP=연합뉴스][Getty Images via AFP=연합뉴스] 잔니 인판티노 국제축구연맹(FIFA) 회장이 2030년 월드컵부터 출전국을 64개국으로 늘리는 방안을 검토하겠다 밝혔습니다. 인판티노 회장은 13일(한국시간) 스위스 방송사 '블루 스포트'와 인터뷰에서 \"64개국 체제 개편은 북중미 대회가 끝나고 관련 위원회를 통해 확실히 논의할 사안\"이라고 말했습니다. 이어 \"월드...",
+      "descriptionOriginal": "",
+      "content": "잔니 인판티노 FIFA 회장[Getty Images via AFP=연합뉴스][Getty Images via AFP=연합뉴스] 잔니 인판티노 국제축구연맹(FIFA) 회장이 2030년 월드컵부터 출전국을 64개국으로 늘리는 방안을 검토하겠다 밝혔습니다. 인판티노 회장은 13일(한국시간) 스위스 방송사 '블루 스포트'와 인터뷰에서 \"64개국 체제 개편은 북중미 대회가 끝나고 관련 위원회를 통해 확실히 논의할 사안\"이라고 말했습니다. 이어 \"월드컵은 유럽과 남미뿐만 아니라 전 세계를 위한 것이어야 하고, 모든 국가가 월드컵 참가의 꿈을 꿀 수 있어야 한다\"며 이번 월드컵 아프리카 팀들의 활약을 강조했습니다. 48개국 체제로 처음 치러진 이번 북중미 대회에서 아프리카 출전국 10개 팀 중 9개 팀이 토너먼트에 진출한 점을 언급하며 \"엄청난 성공이다. 직전 대회에서 아프리카 출전국이 5개국에 불과했다. 이는 모든 팀을 포용하고 참가 기회를 주는 게 얼마나 중요한지 보여주는 증거\"라고 목소리를 높였습니다. 앞서 지난해 3월 남미축구연맹(CONMEBOL)은 월드컵 개최 100주년을 맞는 2030년 대회의 참가국을 64개국으로 늘리자고 제안했습니다. 해당 제안에 유럽, 아시아, 북중미 대륙 연맹은 모두 반대의 목소리를 냈습니다. 스페인, 포르투갈, 모로코가 공동 개최하는 2030년 대회는 월드컵 100주년을 기념하기 위해 개막전 3경기는 아르헨티나, 우루과이, 파라과이에서 치를 예정입니다. 만약 2030년 월드컵의 본선 참가국이 64개국으로 늘면 32개국 체제일 때의 2배인 총 128경기가 치러지게 됩니다. #월드컵 #FIFA #인판티노 #64개국 #출전국 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 우준성(Spaceship@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260713083720WmV",
+      "pubDate": "2026-07-13T08:37:21+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713083720WmV_01_i.jpg",
+      "entities": "",
+      "clusterId": 55,
+      "id": 14
+    },
+    {
+      "source": "yonhap",
+      "sourceName": "연합뉴스TV",
+      "category": "korea",
+      "title": "이정후·송성문, 나란히 무안타…오는 17일까지 올스타 휴식",
+      "titleOriginal": "",
+      "description": "타격을 준비하는 이정후[Mandatory Credit: Darren Yamashita-Imagn Images=연합뉴스][Mandatory Credit: Darren Yamashita-Imagn Images=연합뉴스] 미 메이저리그 샌프란시스코 자이언츠가 전반기 마지막 경기를 승리로 장식했지만, 이정후는 무안타에 그쳤습니다. 이정후는 우리 시간으로 오늘(13일) 열린 콜로라도 로키스와의 홈 경기에서 5번 타자 우익수로 선발 출전해 4타수 무...",
+      "descriptionOriginal": "",
+      "content": "타격을 준비하는 이정후[Mandatory Credit: Darren Yamashita-Imagn Images=연합뉴스][Mandatory Credit: Darren Yamashita-Imagn Images=연합뉴스] 미 메이저리그 샌프란시스코 자이언츠가 전반기 마지막 경기를 승리로 장식했지만, 이정후는 무안타에 그쳤습니다. 이정후는 우리 시간으로 오늘(13일) 열린 콜로라도 로키스와의 홈 경기에서 5번 타자 우익수로 선발 출전해 4타수 무안타로 침묵했습니다. 두 경기 연속 안타를 올리지 못한 이정후의 시즌 타율은 0.306에서 0.302로 소폭 떨어졌습니다. 0-1로 끌려가던 1회 말 2사 1, 2루 득점 기회에서 이정후는 상대 선발 투수를 상대로 땅볼을 치며 기회를 놓쳤습니다. 이후 4회 말 유격수 땅볼로, 6회 말에는 삼진으로, 8회 말에는 우익수에게 잡혀 그대로 물러났습니다. 하지만 팀은 3-1로 승리해 2연승을 내달렸고, 내셔널리그 서부지구 4위로 전반기를 마무리했습니다. 샌디에이고 파드리스의 송성문은 9번 타자 3루수로 선발 출전해 2타수 무안타에 그쳤지만, 밀어내기 볼넷을 골라내 1타점을 올렸고, 팀도 5-4로 이겼습니다. 전반기 일정을 마무리한 이정후와 송성문은 오는 17일까지 짧은 휴식을 취하고 오는 18일부터 후반기를 시작합니다. #이정후 #송성문 #메이저리그 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이초원(grass@yna.co.kr)",
+      "contentOriginal": "",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202607130834013Zs",
+      "pubDate": "2026-07-13T08:34:02+09:00",
+      "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR202607130834013Zs_01_i.jpg",
+      "entities": "",
+      "clusterId": 141,
+      "id": 15
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"트럼프 직접 지시\" 美 공습 재개…이란은 '복수 대상' 공개",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071306287",
+      "pubDate": "2026-07-13T08:13:41+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 0,
+      "id": 16
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "미국 농무부, 쇠고기 수출 통계 90% 정정…데이터 신뢰성 논란 확산",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607130620i",
+      "pubDate": "2026-07-13T08:09:53+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 142,
+      "id": 17
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"CJ프레시웨이, 온라인 사업 투자 따른 이익 감소…목표가↓\"-IBK",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071306186",
+      "pubDate": "2026-07-13T08:05:32+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 143,
+      "id": 18
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"하나금융, 중앙그룹 관련 충당금 우려 크지 않아…목표가↑\"-유안타",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071305776",
+      "pubDate": "2026-07-13T08:04:41+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 144,
+      "id": 19
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"검열의 부활\"…'무섭노' 이어 '혐오음원방지법' 일침한 래퍼",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607130538H",
+      "pubDate": "2026-07-13T07:58:35+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 145,
+      "id": 20
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"S-Oil, 정제마진 호조에 2분기 예상치 부합 전망…목표가↑\"-신한",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071305556",
+      "pubDate": "2026-07-13T07:53:47+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 146,
+      "id": 21
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "\"본전은 찾아야지\"…재혼 늦어질수록 돌싱들 눈 더 높아졌다",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/2026071305587",
+      "pubDate": "2026-07-13T07:52:25+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 147,
+      "id": 22
+    },
+    {
+      "source": "hankyung",
+      "sourceName": "한국경제",
+      "category": "korea",
+      "title": "비트코인 반등에도 밈코인은 '꽁꽁'…시총 비중 2년여 만에 최저",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hankyung.com/article/202607119364i",
+      "pubDate": "2026-07-13T07:51:51+09:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 148,
+      "id": 23
+    },
+    {
       "source": "yonhap",
       "sourceName": "연합뉴스TV",
       "category": "korea",
@@ -15,7 +423,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713055638zqZ.jpg",
       "entities": "",
       "clusterId": 130,
-      "id": 0
+      "id": 24
     },
     {
       "source": "yonhap",
@@ -32,7 +440,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607130556183Dt.jpg",
       "entities": "",
       "clusterId": 131,
-      "id": 1
+      "id": 25
     },
     {
       "source": "yonhap",
@@ -48,8 +456,8 @@
       "pubDate": "2026-07-13T05:52:51+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713055249sG0.jpg",
       "entities": "",
-      "clusterId": 15,
-      "id": 2
+      "clusterId": 0,
+      "id": 26
     },
     {
       "source": "yonhap",
@@ -66,7 +474,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713055009Z7H.jpg",
       "entities": "",
       "clusterId": 132,
-      "id": 3
+      "id": 27
     },
     {
       "source": "yonhap",
@@ -83,7 +491,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713054800u5h.jpg",
       "entities": "",
       "clusterId": 133,
-      "id": 4
+      "id": 28
     },
     {
       "source": "yonhap",
@@ -100,7 +508,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH2026071305464872n.jpg",
       "entities": "",
       "clusterId": 134,
-      "id": 5
+      "id": 29
     },
     {
       "source": "yonhap",
@@ -117,7 +525,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713054536bYo.jpg",
       "entities": "",
       "clusterId": 135,
-      "id": 6
+      "id": 30
     },
     {
       "source": "yonhap",
@@ -133,8 +541,8 @@
       "pubDate": "2026-07-13T05:44:28+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260713054426tFu.jpg",
       "entities": "",
-      "clusterId": 136,
-      "id": 7
+      "clusterId": 1,
+      "id": 31
     },
     {
       "source": "mk",
@@ -151,7 +559,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20251217.664daf84a2394677902693171ef945ac_R.png",
       "entities": "",
       "clusterId": 137,
-      "id": 8
+      "id": 32
     },
     {
       "source": "mk",
@@ -168,7 +576,24 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260505.680b60622ce043218863a20730967cb5_R.jpg",
       "entities": "",
       "clusterId": 138,
-      "id": 9
+      "id": 33
+    },
+    {
+      "source": "thehindu",
+      "sourceName": "The Hindu",
+      "category": "world",
+      "title": "At least 27 killed as fire breaks out at pub in Bangkok",
+      "titleOriginal": "At least 27 killed as fire breaks out at pub in Bangkok",
+      "description": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "descriptionOriginal": "",
+      "content": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "contentOriginal": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "link": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
+      "pubDate": "2026-07-13T04:55:19+05:30",
+      "image": "https://th-i.thgim.com/public/incoming/8oh1cj/article71215015.ece/alternates/LANDSCAPE_1200/Thailand_Fire_63912.jpg",
+      "entities": "",
+      "clusterId": 2,
+      "id": 34
     },
     {
       "source": "mk",
@@ -185,7 +610,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.4ceb2d75a0a2434e975536f7db3819c1_R.jpg",
       "entities": "",
       "clusterId": 139,
-      "id": 10
+      "id": 35
     },
     {
       "source": "mk",
@@ -202,7 +627,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-a.v1.20260712.a5d67bc18d17415d9e8eb23c32e052f6_R.png",
       "entities": "",
       "clusterId": 140,
-      "id": 11
+      "id": 36
     },
     {
       "source": "mk",
@@ -219,7 +644,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260710.1b04ac1ed49447a5adf512dcf6079ac9_R.png",
       "entities": "",
       "clusterId": 141,
-      "id": 12
+      "id": 37
     },
     {
       "source": "mk",
@@ -236,7 +661,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.77884f9d12834b6fb848102b53e89513_R.png",
       "entities": "",
       "clusterId": 142,
-      "id": 13
+      "id": 38
     },
     {
       "source": "yonhap",
@@ -253,7 +678,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713022954fmi_01_i.jpg",
       "entities": "",
       "clusterId": 135,
-      "id": 14
+      "id": 39
     },
     {
       "source": "yonhap",
@@ -270,24 +695,24 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713022425Dhk_01_i.jpg",
       "entities": "",
       "clusterId": 136,
-      "id": 15
+      "id": 40
     },
     {
       "source": "thehindu",
       "sourceName": "The Hindu",
       "category": "world",
-      "title": "At least 27 killed as fire breaks out at pub in Bangkok",
-      "titleOriginal": "At least 27 killed as fire breaks out at pub in Bangkok",
-      "description": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "title": "West Asia war updates: Projectiles hit Iran's Gulf island of Qeshm, state media says",
+      "titleOriginal": "West Asia war updates: Projectiles hit Iran's Gulf island of Qeshm, state media says",
+      "description": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
       "descriptionOriginal": "",
-      "content": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
-      "contentOriginal": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
-      "link": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
-      "pubDate": "2026-07-13T01:47:57+05:30",
-      "image": "https://th-i.thgim.com/public/incoming/8oh1cj/article71215015.ece/alternates/LANDSCAPE_1200/Thailand_Fire_63912.jpg",
+      "content": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
+      "contentOriginal": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
+      "pubDate": "2026-07-13T02:15:43+05:30",
+      "image": "",
       "entities": "",
-      "clusterId": 48,
-      "id": 16
+      "clusterId": 3,
+      "id": 41
     },
     {
       "source": "hankyung",
@@ -304,24 +729,7 @@
       "image": "",
       "entities": "",
       "clusterId": 49,
-      "id": 17
-    },
-    {
-      "source": "thehindu",
-      "sourceName": "The Hindu",
-      "category": "world",
-      "title": "West Asia war LIVE: Projectiles hit Iran's Gulf island of Qeshm, state media says",
-      "titleOriginal": "West Asia war LIVE: Projectiles hit Iran's Gulf island of Qeshm, state media says",
-      "description": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
-      "descriptionOriginal": "",
-      "content": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
-      "contentOriginal": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-      "pubDate": "2026-07-13T00:44:09+05:30",
-      "image": "",
-      "entities": "",
-      "clusterId": 52,
-      "id": 18
+      "id": 42
     },
     {
       "source": "hankyung",
@@ -337,8 +745,8 @@
       "pubDate": "2026-07-13T00:42:42+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 0,
-      "id": 19
+      "clusterId": 4,
+      "id": 43
     },
     {
       "source": "yonhap",
@@ -354,8 +762,8 @@
       "pubDate": "2026-07-13T00:14:01+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260713001401pnU_01_i.jpg",
       "entities": "",
-      "clusterId": 1,
-      "id": 20
+      "clusterId": 5,
+      "id": 44
     },
     {
       "source": "mk",
@@ -372,7 +780,143 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-a.v1.20260710.400dec9892074a9d8cba9b11d9d35fd6_R.jpg",
       "entities": "",
       "clusterId": 50,
-      "id": 21
+      "id": 45
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "“과거 잘 털고 퍼즐 맞춰내야…예전 같은 ‘난리’ 안 겪기를” [안녕 진화위㉛]",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1267921.html",
+      "pubDate": "2026-07-13T00:03:06.832551+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 156,
+      "id": 46
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "해군 “동해서 실종 병사 주검 발견해 수습”",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1267922.html",
+      "pubDate": "2026-07-13T00:03:06.832490+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 6,
+      "id": 47
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "[정욱식 칼럼] 흔들리는 ‘미국 패권’, 안정적 현상 유지에서 대안 찾아야",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/politics/defense/1267923.html",
+      "pubDate": "2026-07-13T00:03:06.832433+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 155,
+      "id": 48
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "트럼프 “이란, 사악하고 정신 나간 사람들”…미군, 추가공습 개시",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1267924.html",
+      "pubDate": "2026-07-13T00:03:06.832372+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 7,
+      "id": 49
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "오늘도 푹푹 찐다…낮 최고 37도, 전국 곳곳 열대야",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/society/environment/1267925.html",
+      "pubDate": "2026-07-13T00:03:06.832312+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 1,
+      "id": 50
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "모즈타바 최측근 “호르무즈, 원자폭탄 수십개보다 더 중요…복수의 길 추구”",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1267927.html",
+      "pubDate": "2026-07-13T00:03:06.832253+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 154,
+      "id": 51
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "‘통영 60대 살인’ 한달 넘게 용의자 특정 못해…경찰, 신고보상금 걸어",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1267928.html",
+      "pubDate": "2026-07-13T00:03:06.832189+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 20,
+      "id": 52
+    },
+    {
+      "source": "hani",
+      "sourceName": "한겨레신문",
+      "category": "korea",
+      "title": "인판티노 FIFA 회장 “월드컵 출전국 64개국으로 확대 방안 논의”",
+      "titleOriginal": "",
+      "description": "",
+      "descriptionOriginal": "",
+      "content": "",
+      "contentOriginal": "",
+      "link": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1267929.html",
+      "pubDate": "2026-07-13T00:03:06.832094+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 55,
+      "id": 53
     },
     {
       "source": "hankyung",
@@ -388,8 +932,59 @@
       "pubDate": "2026-07-13T00:00:31+09:00",
       "image": "",
       "entities": "",
+      "clusterId": 6,
+      "id": 54
+    },
+    {
+      "source": "nyt",
+      "sourceName": "The New York Times",
+      "category": "world",
+      "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+      "titleOriginal": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+      "description": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+      "descriptionOriginal": "",
+      "content": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+      "contentOriginal": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "pubDate": "2026-07-12T23:42:40+00:00",
+      "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg",
+      "entities": "",
+      "clusterId": 62,
+      "id": 55
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "titleOriginal": "At least 27 killed in Bangkok bar fire",
+      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "descriptionOriginal": "",
+      "content": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "contentOriginal": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T23:40:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b80/live/97127080-7e44-11f1-b976-0b9c15b0ccfc.jpg",
+      "entities": "",
       "clusterId": 2,
-      "id": 22
+      "id": 56
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington - AP News",
+      "titleOriginal": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington - AP News",
+      "description": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
+      "contentOriginal": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEpBbVRLNUVVSjRxNURKZjFhR2tMbndqZl93SFVNNWJnRVhJZ3EyelVpWm1mLW5TckpRMGpSR2xXUEkyZ2cxTTA0VElTRHJMckVIUXJXWERCWkthMGF2QXV3X2M5TmZqb1NIaHFsanN2a2NtVVZxNnpVV29Jejk4R3dwNWt2WllUZ2ZSYzBDalRpM1ZE?oc=5",
+      "pubDate": "2026-07-12T23:40:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 61,
+      "id": 57
     },
     {
       "source": "yonhap",
@@ -405,8 +1000,25 @@
       "pubDate": "2026-07-12T23:32:05+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712233203S8a_01_i.jpg",
       "entities": "",
-      "clusterId": 3,
-      "id": 23
+      "clusterId": 7,
+      "id": 58
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap - Bloomberg.com",
+      "titleOriginal": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap - Bloomberg.com",
+      "description": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlZnMENNcXpBaThQdm1BZlAwLXpEOUxXUzJGWTVCemJLY01QRmF6ejRmb2hpSllOUllwRUlJSnRkWlBWczlXTWxGdmozU2ZpdXVLMlVRR244WUFZa1ZYLXBKTXdpaGtVTFdsZjJadzg1U21fbC1qQ3Ixc25oejB2dzQ0aVlIRTlGY0g3SDdJVUtiYno2OVhIQ1VRTVpiWjVqRWFmZTdLRk41TUttTWt3Ng?oc=5",
+      "pubDate": "2026-07-12T23:25:09+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 129,
+      "id": 59
     },
     {
       "source": "yonhap",
@@ -423,7 +1035,58 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712232412PXl_01_i.jpg",
       "entities": "",
       "clusterId": 45,
-      "id": 24
+      "id": 60
+    },
+    {
+      "source": "scmp",
+      "sourceName": "South China Morning Post",
+      "category": "business",
+      "title": "Editorial | Universities buying prime Hong Kong property is a win for both sectors - South China Morning Post",
+      "titleOriginal": "Editorial | Universities buying prime Hong Kong property is a win for both sectors - South China Morning Post",
+      "description": "Editorial | Universities buying prime Hong Kong property is a win for both sectors&nbsp;&nbsp;South China Morning Post",
+      "descriptionOriginal": "",
+      "content": "Editorial | Universities buying prime Hong Kong property is a win for both sectors&nbsp;&nbsp;South China Morning Post",
+      "contentOriginal": "Editorial | Universities buying prime Hong Kong property is a win for both sectors&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtWOFhaQ01ZbGtCaXk5STZ5cHFfSGRRMTdneHMzSHNkeWZZb3dHN1lWalk0NFFHUUlZSEd4S0tldl9seGZpRlk2bEtUMTZCNFRzTml4WVp0ZjFuVk9NTXY2a01sSnI1MmNmYU4zWGxiSkRuS3BGeWNFczczU3BLOE5WNE5sdEdjOG1sOGZXNFZMRURvNzFIYndJZmlOUldfRXJMMUxXSHZoRy1NV3k0MC1xYVjSAbQBQVVfeXFMT1VoalZXTGhfbG1FcEZfZ0o1aXl1TmNnWE1DbUZDS3hTcEhQdVRiZWxJc0t6Yl9ja1VPblNiTE8xLTdOWWZ5a3VIa2xLZzhlRTdSN2U2cV9qRUx6ZjdGYkVxVzNFd3Z5Z3N4aXVKTGR4R3hnTXVVTk1EZks1ZE5DWlEtNnYzWVo3T0cwWkkxQ3lESm5jVzcwa3pGUlFzbENWRGxVNk9JeUYyUUljUENuTk81d2NU?oc=5",
+      "pubDate": "2026-07-12T23:15:14+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 136,
+      "id": 61
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says - AP News",
+      "titleOriginal": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says - AP News",
+      "description": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says&nbsp;&nbsp;AP News",
+      "contentOriginal": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
+      "pubDate": "2026-07-12T23:14:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 24,
+      "id": 62
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Giants overcome McCarthy's 2nd inside-the-park homer this year, beat Rockies 3-1 for 4-game split - AP News",
+      "titleOriginal": "Giants overcome McCarthy's 2nd inside-the-park homer this year, beat Rockies 3-1 for 4-game split - AP News",
+      "description": "Giants overcome McCarthy's 2nd inside-the-park homer this year, beat Rockies 3-1 for 4-game split&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Giants overcome McCarthy's 2nd inside-the-park homer this year, beat Rockies 3-1 for 4-game split&nbsp;&nbsp;AP News",
+      "contentOriginal": "Giants overcome McCarthy's 2nd inside-the-park homer this year, beat Rockies 3-1 for 4-game split&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORnBlazRPWmJ2R2c1R0VNU0FiVUJvOGYtdmpOVjBJV29KN1RnZXdjUGI4bzFuTmYtUm1aLUpEdVhZT0xTdVhQVjFESkwzaFdybHFiNVYwaERxaVFrZk5YSkRvWGFaRTVvWTVnd0Y1QldWdm1xQmN0RnVsRnNSVVphTVl5X05tVlk?oc=5",
+      "pubDate": "2026-07-12T23:02:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 127,
+      "id": 63
     },
     {
       "source": "mk",
@@ -439,8 +1102,42 @@
       "pubDate": "2026-07-12T22:56:28",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.b2a05c98607945f2b432f9a79aec1eeb_R.jpg",
       "entities": "",
-      "clusterId": 1,
-      "id": 25
+      "clusterId": 5,
+      "id": 64
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "Iran expands attacks on Gulf states after US strikes - Nikkei Asia",
+      "titleOriginal": "Iran expands attacks on Gulf states after US strikes - Nikkei Asia",
+      "description": "Iran expands attacks on Gulf states after US strikes&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "Iran expands attacks on Gulf states after US strikes&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "Iran expands attacks on Gulf states after US strikes&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamxRcWVDanVkRnFqQTY5VHFWWWlVNGpLRUFVVXk1VjVrdzdzd1dMaWZqMTBFWmxFSGRrSGdiU0FDejQtNFRsTWNLV0lZSmg2eDQ2OGMzMXhWaE54dDhJYXNBTmtBZlpYdjlXMzhGQm1nTS1VQ19lNkZINXl1SEFUbHR2bS1SMTQtRDM5UUYweGp4N1FWTlNsR0ROYTlaX2dvSjRxdTJLTnUxUHVLUUE?oc=5",
+      "pubDate": "2026-07-12T22:52:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 3,
+      "id": 65
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "McGregor’s manager says fighter had no knee injury prior to short bout with Max Holloway - AP News",
+      "titleOriginal": "McGregor’s manager says fighter had no knee injury prior to short bout with Max Holloway - AP News",
+      "description": "McGregor’s manager says fighter had no knee injury prior to short bout with Max Holloway&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "McGregor’s manager says fighter had no knee injury prior to short bout with Max Holloway&nbsp;&nbsp;AP News",
+      "contentOriginal": "McGregor’s manager says fighter had no knee injury prior to short bout with Max Holloway&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUFRMmxtMk9sUlFCSEE5dUtPU29XY3VmSll1WVoxdWFkTE9sWmQ0ei1MSmozUkVGX3c4bkpaYkNmcmdUTFFyX2FoelVJTWVXNnVQcmpFaXNRV1lrbzgyZUhaRDRlTVg1a2NoZ1I4THQ5a21IS2JNaFJ4alRXY0ZNTWtaTmI?oc=5",
+      "pubDate": "2026-07-12T22:42:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 126,
+      "id": 66
     },
     {
       "source": "thehindu",
@@ -456,8 +1153,8 @@
       "pubDate": "2026-07-12T22:26:59+05:30",
       "image": "https://th-i.thgim.com/public/incoming/v4odjn/article71214836.ece/alternates/LANDSCAPE_1200/iStock-1211963487.jpg",
       "entities": "",
-      "clusterId": 51,
-      "id": 26
+      "clusterId": 56,
+      "id": 67
     },
     {
       "source": "mk",
@@ -473,8 +1170,8 @@
       "pubDate": "2026-07-12T22:26:57",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.e717b6d01fb74c2b9de86bc30a1a749e_R.jpg",
       "entities": "",
-      "clusterId": 4,
-      "id": 27
+      "clusterId": 8,
+      "id": 68
     },
     {
       "source": "yonhap",
@@ -491,7 +1188,24 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712222046KJG_01_i.jpg",
       "entities": "",
       "clusterId": 46,
-      "id": 28
+      "id": 69
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "titleOriginal": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "descriptionOriginal": "",
+      "content": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "contentOriginal": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T22:17:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
+      "entities": "",
+      "clusterId": 29,
+      "id": 70
     },
     {
       "source": "mk",
@@ -508,7 +1222,24 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-g.v1.20260712.376df90e1656423aa887c5b4b28d4a07_R.jpg",
       "entities": "",
       "clusterId": 47,
-      "id": 29
+      "id": 71
+    },
+    {
+      "source": "bbc",
+      "sourceName": "BBC News",
+      "category": "world",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "titleOriginal": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "description": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+      "descriptionOriginal": "",
+      "content": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+      "contentOriginal": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-07-12T22:08:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
+      "entities": "",
+      "clusterId": 24,
+      "id": 72
     },
     {
       "source": "thehindu",
@@ -524,8 +1255,25 @@
       "pubDate": "2026-07-12T22:07:29+05:30",
       "image": "https://th-i.thgim.com/public/incoming/81g7ew/article71214775.ece/alternates/LANDSCAPE_1200/2018-09-13T042711Z_1332342721_RC161C6C0FE0_RTRMADP_3_VIETNAM-MYANMAR.JPG",
       "entities": "",
-      "clusterId": 53,
-      "id": 30
+      "clusterId": 57,
+      "id": 73
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "Jannik Sinner bounces back with another Wimbledon title after his French Open meltdown - AP News",
+      "titleOriginal": "Jannik Sinner bounces back with another Wimbledon title after his French Open meltdown - AP News",
+      "description": "Jannik Sinner bounces back with another Wimbledon title after his French Open meltdown&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "Jannik Sinner bounces back with another Wimbledon title after his French Open meltdown&nbsp;&nbsp;AP News",
+      "contentOriginal": "Jannik Sinner bounces back with another Wimbledon title after his French Open meltdown&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3U5ZEZRREVyOUZQUk9xdHc4Tmp0enI0Qm5ERHNnQ0dXRk1BSzVoN0tRT2VpT1dGdF9SVUQ1b0o5YWhuZHpHalZqN1Nic2ptRmZDNjZxY3o1Z0lvZjI1OC12ZFBzT2pzbW1RX0ItN1dPTzFwMDNZeG1iUnloNjNxY3gzamdDMWRtX3pKbmphNzFhYVE?oc=5",
+      "pubDate": "2026-07-12T22:04:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 69,
+      "id": 74
     },
     {
       "source": "thehindu",
@@ -541,8 +1289,8 @@
       "pubDate": "2026-07-12T21:58:24+05:30",
       "image": "https://th-i.thgim.com/public/incoming/jkzz33/article71214777.ece/alternates/LANDSCAPE_1200/2026-07-12T130639Z_1873803642_RC2LZLA3LE8L_RTRMADP_3_UKRAINE-CRISIS-DRONES-GERMANY.JPG",
       "entities": "",
-      "clusterId": 54,
-      "id": 31
+      "clusterId": 58,
+      "id": 75
     },
     {
       "source": "hankyung",
@@ -559,7 +1307,7 @@
       "image": "",
       "entities": "",
       "clusterId": 55,
-      "id": 32
+      "id": 76
     },
     {
       "source": "mk",
@@ -576,7 +1324,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.cacd932be715452d80ef896d7fc5c924_R.jpg",
       "entities": "",
       "clusterId": 49,
-      "id": 33
+      "id": 77
     },
     {
       "source": "thehindu",
@@ -592,8 +1340,25 @@
       "pubDate": "2026-07-12T21:47:04+05:30",
       "image": "",
       "entities": "",
-      "clusterId": 56,
-      "id": 34
+      "clusterId": 59,
+      "id": 78
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition - AP News",
+      "titleOriginal": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition - AP News",
+      "description": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition&nbsp;&nbsp;AP News",
+      "contentOriginal": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQkJ6LUFlaXZEX1Y0WkRoMHE1eTdERFl1UmlDTzBJNUZwZnpudFgwbWVlbEVEWlBfd0hHX2dVVXFtYktfRmRpd3AyUWVMakRKVThXY3RBVmVpUFVrOFB0T0xocWxuS1VxTktzZkpNRk1yMGZ6RFlsaWZjUlN2Si1KQ0hQc0s1MllBSnhxMVlqNmdoVVhKajV4Vkp2Q3hnNktPTUVvdHZpOVk3TFU?oc=5",
+      "pubDate": "2026-07-12T21:42:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 125,
+      "id": 79
     },
     {
       "source": "thehindu",
@@ -609,8 +1374,8 @@
       "pubDate": "2026-07-12T21:41:29+05:30",
       "image": "https://th-i.thgim.com/public/incoming/v78hts/article71214723.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_55245.jpg",
       "entities": "",
-      "clusterId": 57,
-      "id": 35
+      "clusterId": 60,
+      "id": 80
     },
     {
       "source": "yonhap",
@@ -627,7 +1392,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR2026071221391388b_01_i.jpg",
       "entities": "",
       "clusterId": 50,
-      "id": 36
+      "id": 81
     },
     {
       "source": "thehindu",
@@ -643,8 +1408,8 @@
       "pubDate": "2026-07-12T21:25:56+05:30",
       "image": "https://th-i.thgim.com/public/incoming/a0jar1/article71214687.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_45_99.jpg",
       "entities": "",
-      "clusterId": 5,
-      "id": 37
+      "clusterId": 9,
+      "id": 82
     },
     {
       "source": "hankyung",
@@ -660,8 +1425,8 @@
       "pubDate": "2026-07-12T21:22:32+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 6,
-      "id": 38
+      "clusterId": 10,
+      "id": 83
     },
     {
       "source": "yonhap",
@@ -678,7 +1443,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712211811p72_01_i.jpg",
       "entities": "",
       "clusterId": 51,
-      "id": 39
+      "id": 84
     },
     {
       "source": "mk",
@@ -694,8 +1459,8 @@
       "pubDate": "2026-07-12T21:05:52",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.fc8faa3d636e4456b05a1df9e97747d1_R.jpg",
       "entities": "",
-      "clusterId": 6,
-      "id": 40
+      "clusterId": 10,
+      "id": 85
     },
     {
       "source": "hani",
@@ -712,7 +1477,7 @@
       "image": "",
       "entities": "",
       "clusterId": 59,
-      "id": 41
+      "id": 86
     },
     {
       "source": "hani",
@@ -728,8 +1493,8 @@
       "pubDate": "2026-07-12T21:01:06.138855+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 19,
-      "id": 42
+      "clusterId": 11,
+      "id": 87
     },
     {
       "source": "hani",
@@ -746,7 +1511,7 @@
       "image": "",
       "entities": "",
       "clusterId": 12,
-      "id": 43
+      "id": 88
     },
     {
       "source": "hani",
@@ -762,8 +1527,8 @@
       "pubDate": "2026-07-12T21:01:06.138737+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 30,
-      "id": 44
+      "clusterId": 13,
+      "id": 89
     },
     {
       "source": "hani",
@@ -780,7 +1545,7 @@
       "image": "",
       "entities": "",
       "clusterId": 144,
-      "id": 45
+      "id": 90
     },
     {
       "source": "hani",
@@ -796,8 +1561,8 @@
       "pubDate": "2026-07-12T21:01:06.138614+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 0,
-      "id": 46
+      "clusterId": 4,
+      "id": 91
     },
     {
       "source": "hani",
@@ -813,8 +1578,8 @@
       "pubDate": "2026-07-12T21:01:06.138551+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 33,
-      "id": 47
+      "clusterId": 14,
+      "id": 92
     },
     {
       "source": "hani",
@@ -831,7 +1596,58 @@
       "image": "",
       "entities": "",
       "clusterId": 143,
-      "id": 48
+      "id": 93
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71 - Bloomberg.com",
+      "titleOriginal": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71 - Bloomberg.com",
+      "description": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDRlcGhiT2g4U1kxVkVJMW5lTkdKR2tTaXhVQlhnTUl2d19Uekt3M1Q4U3ltNTI4ZEJFZGtYejhoU3E4SFRZeG9RMllqa0tHbjFKZXAzSmVMTUdaM3ptenQxOUt5bDBUSU5pZW85aXphVm1iTm55MUUyTHdZdkd5WlN3ZEhUSjVVWHotQkhUZXBMbHdpQzFMRkkwd1h2bzZJZm9V?oc=5",
+      "pubDate": "2026-07-12T21:00:46+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 24,
+      "id": 94
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Wall Street Can’t Ignore the $3 Trillion Saudi-UAE Rift - Bloomberg.com",
+      "titleOriginal": "Wall Street Can’t Ignore the $3 Trillion Saudi-UAE Rift - Bloomberg.com",
+      "description": "Wall Street Can’t Ignore the $3 Trillion Saudi-UAE Rift&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Wall Street Can’t Ignore the $3 Trillion Saudi-UAE Rift&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Wall Street Can’t Ignore the $3 Trillion Saudi-UAE Rift&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVkxVlVubWRNb2NEMWhod3FsRHQ0SmdhaGFOU2tfQ3BZOHhTRDlwVkR3VEY4UTVrdWVBV0pUZmVtMlN6M0N3cHNGa0h6UklkVnNSOTFRRHlBeFl0QVlmWHU5UE9yU0g5X1hLR25Xb1hRS2V1VVp4WjNKZTUtSklvSWlVOFJRVEttQ3k2N2xFQkdCZ3l1OHEtc3d3?oc=5",
+      "pubDate": "2026-07-12T21:00:20+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 128,
+      "id": 95
+    },
+    {
+      "source": "nikkei",
+      "sourceName": "Nikkei Asia",
+      "category": "business",
+      "title": "Thailand's oldest bank turns to virtual banking for growth - Nikkei Asia",
+      "titleOriginal": "Thailand's oldest bank turns to virtual banking for growth - Nikkei Asia",
+      "description": "Thailand's oldest bank turns to virtual banking for growth&nbsp;&nbsp;Nikkei Asia",
+      "descriptionOriginal": "",
+      "content": "Thailand's oldest bank turns to virtual banking for growth&nbsp;&nbsp;Nikkei Asia",
+      "contentOriginal": "Thailand's oldest bank turns to virtual banking for growth&nbsp;&nbsp;Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGgyamhGRzhQT3B0d29aUU5fUlU3N2oyZjFPWWVYcTVqNjJ2QkZ0aXZfWDZrbGJrSHMzUi1LdDhuZ1gxcFdyTzlaM09rNXY2WGQ1VUd1aEJMLTB4ZURWczl5d0Q0eEczaUtYX0lfWEJfd08zNzZYSGlCbWtzVjRuNXVTY1dobDdPWldmQkl4b0VZNWptQnluVTBISzVpT1JaeHNjM1BWWVIxcGJmSXF5Yndn?oc=5",
+      "pubDate": "2026-07-12T21:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 134,
+      "id": 96
     },
     {
       "source": "thehindu",
@@ -847,8 +1663,8 @@
       "pubDate": "2026-07-12T20:59:19+05:30",
       "image": "https://th-i.thgim.com/public/incoming/3tri35/article71213329.ece/alternates/LANDSCAPE_1200/2026-07-12T054857Z_385938308_RC25CMAB131L_RTRMADP_3_QATAR-EMIR-HAMAD-DEATH.JPG",
       "entities": "",
-      "clusterId": 7,
-      "id": 49
+      "clusterId": 15,
+      "id": 97
     },
     {
       "source": "hankyung",
@@ -864,42 +1680,8 @@
       "pubDate": "2026-07-12T20:48:11+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 8,
-      "id": 50
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington - AP News",
-      "titleOriginal": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington - AP News",
-      "description": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
-      "contentOriginal": "Lindsey Graham remembered for a vision of American foreign policy that’s fading in Washington&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEpBbVRLNUVVSjRxNURKZjFhR2tMbndqZl93SFVNNWJnRVhJZ3EyelVpWm1mLW5TckpRMGpSR2xXUEkyZ2cxTTA0VElTRHJMckVIUXJXWERCWkthMGF2QXV3X2M5TmZqb1NIaHFsanN2a2NtVVZxNnpVV29Jejk4R3dwNWt2WllUZ2ZSYzBDalRpM1ZE?oc=5",
-      "pubDate": "2026-07-12T20:47:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 68,
-      "id": 51
-    },
-    {
-      "source": "nyt",
-      "sourceName": "The New York Times",
-      "category": "world",
-      "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-      "titleOriginal": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-      "description": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
-      "descriptionOriginal": "",
-      "content": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
-      "contentOriginal": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
-      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-      "pubDate": "2026-07-12T20:42:12+00:00",
-      "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg",
-      "entities": "",
-      "clusterId": 60,
-      "id": 52
+      "clusterId": 16,
+      "id": 98
     },
     {
       "source": "mk",
@@ -915,8 +1697,8 @@
       "pubDate": "2026-07-12T20:41:01",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.e634c45ad5c340ceaddb03723889240f_R.jpg",
       "entities": "",
-      "clusterId": 8,
-      "id": 53
+      "clusterId": 16,
+      "id": 99
     },
     {
       "source": "nikkei",
@@ -932,8 +1714,8 @@
       "pubDate": "2026-07-12T20:38:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 48,
-      "id": 54
+      "clusterId": 2,
+      "id": 100
     },
     {
       "source": "mk",
@@ -950,7 +1732,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-g.v1.20260712.39b634acba06473d874ce8d9d44976ad_R.jpg",
       "entities": "",
       "clusterId": 52,
-      "id": 55
+      "id": 101
     },
     {
       "source": "hankyung",
@@ -966,8 +1748,8 @@
       "pubDate": "2026-07-12T20:23:34+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 9,
-      "id": 56
+      "clusterId": 17,
+      "id": 102
     },
     {
       "source": "hankyung",
@@ -984,24 +1766,7 @@
       "image": "",
       "entities": "",
       "clusterId": 58,
-      "id": 57
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-      "titleOriginal": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-      "description": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
-      "descriptionOriginal": "",
-      "content": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
-      "contentOriginal": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
-      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T20:13:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
-      "entities": "",
-      "clusterId": 48,
-      "id": 58
+      "id": 103
     },
     {
       "source": "nikkei",
@@ -1017,8 +1782,8 @@
       "pubDate": "2026-07-12T20:12:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 127,
-      "id": 59
+      "clusterId": 63,
+      "id": 104
     },
     {
       "source": "hankyung",
@@ -1035,7 +1800,7 @@
       "image": "",
       "entities": "",
       "clusterId": 42,
-      "id": 60
+      "id": 105
     },
     {
       "source": "ap",
@@ -1051,8 +1816,25 @@
       "pubDate": "2026-07-12T20:06:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 7,
-      "id": 61
+      "clusterId": 15,
+      "id": 106
+    },
+    {
+      "source": "economist",
+      "sourceName": "The Economist",
+      "category": "business",
+      "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
+      "titleOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
+      "description": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "descriptionOriginal": "",
+      "content": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "contentOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
+      "pubDate": "2026-07-12T20:05:53+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 111,
+      "id": 107
     },
     {
       "source": "nikkei",
@@ -1068,8 +1850,25 @@
       "pubDate": "2026-07-12T20:05:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 128,
-      "id": 62
+      "clusterId": 64,
+      "id": 108
+    },
+    {
+      "source": "ap",
+      "sourceName": "Associated Press",
+      "category": "world",
+      "title": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz - AP News",
+      "titleOriginal": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz - AP News",
+      "description": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz&nbsp;&nbsp;AP News",
+      "descriptionOriginal": "",
+      "content": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz&nbsp;&nbsp;AP News",
+      "contentOriginal": "US strikes Iran again as it tries to limit attacks on ships on the Strait of Hormuz&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+      "pubDate": "2026-07-12T20:02:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 3,
+      "id": 109
     },
     {
       "source": "bloomberg",
@@ -1085,8 +1884,8 @@
       "pubDate": "2026-07-12T20:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 124,
-      "id": 63
+      "clusterId": 65,
+      "id": 110
     },
     {
       "source": "hankyung",
@@ -1102,8 +1901,8 @@
       "pubDate": "2026-07-12T19:58:30+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 10,
-      "id": 64
+      "clusterId": 1,
+      "id": 111
     },
     {
       "source": "hankyung",
@@ -1119,8 +1918,8 @@
       "pubDate": "2026-07-12T19:56:39+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 11,
-      "id": 65
+      "clusterId": 18,
+      "id": 112
     },
     {
       "source": "wired",
@@ -1136,8 +1935,8 @@
       "pubDate": "2026-07-12T19:55:37+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 147,
-      "id": 66
+      "clusterId": 66,
+      "id": 113
     },
     {
       "source": "mk",
@@ -1154,7 +1953,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.a7357e41737c460db046a5fc28a52bbb_R.jpg",
       "entities": "",
       "clusterId": 43,
-      "id": 67
+      "id": 114
     },
     {
       "source": "yonhap",
@@ -1171,7 +1970,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712194947VrE_01_i.jpg",
       "entities": "",
       "clusterId": 44,
-      "id": 68
+      "id": 115
     },
     {
       "source": "bbc",
@@ -1187,8 +1986,8 @@
       "pubDate": "2026-07-12T19:42:26+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
       "entities": "",
-      "clusterId": 123,
-      "id": 69
+      "clusterId": 67,
+      "id": 116
     },
     {
       "source": "nyt",
@@ -1204,8 +2003,8 @@
       "pubDate": "2026-07-12T19:42:07+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 61,
-      "id": 70
+      "clusterId": 68,
+      "id": 117
     },
     {
       "source": "thehindu",
@@ -1222,7 +2021,7 @@
       "image": "https://th-i.thgim.com/public/incoming/n0pi6u/article71214312.ece/alternates/LANDSCAPE_1200/2026-07-12T085340Z_645449173_RC25CMAZVD5U_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
       "entities": "",
       "clusterId": 118,
-      "id": 71
+      "id": 118
     },
     {
       "source": "mk",
@@ -1238,8 +2037,8 @@
       "pubDate": "2026-07-12T19:38:23",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-g.v1.20260712.2ad2ae6709514573804f3574db5a0b86_R.jpg",
       "entities": "",
-      "clusterId": 12,
-      "id": 72
+      "clusterId": 11,
+      "id": 119
     },
     {
       "source": "hankyung",
@@ -1255,8 +2054,8 @@
       "pubDate": "2026-07-12T19:34:07+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 13,
-      "id": 73
+      "clusterId": 19,
+      "id": 120
     },
     {
       "source": "thehindu",
@@ -1273,7 +2072,7 @@
       "image": "https://th-i.thgim.com/public/incoming/p80kio/article71214147.ece/alternates/LANDSCAPE_1200/PTI07_12_2026_000292B.jpg",
       "entities": "",
       "clusterId": 119,
-      "id": 74
+      "id": 121
     },
     {
       "source": "yonhap",
@@ -1290,7 +2089,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712192316YZg.jpg",
       "entities": "",
       "clusterId": 10,
-      "id": 75
+      "id": 122
     },
     {
       "source": "yonhap",
@@ -1307,7 +2106,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712192046YA8.jpg",
       "entities": "",
       "clusterId": 45,
-      "id": 76
+      "id": 123
     },
     {
       "source": "hankyung",
@@ -1323,8 +2122,8 @@
       "pubDate": "2026-07-12T19:20:20+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 14,
-      "id": 77
+      "clusterId": 20,
+      "id": 124
     },
     {
       "source": "mk",
@@ -1341,7 +2140,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.4793f47009f3453aa03daa027bd8b04c_R.jpg",
       "entities": "",
       "clusterId": 125,
-      "id": 78
+      "id": 125
     },
     {
       "source": "mk",
@@ -1358,7 +2157,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.f9164b22f1da4c1fb86325d7919512a4_R.jpg",
       "entities": "",
       "clusterId": 126,
-      "id": 79
+      "id": 126
     },
     {
       "source": "hankyung",
@@ -1374,25 +2173,8 @@
       "pubDate": "2026-07-12T19:10:07+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 15,
-      "id": 80
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Jannik Sinner beats Alexander Zverev to win Wimbledon again and move on from French Open meltdown - AP News",
-      "titleOriginal": "Jannik Sinner beats Alexander Zverev to win Wimbledon again and move on from French Open meltdown - AP News",
-      "description": "Jannik Sinner beats Alexander Zverev to win Wimbledon again and move on from French Open meltdown&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Jannik Sinner beats Alexander Zverev to win Wimbledon again and move on from French Open meltdown&nbsp;&nbsp;AP News",
-      "contentOriginal": "Jannik Sinner beats Alexander Zverev to win Wimbledon again and move on from French Open meltdown&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3U5ZEZRREVyOUZQUk9xdHc4Tmp0enI0Qm5ERHNnQ0dXRk1BSzVoN0tRT2VpT1dGdF9SVUQ1b0o5YWhuZHpHalZqN1Nic2ptRmZDNjZxY3o1Z0lvZjI1OC12ZFBzT2pzbW1RX0ItN1dPTzFwMDNZeG1iUnloNjNxY3gzamdDMWRtX3pKbmphNzFhYVE?oc=5",
-      "pubDate": "2026-07-12T19:10:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 74,
-      "id": 81
+      "clusterId": 21,
+      "id": 127
     },
     {
       "source": "yonhap",
@@ -1408,8 +2190,8 @@
       "pubDate": "2026-07-12T19:05:36+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712190536DUX.jpg",
       "entities": "",
-      "clusterId": 16,
-      "id": 82
+      "clusterId": 22,
+      "id": 128
     },
     {
       "source": "yonhap",
@@ -1426,7 +2208,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712190511pRN.jpg",
       "entities": "",
       "clusterId": 114,
-      "id": 83
+      "id": 129
     },
     {
       "source": "yonhap",
@@ -1443,7 +2225,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712190454Dux.jpg",
       "entities": "",
       "clusterId": 115,
-      "id": 84
+      "id": 130
     },
     {
       "source": "yonhap",
@@ -1460,7 +2242,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712190434P3v.jpg",
       "entities": "",
       "clusterId": 116,
-      "id": 85
+      "id": 131
     },
     {
       "source": "yonhap",
@@ -1477,7 +2259,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712190409a4R.jpg",
       "entities": "",
       "clusterId": 117,
-      "id": 86
+      "id": 132
     },
     {
       "source": "mk",
@@ -1494,7 +2276,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.7d08dda19c0044d28f8767675f764064_R.jpg",
       "entities": "",
       "clusterId": 127,
-      "id": 87
+      "id": 133
     },
     {
       "source": "mk",
@@ -1510,8 +2292,8 @@
       "pubDate": "2026-07-12T18:54:10",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/rcv.YNA.20260712.PYH2026071204420005600_R.jpg",
       "entities": "",
-      "clusterId": 10,
-      "id": 88
+      "clusterId": 1,
+      "id": 134
     },
     {
       "source": "thehindu",
@@ -1528,7 +2310,7 @@
       "image": "https://th-i.thgim.com/public/incoming/hatyib/article71214068.ece/alternates/LANDSCAPE_1200/2026-07-12T100807Z_1958518705_RC2ACMA7A8FM_RTRMADP_3_ASIA-WEATHER-BANGLADESH.JPG",
       "entities": "",
       "clusterId": 120,
-      "id": 89
+      "id": 135
     },
     {
       "source": "ap",
@@ -1544,25 +2326,8 @@
       "pubDate": "2026-07-12T18:42:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 26,
-      "id": 90
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness - AP News",
-      "titleOriginal": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness - AP News",
-      "description": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness&nbsp;&nbsp;AP News",
-      "contentOriginal": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
-      "pubDate": "2026-07-12T18:17:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 21,
-      "id": 91
+      "clusterId": 23,
+      "id": 136
     },
     {
       "source": "nyt",
@@ -1576,10 +2341,10 @@
       "contentOriginal": "Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.",
       "link": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
       "pubDate": "2026-07-12T18:11:16+00:00",
-      "image": "https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/14/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 7,
-      "id": 92
+      "clusterId": 15,
+      "id": 137
     },
     {
       "source": "thehindu",
@@ -1595,8 +2360,8 @@
       "pubDate": "2026-07-12T18:11:11+05:30",
       "image": "https://th-i.thgim.com/public/incoming/rmklx9/article71213948.ece/alternates/LANDSCAPE_1200/2026-07-12T071536Z_1360635977_RC22CMAHN6GW_RTRMADP_3_ASIA-WEATHER-CHINA.JPG",
       "entities": "",
-      "clusterId": 17,
-      "id": 93
+      "clusterId": 25,
+      "id": 138
     },
     {
       "source": "hani",
@@ -1613,7 +2378,7 @@
       "image": "",
       "entities": "",
       "clusterId": 54,
-      "id": 94
+      "id": 139
     },
     {
       "source": "hani",
@@ -1630,7 +2395,7 @@
       "image": "",
       "entities": "",
       "clusterId": 55,
-      "id": 95
+      "id": 140
     },
     {
       "source": "hani",
@@ -1647,7 +2412,7 @@
       "image": "",
       "entities": "",
       "clusterId": 56,
-      "id": 96
+      "id": 141
     },
     {
       "source": "hani",
@@ -1664,7 +2429,7 @@
       "image": "",
       "entities": "",
       "clusterId": 57,
-      "id": 97
+      "id": 142
     },
     {
       "source": "hani",
@@ -1681,7 +2446,7 @@
       "image": "",
       "entities": "",
       "clusterId": 58,
-      "id": 98
+      "id": 143
     },
     {
       "source": "hani",
@@ -1697,8 +2462,8 @@
       "pubDate": "2026-07-12T18:09:06.165955+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 18,
-      "id": 99
+      "clusterId": 26,
+      "id": 144
     },
     {
       "source": "mk",
@@ -1715,7 +2480,7 @@
       "image": "",
       "entities": "",
       "clusterId": 117,
-      "id": 100
+      "id": 145
     },
     {
       "source": "mk",
@@ -1731,8 +2496,8 @@
       "pubDate": "2026-07-12T18:01:05",
       "image": "https://pimg.mk.co.kr/news/cms/202607/13/20260713_01110113000006_L00.jpg",
       "entities": "",
-      "clusterId": 20,
-      "id": 101
+      "clusterId": 27,
+      "id": 146
     },
     {
       "source": "mk",
@@ -1749,7 +2514,7 @@
       "image": "",
       "entities": "",
       "clusterId": 118,
-      "id": 102
+      "id": 147
     },
     {
       "source": "mk",
@@ -1766,7 +2531,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/13/20260713_01110113000005_L00.jpg",
       "entities": "",
       "clusterId": 13,
-      "id": 103
+      "id": 148
     },
     {
       "source": "mk",
@@ -1782,8 +2547,25 @@
       "pubDate": "2026-07-12T18:00:17",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.1b258bfc6b3a44b5af5c5d5cdbe1cb83_R.png",
       "entities": "",
-      "clusterId": 16,
-      "id": 104
+      "clusterId": 22,
+      "id": 149
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Lindsey Graham, US Republican senator and Trump ally, dies at 71 - Reuters",
+      "titleOriginal": "Lindsey Graham, US Republican senator and Trump ally, dies at 71 - Reuters",
+      "description": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5",
+      "pubDate": "2026-07-12T17:59:55+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 24,
+      "id": 150
     },
     {
       "source": "mk",
@@ -1800,7 +2582,7 @@
       "image": "",
       "entities": "",
       "clusterId": 120,
-      "id": 105
+      "id": 151
     },
     {
       "source": "mk",
@@ -1817,7 +2599,7 @@
       "image": "",
       "entities": "",
       "clusterId": 121,
-      "id": 106
+      "id": 152
     },
     {
       "source": "mk",
@@ -1834,24 +2616,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/13/20260713_01110106000007_M00.jpg",
       "entities": "",
       "clusterId": 122,
-      "id": 107
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "titleOriginal": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "descriptionOriginal": "",
-      "content": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "contentOriginal": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T17:40:34+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8847/live/fa519f30-7e2c-11f1-91a9-7f19a8ed5bed.jpg",
-      "entities": "",
-      "clusterId": 21,
-      "id": 108
+      "id": 153
     },
     {
       "source": "yonhap",
@@ -1867,8 +2632,8 @@
       "pubDate": "2026-07-12T17:37:45+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607121737430xb.jpg",
       "entities": "",
-      "clusterId": 3,
-      "id": 109
+      "clusterId": 17,
+      "id": 154
     },
     {
       "source": "yonhap",
@@ -1885,7 +2650,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR202607121736032jd_01_i.jpg",
       "entities": "",
       "clusterId": 106,
-      "id": 110
+      "id": 155
     },
     {
       "source": "economist",
@@ -1901,25 +2666,8 @@
       "pubDate": "2026-07-12T17:24:05+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 126,
-      "id": 111
-    },
-    {
-      "source": "ap",
-      "sourceName": "Associated Press",
-      "category": "world",
-      "title": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz - AP News",
-      "titleOriginal": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz - AP News",
-      "description": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz&nbsp;&nbsp;AP News",
-      "descriptionOriginal": "",
-      "content": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz&nbsp;&nbsp;AP News",
-      "contentOriginal": "Iran reports new attacks on military targets on its largest island near the Strait of Hormuz&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
-      "pubDate": "2026-07-12T17:22:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 22,
-      "id": 112
+      "clusterId": 70,
+      "id": 156
     },
     {
       "source": "yonhap",
@@ -1936,7 +2684,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712172054Ryx.jpg",
       "entities": "",
       "clusterId": 107,
-      "id": 113
+      "id": 157
     },
     {
       "source": "hankyung",
@@ -1952,8 +2700,8 @@
       "pubDate": "2026-07-12T17:17:54+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 23,
-      "id": 114
+      "clusterId": 27,
+      "id": 158
     },
     {
       "source": "hankyung",
@@ -1970,7 +2718,7 @@
       "image": "",
       "entities": "",
       "clusterId": 111,
-      "id": 115
+      "id": 159
     },
     {
       "source": "hankyung",
@@ -1987,7 +2735,7 @@
       "image": "",
       "entities": "",
       "clusterId": 112,
-      "id": 116
+      "id": 160
     },
     {
       "source": "hankyung",
@@ -2003,8 +2751,8 @@
       "pubDate": "2026-07-12T17:14:54+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 20,
-      "id": 117
+      "clusterId": 13,
+      "id": 161
     },
     {
       "source": "yonhap",
@@ -2021,7 +2769,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712171308Oy0_01_i.jpg",
       "entities": "",
       "clusterId": 108,
-      "id": 118
+      "id": 162
     },
     {
       "source": "hankyung",
@@ -2038,7 +2786,7 @@
       "image": "",
       "entities": "",
       "clusterId": 113,
-      "id": 119
+      "id": 163
     },
     {
       "source": "yonhap",
@@ -2055,7 +2803,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712171125EDm_01_i.jpg",
       "entities": "",
       "clusterId": 109,
-      "id": 120
+      "id": 164
     },
     {
       "source": "hankyung",
@@ -2071,8 +2819,8 @@
       "pubDate": "2026-07-12T17:11:20+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 24,
-      "id": 121
+      "clusterId": 28,
+      "id": 165
     },
     {
       "source": "hankyung",
@@ -2089,7 +2837,7 @@
       "image": "",
       "entities": "",
       "clusterId": 115,
-      "id": 122
+      "id": 166
     },
     {
       "source": "hankyung",
@@ -2106,7 +2854,7 @@
       "image": "",
       "entities": "",
       "clusterId": 116,
-      "id": 123
+      "id": 167
     },
     {
       "source": "yonhap",
@@ -2122,8 +2870,8 @@
       "pubDate": "2026-07-12T17:07:39+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712170737Ri5.jpg",
       "entities": "",
-      "clusterId": 0,
-      "id": 124
+      "clusterId": 4,
+      "id": 168
     },
     {
       "source": "yonhap",
@@ -2139,8 +2887,8 @@
       "pubDate": "2026-07-12T17:07:11+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607121707099Co.jpg",
       "entities": "",
-      "clusterId": 11,
-      "id": 125
+      "clusterId": 12,
+      "id": 169
     },
     {
       "source": "thehindu",
@@ -2156,8 +2904,8 @@
       "pubDate": "2026-07-12T17:06:32+05:30",
       "image": "https://th-i.thgim.com/public/incoming/pfl44y/article71213313.ece/alternates/LANDSCAPE_1200/2026-07-12T062148Z_1067010637_RC22BMA9EEIT_RTRMADP_3_PEOPLE-LINDSEY-GRAHAM.JPG",
       "entities": "",
-      "clusterId": 21,
-      "id": 126
+      "clusterId": 24,
+      "id": 170
     },
     {
       "source": "economist",
@@ -2174,7 +2922,24 @@
       "image": "",
       "entities": "",
       "clusterId": 62,
-      "id": 127
+      "id": 171
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Israeli attacks in Gaza kill six people, including a girl, medics say - Reuters",
+      "titleOriginal": "Israeli attacks in Gaza kill six people, including a girl, medics say - Reuters",
+      "description": "Israeli attacks in Gaza kill six people, including a girl, medics say&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Israeli attacks in Gaza kill six people, including a girl, medics say&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Israeli attacks in Gaza kill six people, including a girl, medics say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW16M2JEMFgyMlEyUVJHNW00cVhNVk9zaG5GLVNWMW5aY2c3bjRjRE1kaTBSdHBabHVJWUxibzl0OGpMT29Bek5xa0Y4cmc5RV80SzEwbk9CY0RjUG5WNFdyUVQ1WUJVc3A0RVVWa1VIWnhnWnNzckZYUlEzdXIybGttcDFjRW52eUl1aUNDRmJQdVNNNThfWU1fLXhJd2VBb2lxUE5TTTV6R2Etdk00LXlBUzRKcHI3WlE?oc=5",
+      "pubDate": "2026-07-12T17:03:47+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 30,
+      "id": 172
     },
     {
       "source": "bloomberg",
@@ -2191,7 +2956,7 @@
       "image": "",
       "entities": "",
       "clusterId": 63,
-      "id": 128
+      "id": 173
     },
     {
       "source": "thehindu",
@@ -2208,7 +2973,7 @@
       "image": "https://th-i.thgim.com/public/incoming/h8gx9q/article71213118.ece/alternates/LANDSCAPE_1200/20260711354L.jpg",
       "entities": "",
       "clusterId": 47,
-      "id": 129
+      "id": 174
     },
     {
       "source": "thehindu",
@@ -2225,7 +2990,7 @@
       "image": "https://th-i.thgim.com/public/incoming/e0inl7/article71213770.ece/alternates/LANDSCAPE_1200/PTI07_12_2026_000294B.jpg",
       "entities": "",
       "clusterId": 48,
-      "id": 130
+      "id": 175
     },
     {
       "source": "yonhap",
@@ -2242,24 +3007,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712165551uZI.jpg",
       "entities": "",
       "clusterId": 110,
-      "id": 131
-    },
-    {
-      "source": "bbc",
-      "sourceName": "BBC News",
-      "category": "world",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "titleOriginal": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "descriptionOriginal": "",
-      "content": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "contentOriginal": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-07-12T16:46:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
-      "entities": "",
-      "clusterId": 25,
-      "id": 132
+      "id": 176
     },
     {
       "source": "nyt",
@@ -2275,8 +3023,8 @@
       "pubDate": "2026-07-12T16:43:37+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12dc-trump-strait-01-ctgl/12dc-trump-strait-01-ctgl-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 64,
-      "id": 133
+      "clusterId": 71,
+      "id": 177
     },
     {
       "source": "bloomberg",
@@ -2292,8 +3040,8 @@
       "pubDate": "2026-07-12T16:40:25+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 112,
-      "id": 134
+      "clusterId": 72,
+      "id": 178
     },
     {
       "source": "bbc",
@@ -2309,8 +3057,8 @@
       "pubDate": "2026-07-12T16:35:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
       "entities": "",
-      "clusterId": 7,
-      "id": 135
+      "clusterId": 15,
+      "id": 179
     },
     {
       "source": "ap",
@@ -2326,8 +3074,8 @@
       "pubDate": "2026-07-12T16:25:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 122,
-      "id": 136
+      "clusterId": 73,
+      "id": 180
     },
     {
       "source": "verge",
@@ -2343,8 +3091,8 @@
       "pubDate": "2026-07-12T16:10:19-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 145,
-      "id": 137
+      "clusterId": 74,
+      "id": 181
     },
     {
       "source": "techcrunch",
@@ -2360,8 +3108,8 @@
       "pubDate": "2026-07-12T16:07:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 65,
-      "id": 138
+      "clusterId": 75,
+      "id": 182
     },
     {
       "source": "thehindu",
@@ -2378,7 +3126,7 @@
       "image": "https://th-i.thgim.com/public/incoming/lw3wsh/article71213619.ece/alternates/LANDSCAPE_1200/Russia_Pakistan_90121.jpg",
       "entities": "",
       "clusterId": 102,
-      "id": 139
+      "id": 183
     },
     {
       "source": "thehindu",
@@ -2395,7 +3143,7 @@
       "image": "https://th-i.thgim.com/public/incoming/wb1peh/article71209265.ece/alternates/LANDSCAPE_1200/AP07_11_2026_000123B.jpg",
       "entities": "",
       "clusterId": 103,
-      "id": 140
+      "id": 184
     },
     {
       "source": "thehindu",
@@ -2412,7 +3160,24 @@
       "image": "",
       "entities": "",
       "clusterId": 39,
-      "id": 141
+      "id": 185
+    },
+    {
+      "source": "reuters",
+      "sourceName": "Reuters",
+      "category": "world",
+      "title": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings - Reuters",
+      "titleOriginal": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings - Reuters",
+      "description": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings&nbsp;&nbsp;Reuters",
+      "descriptionOriginal": "",
+      "content": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings&nbsp;&nbsp;Reuters",
+      "contentOriginal": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmVtcWZWczZUZnlGX1dvakNYX0pNZUFPdE1TaXBuZGJJTXJNUXFtSGFkQ0ozM09LQkJmd1gtU2t0VmYwTmRVYjIya0hMSG9BUjNOY01heUV2dEZCU0FmTUtGSzRFOE5CTUVjVF9zQlF0MHpXdWg1MjAtNk9Fam00aWNkdDJxZXcyT2JfeFo3UE5zSmgwZFkycFRBYVBQOE1pVzdUZjV1ckU4akNRTzlFcm5vMi1jUkFsMlZfRw?oc=5",
+      "pubDate": "2026-07-12T15:46:53+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 124,
+      "id": 186
     },
     {
       "source": "verge",
@@ -2428,8 +3193,8 @@
       "pubDate": "2026-07-12T15:40:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 146,
-      "id": 142
+      "clusterId": 76,
+      "id": 187
     },
     {
       "source": "nikkei",
@@ -2445,8 +3210,8 @@
       "pubDate": "2026-07-12T15:36:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 66,
-      "id": 143
+      "clusterId": 77,
+      "id": 188
     },
     {
       "source": "scmp",
@@ -2462,8 +3227,8 @@
       "pubDate": "2026-07-12T15:36:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 129,
-      "id": 144
+      "clusterId": 30,
+      "id": 189
     },
     {
       "source": "bloomberg",
@@ -2480,7 +3245,7 @@
       "image": "",
       "entities": "",
       "clusterId": 127,
-      "id": 145
+      "id": 190
     },
     {
       "source": "nyt",
@@ -2496,8 +3261,8 @@
       "pubDate": "2026-07-12T15:31:34+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 27,
-      "id": 146
+      "clusterId": 31,
+      "id": 191
     },
     {
       "source": "bloomberg",
@@ -2514,7 +3279,7 @@
       "image": "",
       "entities": "",
       "clusterId": 128,
-      "id": 147
+      "id": 192
     },
     {
       "source": "bbc",
@@ -2530,8 +3295,8 @@
       "pubDate": "2026-07-12T15:22:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5d/live/b0df0c60-7e05-11f1-afb0-9dae682daff3.jpg",
       "entities": "",
-      "clusterId": 67,
-      "id": 148
+      "clusterId": 78,
+      "id": 193
     },
     {
       "source": "thehindu",
@@ -2548,7 +3313,7 @@
       "image": "https://th-i.thgim.com/public/incoming/x7uzmo/article71213439.ece/alternates/LANDSCAPE_1200/Boat-carrying-tGIRG85DQ8.4.jpg.jpg",
       "entities": "",
       "clusterId": 41,
-      "id": 149
+      "id": 194
     },
     {
       "source": "ap",
@@ -2565,7 +3330,7 @@
       "image": "",
       "entities": "",
       "clusterId": 115,
-      "id": 150
+      "id": 195
     },
     {
       "source": "mk",
@@ -2582,7 +3347,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/rcv.YNA.20260706.PAF20260706214901009_R.jpg",
       "entities": "",
       "clusterId": 113,
-      "id": 151
+      "id": 196
     },
     {
       "source": "mk",
@@ -2599,7 +3364,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.7550433944d94420aa1262721a87c210_R.jpg",
       "entities": "",
       "clusterId": 114,
-      "id": 152
+      "id": 197
     },
     {
       "source": "reuters",
@@ -2615,8 +3380,8 @@
       "pubDate": "2026-07-12T14:56:31+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 26,
-      "id": 153
+      "clusterId": 23,
+      "id": 198
     },
     {
       "source": "mk",
@@ -2632,8 +3397,8 @@
       "pubDate": "2026-07-12T14:53:25",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.e1e79be81ee24b06a2626b5810287e7f_R.jpg",
       "entities": "",
-      "clusterId": 11,
-      "id": 154
+      "clusterId": 12,
+      "id": 199
     },
     {
       "source": "nyt",
@@ -2649,8 +3414,8 @@
       "pubDate": "2026-07-12T14:51:40+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 5,
-      "id": 155
+      "clusterId": 9,
+      "id": 200
     },
     {
       "source": "mk",
@@ -2667,7 +3432,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260320.08f1cc455e114a6ca915b7bfb4c63012_R.jpeg",
       "entities": "",
       "clusterId": 115,
-      "id": 156
+      "id": 201
     },
     {
       "source": "yonhap",
@@ -2684,7 +3449,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712144232QvA_01_i.jpeg",
       "entities": "",
       "clusterId": 104,
-      "id": 157
+      "id": 202
     },
     {
       "source": "yonhap",
@@ -2700,8 +3465,8 @@
       "pubDate": "2026-07-12T14:41:54+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712144154H3T_01_i.jpeg",
       "entities": "",
-      "clusterId": 24,
-      "id": 158
+      "clusterId": 28,
+      "id": 203
     },
     {
       "source": "mk",
@@ -2717,8 +3482,8 @@
       "pubDate": "2026-07-12T14:41:18",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.f13dd3ac61f149699dd3c25440618fc1_R.png",
       "entities": "",
-      "clusterId": 0,
-      "id": 159
+      "clusterId": 4,
+      "id": 204
     },
     {
       "source": "mk",
@@ -2735,7 +3500,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.14f8c7508ff04e349fabd52a9fccdacb_R.png",
       "entities": "",
       "clusterId": 116,
-      "id": 160
+      "id": 205
     },
     {
       "source": "yonhap",
@@ -2752,7 +3517,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712143558adK_01_i.jpg",
       "entities": "",
       "clusterId": 105,
-      "id": 161
+      "id": 206
     },
     {
       "source": "mk",
@@ -2769,7 +3534,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.0790aab9e81a4682a728fe8ca817079f_R.png",
       "entities": "",
       "clusterId": 117,
-      "id": 162
+      "id": 207
     },
     {
       "source": "yonhap",
@@ -2786,7 +3551,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712143523hEW.jpg",
       "entities": "",
       "clusterId": 106,
-      "id": 163
+      "id": 208
     },
     {
       "source": "yonhap",
@@ -2803,7 +3568,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712143503LLu.jpg",
       "entities": "",
       "clusterId": 107,
-      "id": 164
+      "id": 209
     },
     {
       "source": "yonhap",
@@ -2819,8 +3584,8 @@
       "pubDate": "2026-07-12T14:34:22+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH2026071214342086I.jpg",
       "entities": "",
-      "clusterId": 108,
-      "id": 165
+      "clusterId": 32,
+      "id": 210
     },
     {
       "source": "yonhap",
@@ -2837,7 +3602,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712143357rx5.jpg",
       "entities": "",
       "clusterId": 109,
-      "id": 166
+      "id": 211
     },
     {
       "source": "yonhap",
@@ -2854,7 +3619,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260712/AKR20260712143330tQp_01_i.jpg",
       "entities": "",
       "clusterId": 110,
-      "id": 167
+      "id": 212
     },
     {
       "source": "mk",
@@ -2871,24 +3636,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260710.45797730a3e44e0687da7c4565e56f54_R.jpg",
       "entities": "",
       "clusterId": 118,
-      "id": 168
-    },
-    {
-      "source": "bloomberg",
-      "sourceName": "Bloomberg",
-      "category": "business",
-      "title": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle - Bloomberg.com",
-      "titleOriginal": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle - Bloomberg.com",
-      "description": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
-      "descriptionOriginal": "",
-      "content": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
-      "contentOriginal": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOV9Mc3RkYkFLWVBjM0Znc0Jldk9JUTdCSXliRVg2eHpHTHFLX0lza2hkaC14eVc1RUFJQjhPNDBpOEg3emtRdHJaYV9sZWJfcldFRUFHX19uT0FCMEZvS1ZqczFISEZESHFwVWlreUtmV2VoRkpCX0ZNV2FTQWc5dFJkTlJ6d2phT2VJVGNJRUxQWXFwTjl6RW1wRzc0TDNWVUxkS2dTcUhLa1lWSU0ydWVFMTUxQQ?oc=5",
-      "pubDate": "2026-07-12T14:26:39+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 5,
-      "id": 169
+      "id": 213
     },
     {
       "source": "ft",
@@ -2904,8 +3652,8 @@
       "pubDate": "2026-07-12T14:14:04+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 5,
-      "id": 170
+      "clusterId": 9,
+      "id": 214
     },
     {
       "source": "thehindu",
@@ -2922,7 +3670,7 @@
       "image": "https://th-i.thgim.com/public/incoming/h8gx9q/article71213118.ece/alternates/LANDSCAPE_1200/20260711354L.jpg",
       "entities": "",
       "clusterId": 33,
-      "id": 171
+      "id": 215
     },
     {
       "source": "scmp",
@@ -2939,7 +3687,7 @@
       "image": "",
       "entities": "",
       "clusterId": 69,
-      "id": 172
+      "id": 216
     },
     {
       "source": "bloomberg",
@@ -2955,8 +3703,25 @@
       "pubDate": "2026-07-12T14:00:01+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 125,
-      "id": 173
+      "clusterId": 79,
+      "id": 217
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models - Bloomberg.com",
+      "titleOriginal": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models - Bloomberg.com",
+      "description": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENTWFpvMXlpQS1vNU03VGZ3aGZKak1ZVlFPWkliOVVSbFpmZ2I1Ui1LMGVtWHd3N2xkaElHUV9CYXhKYlY1eXhmd1lZUzZGRzVXbzYzVVhvUERWN0RzWGVUMVoyUXBoWGR6dHBCeWEtZkl5ZzJKVVlUVXZFYkVBVjdCcXozOGpOUVNSMlpPbElYVGZQbUR2d0tnQ1pWOTJoekJKZzdWMjZ1eVlPNFgtVUZlTQ?oc=5",
+      "pubDate": "2026-07-12T14:00:00+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 130,
+      "id": 218
     },
     {
       "source": "hankyung",
@@ -2973,7 +3738,7 @@
       "image": "",
       "entities": "",
       "clusterId": 111,
-      "id": 174
+      "id": 219
     },
     {
       "source": "hankyung",
@@ -2990,7 +3755,7 @@
       "image": "",
       "entities": "",
       "clusterId": 112,
-      "id": 175
+      "id": 220
     },
     {
       "source": "hankyung",
@@ -3006,8 +3771,8 @@
       "pubDate": "2026-07-12T13:51:30+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 28,
-      "id": 176
+      "clusterId": 33,
+      "id": 221
     },
     {
       "source": "bbc",
@@ -3023,8 +3788,8 @@
       "pubDate": "2026-07-12T13:35:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586b/live/21e5a140-7df6-11f1-a2c7-db8990d0c651.jpg",
       "entities": "",
-      "clusterId": 70,
-      "id": 177
+      "clusterId": 80,
+      "id": 222
     },
     {
       "source": "reuters",
@@ -3040,8 +3805,8 @@
       "pubDate": "2026-07-12T13:30:09+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 71,
-      "id": 178
+      "clusterId": 81,
+      "id": 223
     },
     {
       "source": "nyt",
@@ -3058,7 +3823,7 @@
       "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11INT-WORLDCUP-Seats-01-fphb/11INT-WORLDCUP-Seats-01-fphb-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 120,
-      "id": 179
+      "id": 224
     },
     {
       "source": "nyt",
@@ -3075,7 +3840,7 @@
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-uk-murder01-jgth/12int-uk-murder01-jgth-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 54,
-      "id": 180
+      "id": 225
     },
     {
       "source": "hankyung",
@@ -3091,8 +3856,8 @@
       "pubDate": "2026-07-12T13:00:02+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 18,
-      "id": 181
+      "clusterId": 26,
+      "id": 226
     },
     {
       "source": "hankyung",
@@ -3108,8 +3873,8 @@
       "pubDate": "2026-07-12T12:53:14+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 29,
-      "id": 182
+      "clusterId": 34,
+      "id": 227
     },
     {
       "source": "hankyung",
@@ -3125,8 +3890,8 @@
       "pubDate": "2026-07-12T12:46:51+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 30,
-      "id": 183
+      "clusterId": 35,
+      "id": 228
     },
     {
       "source": "reuters",
@@ -3143,7 +3908,7 @@
       "image": "",
       "entities": "",
       "clusterId": 72,
-      "id": 184
+      "id": 229
     },
     {
       "source": "hankyung",
@@ -3160,7 +3925,7 @@
       "image": "",
       "entities": "",
       "clusterId": 3,
-      "id": 185
+      "id": 230
     },
     {
       "source": "hankyung",
@@ -3176,8 +3941,8 @@
       "pubDate": "2026-07-12T12:43:58+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 31,
-      "id": 186
+      "clusterId": 36,
+      "id": 231
     },
     {
       "source": "scmp",
@@ -3193,8 +3958,8 @@
       "pubDate": "2026-07-12T12:30:06+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 75,
-      "id": 187
+      "clusterId": 82,
+      "id": 232
     },
     {
       "source": "verge",
@@ -3210,8 +3975,8 @@
       "pubDate": "2026-07-12T12:27:06-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 76,
-      "id": 188
+      "clusterId": 83,
+      "id": 233
     },
     {
       "source": "nyt",
@@ -3227,8 +3992,8 @@
       "pubDate": "2026-07-12T12:14:21+00:00",
       "image": "https://static01.nyt.com/images/2026/07/06/multimedia/00int-russia-spies-03-hqjb/00int-russia-spies-03-hqjb-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 77,
-      "id": 189
+      "clusterId": 84,
+      "id": 234
     },
     {
       "source": "thehindu",
@@ -3245,7 +4010,7 @@
       "image": "https://th-i.thgim.com/public/incoming/id86j3/article71213262.ece/alternates/LANDSCAPE_1200/2026-04-11T144654Z_179173318_RC2BEKA9TVZB_RTRMADP_3_SAUDI-PAKISTAN-DEFENCE.JPG",
       "entities": "",
       "clusterId": 97,
-      "id": 190
+      "id": 235
     },
     {
       "source": "thehindu",
@@ -3261,8 +4026,8 @@
       "pubDate": "2026-07-12T12:02:00+05:30",
       "image": "https://th-i.thgim.com/public/incoming/radrb7/article71213282.ece/alternates/LANDSCAPE_1200/2026-07-10T055837Z_892949855_RC2M9MA3CU25_RTRMADP_3_SOUTHCHINASEA-PHILIPPINES-FISHERMEN.JPG",
       "entities": "",
-      "clusterId": 32,
-      "id": 191
+      "clusterId": 37,
+      "id": 236
     },
     {
       "source": "scmp",
@@ -3279,7 +4044,7 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 192
+      "id": 237
     },
     {
       "source": "hani",
@@ -3295,8 +4060,8 @@
       "pubDate": "2026-07-12T12:00:11.634531+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 28,
-      "id": 193
+      "clusterId": 35,
+      "id": 238
     },
     {
       "source": "mk",
@@ -3313,7 +4078,24 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.899837c836bc46daba92e33f7dbde9a3_R.png",
       "entities": "",
       "clusterId": 112,
-      "id": 194
+      "id": 239
+    },
+    {
+      "source": "bloomberg",
+      "sourceName": "Bloomberg",
+      "category": "business",
+      "title": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle - Bloomberg.com",
+      "titleOriginal": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle - Bloomberg.com",
+      "description": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
+      "descriptionOriginal": "",
+      "content": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
+      "contentOriginal": "Zelenskyy Removes Ukrainian Premier in Broader Cabinet Reshuffle&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOV9Mc3RkYkFLWVBjM0Znc0Jldk9JUTdCSXliRVg2eHpHTHFLX0lza2hkaC14eVc1RUFJQjhPNDBpOEg3emtRdHJaYV9sZWJfcldFRUFHX19uT0FCMEZvS1ZqczFISEZESHFwVWlreUtmV2VoRkpCX0ZNV2FTQWc5dFJkTlJ6d2phT2VJVGNJRUxQWXFwTjl6RW1wRzc0TDNWVUxkS2dTcUhLa1lWSU0ydWVFMTUxQQ?oc=5",
+      "pubDate": "2026-07-12T11:50:16+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 9,
+      "id": 240
     },
     {
       "source": "yonhap",
@@ -3330,7 +4112,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114512oR6.jpg",
       "entities": "",
       "clusterId": 100,
-      "id": 195
+      "id": 241
     },
     {
       "source": "yonhap",
@@ -3347,7 +4129,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114500llL.jpg",
       "entities": "",
       "clusterId": 101,
-      "id": 196
+      "id": 242
     },
     {
       "source": "yonhap",
@@ -3364,7 +4146,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114431ntk.jpg",
       "entities": "",
       "clusterId": 102,
-      "id": 197
+      "id": 243
     },
     {
       "source": "yonhap",
@@ -3381,7 +4163,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114412EnC.jpg",
       "entities": "",
       "clusterId": 103,
-      "id": 198
+      "id": 244
     },
     {
       "source": "yonhap",
@@ -3398,7 +4180,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114344dhG.jpg",
       "entities": "",
       "clusterId": 104,
-      "id": 199
+      "id": 245
     },
     {
       "source": "yonhap",
@@ -3415,7 +4197,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114224Atg.jpg",
       "entities": "",
       "clusterId": 105,
-      "id": 200
+      "id": 246
     },
     {
       "source": "yonhap",
@@ -3432,7 +4214,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH20260712114141o10.jpg",
       "entities": "",
       "clusterId": 6,
-      "id": 201
+      "id": 247
     },
     {
       "source": "yonhap",
@@ -3449,7 +4231,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/MYH/20260712/MYH202607121140317jh.jpg",
       "entities": "",
       "clusterId": 107,
-      "id": 202
+      "id": 248
     },
     {
       "source": "mk",
@@ -3466,7 +4248,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.33f801f803914b5486c09a94c9d7fa96_R.png",
       "entities": "",
       "clusterId": 113,
-      "id": 203
+      "id": 249
     },
     {
       "source": "mk",
@@ -3483,24 +4265,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/rcv.YNA.20260630.PRU20260630488201009_R.jpg",
       "entities": "",
       "clusterId": 114,
-      "id": 204
-    },
-    {
-      "source": "bloomberg",
-      "sourceName": "Bloomberg",
-      "category": "business",
-      "title": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71 - Bloomberg.com",
-      "titleOriginal": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71 - Bloomberg.com",
-      "description": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
-      "descriptionOriginal": "",
-      "content": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
-      "contentOriginal": "Lindsey Graham, Senate Hawk Turned Trump Ally, Dies at 71&nbsp;&nbsp;Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDRlcGhiT2g4U1kxVkVJMW5lTkdKR2tTaXhVQlhnTUl2d19Uekt3M1Q4U3ltNTI4ZEJFZGtYejhoU3E4SFRZeG9RMllqa0tHbjFKZXAzSmVMTUdaM3ptenQxOUt5bDBUSU5pZW85aXphVm1iTm55MUUyTHdZdkd5WlN3ZEhUSjVVWHotQkhUZXBMbHdpQzFMRkkwd1h2bzZJZm9V?oc=5",
-      "pubDate": "2026-07-12T11:29:41+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 21,
-      "id": 205
+      "id": 250
     },
     {
       "source": "hankyung",
@@ -3516,8 +4281,8 @@
       "pubDate": "2026-07-12T11:26:18+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 19,
-      "id": 206
+      "clusterId": 11,
+      "id": 251
     },
     {
       "source": "mk",
@@ -3533,8 +4298,8 @@
       "pubDate": "2026-07-12T11:26:18",
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.ab11762db5f84a628b6160d6747b7da2_R.jpg",
       "entities": "",
-      "clusterId": 9,
-      "id": 207
+      "clusterId": 0,
+      "id": 252
     },
     {
       "source": "nyt",
@@ -3550,8 +4315,8 @@
       "pubDate": "2026-07-12T11:24:54+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-Iran-Opposition-vwbp/12int-Iran-Opposition-vwbp-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 79,
-      "id": 208
+      "clusterId": 85,
+      "id": 253
     },
     {
       "source": "mk",
@@ -3568,7 +4333,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.496ca01c3b7f41d19dc76fab77ee8ab9_R.png",
       "entities": "",
       "clusterId": 115,
-      "id": 209
+      "id": 254
     },
     {
       "source": "hankyung",
@@ -3585,7 +4350,7 @@
       "image": "",
       "entities": "",
       "clusterId": 108,
-      "id": 210
+      "id": 255
     },
     {
       "source": "mk",
@@ -3602,7 +4367,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.90d227c9fb534774bbe31d2e1219ec6d_R.jpg",
       "entities": "",
       "clusterId": 3,
-      "id": 211
+      "id": 256
     },
     {
       "source": "mk",
@@ -3619,7 +4384,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.bb629b60ff8142108bb8316bccf04d57_R.png",
       "entities": "",
       "clusterId": 116,
-      "id": 212
+      "id": 257
     },
     {
       "source": "mk",
@@ -3636,7 +4401,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/12/news-p.v1.20260712.b6d0173e03a0411f92ad2340373aff8d_R.jpg",
       "entities": "",
       "clusterId": 117,
-      "id": 213
+      "id": 258
     },
     {
       "source": "hankyung",
@@ -3652,8 +4417,8 @@
       "pubDate": "2026-07-12T11:11:39+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 12,
-      "id": 214
+      "clusterId": 38,
+      "id": 259
     },
     {
       "source": "wired",
@@ -3669,8 +4434,8 @@
       "pubDate": "2026-07-12T11:09:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 80,
-      "id": 215
+      "clusterId": 86,
+      "id": 260
     },
     {
       "source": "hankyung",
@@ -3687,7 +4452,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 216
+      "id": 261
     },
     {
       "source": "thehindu",
@@ -3704,7 +4469,7 @@
       "image": "https://th-i.thgim.com/public/incoming/e9ekmg/article71210206.ece/alternates/LANDSCAPE_1200/2026-03-05T021340Z_551703584_RC20YJAC5T11_RTRMADP_3_CHINA-PARLIAMENT.JPG",
       "entities": "",
       "clusterId": 52,
-      "id": 217
+      "id": 262
     },
     {
       "source": "scmp",
@@ -3720,8 +4485,42 @@
       "pubDate": "2026-07-12T11:00:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 81,
-      "id": 218
+      "clusterId": 87,
+      "id": 263
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "Will Kevin Warsh offer any clues on Fed rates outlook? - Financial Times",
+      "titleOriginal": "Will Kevin Warsh offer any clues on Fed rates outlook? - Financial Times",
+      "description": "Will Kevin Warsh offer any clues on Fed rates outlook?&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "Will Kevin Warsh offer any clues on Fed rates outlook?&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Will Kevin Warsh offer any clues on Fed rates outlook?&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzI3WGEzeHAwaHI0LUduMGd4N2ZXTDV6OUFXUTVsXy1SZ2ZYQ2J1VHdRYk9vQ291SkhITXhWX05GYlNtZlZWS0FTN2hQaWZTai1VSnVHelhIQ1hVeml2VTgxOHJoU1pIX1N3dklBM0ViZmI5dmtFNEc3elQ2Njk2SlpMNDc?oc=5",
+      "pubDate": "2026-07-12T11:00:07+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 131,
+      "id": 264
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "Why are China and India so bad at football? - Financial Times",
+      "titleOriginal": "Why are China and India so bad at football? - Financial Times",
+      "description": "Why are China and India so bad at football?&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "Why are China and India so bad at football?&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Why are China and India so bad at football?&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXpNd1QyUlpFcjVNMFUwZzNDQmZMRWZKakhaMVU1YmkzOFgzVlF0UmpSN1Fubm94WWFBbEl5bW9yWEp0VTZVWmQ4d3Zqdy1xLVJudEhKMEx4c1BfeFVpNkhaVU91VHJWa2lkZUprRWZBZXVScFhFWWtsa0NtVGJXay0zaHQ?oc=5",
+      "pubDate": "2026-07-12T11:00:07+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 132,
+      "id": 265
     },
     {
       "source": "hankyung",
@@ -3738,7 +4537,7 @@
       "image": "",
       "entities": "",
       "clusterId": 110,
-      "id": 219
+      "id": 266
     },
     {
       "source": "hankyung",
@@ -3755,7 +4554,7 @@
       "image": "",
       "entities": "",
       "clusterId": 12,
-      "id": 220
+      "id": 267
     },
     {
       "source": "verge",
@@ -3771,8 +4570,8 @@
       "pubDate": "2026-07-12T11:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 82,
-      "id": 221
+      "clusterId": 88,
+      "id": 268
     },
     {
       "source": "hankyung",
@@ -3789,7 +4588,7 @@
       "image": "",
       "entities": "",
       "clusterId": 17,
-      "id": 222
+      "id": 269
     },
     {
       "source": "hankyung",
@@ -3805,8 +4604,8 @@
       "pubDate": "2026-07-12T10:53:04+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 33,
-      "id": 223
+      "clusterId": 14,
+      "id": 270
     },
     {
       "source": "verge",
@@ -3822,8 +4621,8 @@
       "pubDate": "2026-07-12T10:38:01-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 83,
-      "id": 224
+      "clusterId": 89,
+      "id": 271
     },
     {
       "source": "wired",
@@ -3839,8 +4638,8 @@
       "pubDate": "2026-07-12T10:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 84,
-      "id": 225
+      "clusterId": 90,
+      "id": 272
     },
     {
       "source": "wired",
@@ -3856,8 +4655,8 @@
       "pubDate": "2026-07-12T10:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 85,
-      "id": 226
+      "clusterId": 91,
+      "id": 273
     },
     {
       "source": "nikkei",
@@ -3874,7 +4673,7 @@
       "image": "",
       "entities": "",
       "clusterId": 86,
-      "id": 227
+      "id": 274
     },
     {
       "source": "thehindu",
@@ -3891,7 +4690,7 @@
       "image": "https://th-i.thgim.com/public/incoming/5tdklb/article71211581.ece/alternates/LANDSCAPE_1200/2026-07-06T171022Z_738694510_RC2C8MADBFVI_RTRMADP_3_IRAN-CRISIS-LEBANON-RETURN.JPG",
       "entities": "",
       "clusterId": 35,
-      "id": 228
+      "id": 275
     },
     {
       "source": "thehindu",
@@ -3908,7 +4707,7 @@
       "image": "https://th-i.thgim.com/public/incoming/bhmlhr/article71211456.ece/alternates/LANDSCAPE_1200/2026-07-11T092103Z_1953222914_RC2LBMAES666_RTRMADP_3_GERMANY-POLITICS-AFD.JPG",
       "entities": "",
       "clusterId": 37,
-      "id": 229
+      "id": 276
     },
     {
       "source": "thehindu",
@@ -3925,7 +4724,7 @@
       "image": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
       "entities": "",
       "clusterId": 42,
-      "id": 230
+      "id": 277
     },
     {
       "source": "reuters",
@@ -3942,7 +4741,24 @@
       "image": "",
       "entities": "",
       "clusterId": 67,
-      "id": 231
+      "id": 278
+    },
+    {
+      "source": "ft",
+      "sourceName": "Financial Times",
+      "category": "business",
+      "title": "Knives out at US Supreme Court as justices’ squabbles go public - Financial Times",
+      "titleOriginal": "Knives out at US Supreme Court as justices’ squabbles go public - Financial Times",
+      "description": "Knives out at US Supreme Court as justices’ squabbles go public&nbsp;&nbsp;Financial Times",
+      "descriptionOriginal": "",
+      "content": "Knives out at US Supreme Court as justices’ squabbles go public&nbsp;&nbsp;Financial Times",
+      "contentOriginal": "Knives out at US Supreme Court as justices’ squabbles go public&nbsp;&nbsp;Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmtuOUFNTXlRUDVJX2MyM0RhcHdxOElmYnVPeGVUVWhxZGtvNWh0UVNSS0xROUF3aUdfX0xzcUQ3aVd2MVdneC1uQWtVWkRIOWJXX3VmUmpnTnhUQ2NDUDdTWFV5VS1HeVh2RTNxQ08zeXB1SXdwR2MySk96SGRMX2xpS20?oc=5",
+      "pubDate": "2026-07-12T10:00:06+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 133,
+      "id": 279
     },
     {
       "source": "verge",
@@ -3958,8 +4774,8 @@
       "pubDate": "2026-07-12T10:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 87,
-      "id": 232
+      "clusterId": 92,
+      "id": 280
     },
     {
       "source": "wired",
@@ -3975,8 +4791,8 @@
       "pubDate": "2026-07-12T10:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 88,
-      "id": 233
+      "clusterId": 93,
+      "id": 281
     },
     {
       "source": "scmp",
@@ -3992,8 +4808,8 @@
       "pubDate": "2026-07-12T09:45:31+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 89,
-      "id": 234
+      "clusterId": 94,
+      "id": 282
     },
     {
       "source": "wired",
@@ -4009,8 +4825,8 @@
       "pubDate": "2026-07-12T09:33:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 90,
-      "id": 235
+      "clusterId": 95,
+      "id": 283
     },
     {
       "source": "thehindu",
@@ -4027,7 +4843,7 @@
       "image": "https://th-i.thgim.com/public/opinion/cartoon/geyozp/article71211547.ece/alternates/LANDSCAPE_1200/iStock-1395839106.jpg",
       "entities": "",
       "clusterId": 36,
-      "id": 236
+      "id": 284
     },
     {
       "source": "thehindu",
@@ -4043,8 +4859,8 @@
       "pubDate": "2026-07-12T09:22:34+05:30",
       "image": "https://th-i.thgim.com/public/incoming/mb2rj7/article71210218.ece/alternates/LANDSCAPE_1200/AFP_B9WH769.jpg",
       "entities": "",
-      "clusterId": 34,
-      "id": 237
+      "clusterId": 39,
+      "id": 285
     },
     {
       "source": "nyt",
@@ -4061,7 +4877,7 @@
       "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 66,
-      "id": 238
+      "id": 286
     },
     {
       "source": "wired",
@@ -4077,8 +4893,8 @@
       "pubDate": "2026-07-12T09:05:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 91,
-      "id": 239
+      "clusterId": 96,
+      "id": 287
     },
     {
       "source": "hani",
@@ -4094,8 +4910,8 @@
       "pubDate": "2026-07-12T09:01:17.119487+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 14,
-      "id": 240
+      "clusterId": 33,
+      "id": 288
     },
     {
       "source": "hani",
@@ -4111,8 +4927,8 @@
       "pubDate": "2026-07-12T09:01:17.119431+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 31,
-      "id": 241
+      "clusterId": 38,
+      "id": 289
     },
     {
       "source": "hani",
@@ -4129,7 +4945,7 @@
       "image": "",
       "entities": "",
       "clusterId": 127,
-      "id": 242
+      "id": 290
     },
     {
       "source": "hani",
@@ -4146,7 +4962,7 @@
       "image": "",
       "entities": "",
       "clusterId": 126,
-      "id": 243
+      "id": 291
     },
     {
       "source": "hani",
@@ -4163,7 +4979,7 @@
       "image": "",
       "entities": "",
       "clusterId": 125,
-      "id": 244
+      "id": 292
     },
     {
       "source": "hani",
@@ -4179,8 +4995,8 @@
       "pubDate": "2026-07-12T09:01:17.119203+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 9,
-      "id": 245
+      "clusterId": 0,
+      "id": 293
     },
     {
       "source": "hani",
@@ -4197,7 +5013,7 @@
       "image": "",
       "entities": "",
       "clusterId": 124,
-      "id": 246
+      "id": 294
     },
     {
       "source": "hani",
@@ -4214,7 +5030,7 @@
       "image": "",
       "entities": "",
       "clusterId": 123,
-      "id": 247
+      "id": 295
     },
     {
       "source": "verge",
@@ -4230,8 +5046,8 @@
       "pubDate": "2026-07-12T09:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 92,
-      "id": 248
+      "clusterId": 97,
+      "id": 296
     },
     {
       "source": "bloomberg",
@@ -4247,8 +5063,8 @@
       "pubDate": "2026-07-12T08:56:19+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 17,
-      "id": 249
+      "clusterId": 25,
+      "id": 297
     },
     {
       "source": "reuters",
@@ -4264,8 +5080,8 @@
       "pubDate": "2026-07-12T08:37:43+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 93,
-      "id": 250
+      "clusterId": 98,
+      "id": 298
     },
     {
       "source": "thehindu",
@@ -4281,8 +5097,8 @@
       "pubDate": "2026-07-12T08:08:48+05:30",
       "image": "https://th-i.thgim.com/public/incoming/5wtfvy/article71212992.ece/alternates/LANDSCAPE_1200/2026-07-09T075744Z_1894631077_RC25AMAEBGG0_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
       "entities": "",
-      "clusterId": 22,
-      "id": 251
+      "clusterId": 40,
+      "id": 299
     },
     {
       "source": "guardian",
@@ -4298,8 +5114,8 @@
       "pubDate": "2026-07-12T08:00:12+00:00",
       "image": "https://i.guim.co.uk/img/media/b5a234cedfbdf2689683190861251d50d942e050/416_0_6091_4873/master/6091.jpg?width=140&quality=85&auto=format&fit=max&s=86950fd5e1ad95b2dd03d3caec82b943",
       "entities": "",
-      "clusterId": 94,
-      "id": 252
+      "clusterId": 99,
+      "id": 300
     },
     {
       "source": "verge",
@@ -4315,8 +5131,8 @@
       "pubDate": "2026-07-12T08:00:00-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 95,
-      "id": 253
+      "clusterId": 100,
+      "id": 301
     },
     {
       "source": "nikkei",
@@ -4332,8 +5148,8 @@
       "pubDate": "2026-07-12T07:54:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 32,
-      "id": 254
+      "clusterId": 37,
+      "id": 302
     },
     {
       "source": "bbc",
@@ -4349,8 +5165,8 @@
       "pubDate": "2026-07-12T07:39:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90d/live/996516b0-7dce-11f1-b976-0b9c15b0ccfc.jpg",
       "entities": "",
-      "clusterId": 35,
-      "id": 255
+      "clusterId": 41,
+      "id": 303
     },
     {
       "source": "thehindu",
@@ -4366,8 +5182,8 @@
       "pubDate": "2026-07-12T07:33:12+05:30",
       "image": "https://th-i.thgim.com/public/incoming/a0x526/article71212980.ece/alternates/LANDSCAPE_1200/2026-07-12T014545Z_1856486480_RC20CMA6YCJD_RTRMADP_3_CANADA-TORONTO-SHOOTING.JPG",
       "entities": "",
-      "clusterId": 36,
-      "id": 256
+      "clusterId": 42,
+      "id": 304
     },
     {
       "source": "nikkei",
@@ -4384,7 +5200,7 @@
       "image": "",
       "entities": "",
       "clusterId": 81,
-      "id": 257
+      "id": 305
     },
     {
       "source": "ap",
@@ -4400,8 +5216,8 @@
       "pubDate": "2026-07-12T07:26:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 32,
-      "id": 258
+      "clusterId": 37,
+      "id": 306
     },
     {
       "source": "nyt",
@@ -4417,8 +5233,8 @@
       "pubDate": "2026-07-12T07:17:40+00:00",
       "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-china-typhoon-ftwk/12int-china-typhoon-ftwk-mediumSquareAt3X-v2.jpg",
       "entities": "",
-      "clusterId": 17,
-      "id": 259
+      "clusterId": 25,
+      "id": 307
     },
     {
       "source": "ft",
@@ -4434,8 +5250,8 @@
       "pubDate": "2026-07-12T07:09:39+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 21,
-      "id": 260
+      "clusterId": 24,
+      "id": 308
     },
     {
       "source": "bloomberg",
@@ -4452,7 +5268,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 261
+      "id": 309
     },
     {
       "source": "nikkei",
@@ -4468,25 +5284,8 @@
       "pubDate": "2026-07-12T06:31:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 96,
-      "id": 262
-    },
-    {
-      "source": "reuters",
-      "sourceName": "Reuters",
-      "category": "world",
-      "title": "Lindsey Graham, US Republican senator and Trump ally, dies at 71 - Reuters",
-      "titleOriginal": "Lindsey Graham, US Republican senator and Trump ally, dies at 71 - Reuters",
-      "description": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
-      "descriptionOriginal": "",
-      "content": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
-      "contentOriginal": "Lindsey Graham, US Republican senator and Trump ally, dies at 71&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5",
-      "pubDate": "2026-07-12T06:22:00+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 21,
-      "id": 263
+      "clusterId": 101,
+      "id": 310
     },
     {
       "source": "hani",
@@ -4503,7 +5302,7 @@
       "image": "",
       "entities": "",
       "clusterId": 124,
-      "id": 264
+      "id": 311
     },
     {
       "source": "hani",
@@ -4520,7 +5319,7 @@
       "image": "",
       "entities": "",
       "clusterId": 123,
-      "id": 265
+      "id": 312
     },
     {
       "source": "hani",
@@ -4536,8 +5335,8 @@
       "pubDate": "2026-07-12T06:00:31.313381+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 15,
-      "id": 266
+      "clusterId": 21,
+      "id": 313
     },
     {
       "source": "hani",
@@ -4553,8 +5352,8 @@
       "pubDate": "2026-07-12T06:00:31.313324+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 37,
-      "id": 267
+      "clusterId": 43,
+      "id": 314
     },
     {
       "source": "hani",
@@ -4571,7 +5370,7 @@
       "image": "",
       "entities": "",
       "clusterId": 28,
-      "id": 268
+      "id": 315
     },
     {
       "source": "hani",
@@ -4587,8 +5386,8 @@
       "pubDate": "2026-07-12T06:00:31.313206+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 6,
-      "id": 269
+      "clusterId": 10,
+      "id": 316
     },
     {
       "source": "hani",
@@ -4605,7 +5404,7 @@
       "image": "",
       "entities": "",
       "clusterId": 119,
-      "id": 270
+      "id": 317
     },
     {
       "source": "hani",
@@ -4621,8 +5420,8 @@
       "pubDate": "2026-07-12T06:00:31.313051+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 23,
-      "id": 271
+      "clusterId": 34,
+      "id": 318
     },
     {
       "source": "scmp",
@@ -4638,8 +5437,8 @@
       "pubDate": "2026-07-12T06:00:12+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 97,
-      "id": 272
+      "clusterId": 102,
+      "id": 319
     },
     {
       "source": "economist",
@@ -4656,7 +5455,7 @@
       "image": "",
       "entities": "",
       "clusterId": 73,
-      "id": 273
+      "id": 320
     },
     {
       "source": "scmp",
@@ -4672,8 +5471,8 @@
       "pubDate": "2026-07-12T05:39:08+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 7,
-      "id": 274
+      "clusterId": 15,
+      "id": 321
     },
     {
       "source": "nikkei",
@@ -4689,8 +5488,8 @@
       "pubDate": "2026-07-12T05:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 98,
-      "id": 275
+      "clusterId": 103,
+      "id": 322
     },
     {
       "source": "reuters",
@@ -4706,8 +5505,8 @@
       "pubDate": "2026-07-12T05:20:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 99,
-      "id": 276
+      "clusterId": 104,
+      "id": 323
     },
     {
       "source": "yonhap",
@@ -4724,7 +5523,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712050600mlc_01_i.jpg",
       "entities": "",
       "clusterId": 118,
-      "id": 277
+      "id": 324
     },
     {
       "source": "mk",
@@ -4741,7 +5540,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/09/news-p.v1.20260709.d555bb613b8b4a86aedaaba4cef4f04d_R.jpg",
       "entities": "",
       "clusterId": 119,
-      "id": 278
+      "id": 325
     },
     {
       "source": "guardian",
@@ -4757,8 +5556,25 @@
       "pubDate": "2026-07-12T05:00:09+00:00",
       "image": "https://i.guim.co.uk/img/media/8837b4351cdfd5cbb0e4ffb5b1620d1b8acfdc52/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=1bce153992e3864bd8887ac1e7f79c6b",
       "entities": "",
-      "clusterId": 100,
-      "id": 279
+      "clusterId": 105,
+      "id": 326
+    },
+    {
+      "source": "scmp",
+      "sourceName": "South China Morning Post",
+      "category": "business",
+      "title": "In China’s electronics hub, a memory chip crisis is hitting consumers hard - South China Morning Post",
+      "titleOriginal": "In China’s electronics hub, a memory chip crisis is hitting consumers hard - South China Morning Post",
+      "description": "In China’s electronics hub, a memory chip crisis is hitting consumers hard&nbsp;&nbsp;South China Morning Post",
+      "descriptionOriginal": "",
+      "content": "In China’s electronics hub, a memory chip crisis is hitting consumers hard&nbsp;&nbsp;South China Morning Post",
+      "contentOriginal": "In China’s electronics hub, a memory chip crisis is hitting consumers hard&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkFRVlpvbTJtSzgyTWJaY0RQUG1HRF9WUk95VUI1LTRQdkFSUXJFTHBpcUtBSUgtRGUtcjcxV3poRUdMV3JhZXBsMTdMOGdTWjY0SlF1SUZGTVRGSzRKLWVDNHJWNHBvdml0Q1Q5ci11M240VWxuTmpRRHd1aFFCZWhpcDZSWWc2VmFQa25oTEQtMWtxZ1otQWpvRXFaTVQwRjdmNC1YNXFnTnpuSzZYRU1uelRpY3ZSWXfSAboBQVVfeXFMUDJtX3ZtM1JPNmdoRUlTRVh5Q2dMOXRkRVFUWTFCY2Q0a2lNaTE1VERyUzFyMC1jTG5yUFg0TklUZlA4VUVxUVpoSXdSSlh6UVN0dnVmRlZObWhabWFPYmRUa3dsTXZQZzhmSVVKRkxEaDNnd3RkNmZqY0o1TG5YT3JTS1FPWVAxZ3lsUloxOTl1NHJVdUVYREdsS25BdkpCYjU1cDhyX0J2T0VjRG5rdlU1cGtjX1NSUWdB?oc=5",
+      "pubDate": "2026-07-12T05:00:07+00:00",
+      "image": "",
+      "entities": "",
+      "clusterId": 135,
+      "id": 327
     },
     {
       "source": "mk",
@@ -4775,7 +5591,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.6dbe53a33e2c439aa413bec90eec4a88_R.jpg",
       "entities": "",
       "clusterId": 120,
-      "id": 280
+      "id": 328
     },
     {
       "source": "thehindu",
@@ -4792,7 +5608,7 @@
       "image": "https://th-i.thgim.com/public/incoming/xw5jgn/article71201345.ece/alternates/LANDSCAPE_1200/lawrence%20bishnoi.jpg",
       "entities": "",
       "clusterId": 88,
-      "id": 281
+      "id": 329
     },
     {
       "source": "reuters",
@@ -4809,7 +5625,7 @@
       "image": "",
       "entities": "",
       "clusterId": 8,
-      "id": 282
+      "id": 330
     },
     {
       "source": "reuters",
@@ -4825,8 +5641,8 @@
       "pubDate": "2026-07-12T04:19:33+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 47,
-      "id": 283
+      "clusterId": 44,
+      "id": 331
     },
     {
       "source": "ft",
@@ -4842,8 +5658,8 @@
       "pubDate": "2026-07-12T04:01:43+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 101,
-      "id": 284
+      "clusterId": 106,
+      "id": 332
     },
     {
       "source": "nyt",
@@ -4860,7 +5676,7 @@
       "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08int-india-gymkhana-09-qbpk/08int-india-gymkhana-09-qbpk-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 87,
-      "id": 285
+      "id": 333
     },
     {
       "source": "ft",
@@ -4876,8 +5692,8 @@
       "pubDate": "2026-07-12T04:00:43+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 102,
-      "id": 286
+      "clusterId": 107,
+      "id": 334
     },
     {
       "source": "ft",
@@ -4894,7 +5710,7 @@
       "image": "",
       "entities": "",
       "clusterId": 103,
-      "id": 287
+      "id": 335
     },
     {
       "source": "ft",
@@ -4910,8 +5726,8 @@
       "pubDate": "2026-07-12T04:00:43+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 104,
-      "id": 288
+      "clusterId": 108,
+      "id": 336
     },
     {
       "source": "ft",
@@ -4927,8 +5743,8 @@
       "pubDate": "2026-07-12T04:00:33+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 122,
-      "id": 289
+      "clusterId": 109,
+      "id": 337
     },
     {
       "source": "guardian",
@@ -4944,8 +5760,8 @@
       "pubDate": "2026-07-12T04:00:31+00:00",
       "image": "https://i.guim.co.uk/img/media/03ea8ebd47324289b87f52874c1ce05a57e91f67/249_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=0ee1aeadeb515b1687fd2b34b8c306cc",
       "entities": "",
-      "clusterId": 36,
-      "id": 290
+      "clusterId": 42,
+      "id": 338
     },
     {
       "source": "bloomberg",
@@ -4962,7 +5778,7 @@
       "image": "",
       "entities": "",
       "clusterId": 54,
-      "id": 291
+      "id": 339
     },
     {
       "source": "mk",
@@ -4979,7 +5795,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260709.62be633e37674b44af35265146ac3583_R.png",
       "entities": "",
       "clusterId": 121,
-      "id": 292
+      "id": 340
     },
     {
       "source": "bbc",
@@ -4995,8 +5811,8 @@
       "pubDate": "2026-07-12T03:56:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/bfc51ee0-7d92-11f1-b0c0-b9b367ec5905.jpg",
       "entities": "",
-      "clusterId": 36,
-      "id": 293
+      "clusterId": 42,
+      "id": 341
     },
     {
       "source": "ap",
@@ -5013,7 +5829,7 @@
       "image": "",
       "entities": "",
       "clusterId": 37,
-      "id": 294
+      "id": 342
     },
     {
       "source": "nikkei",
@@ -5030,7 +5846,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 295
+      "id": 343
     },
     {
       "source": "hani",
@@ -5047,7 +5863,7 @@
       "image": "",
       "entities": "",
       "clusterId": 8,
-      "id": 296
+      "id": 344
     },
     {
       "source": "hani",
@@ -5064,7 +5880,7 @@
       "image": "",
       "entities": "",
       "clusterId": 121,
-      "id": 297
+      "id": 345
     },
     {
       "source": "hani",
@@ -5080,8 +5896,8 @@
       "pubDate": "2026-07-12T03:05:06.319422+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 20,
-      "id": 298
+      "clusterId": 27,
+      "id": 346
     },
     {
       "source": "hani",
@@ -5098,7 +5914,7 @@
       "image": "",
       "entities": "",
       "clusterId": 119,
-      "id": 299
+      "id": 347
     },
     {
       "source": "hani",
@@ -5114,8 +5930,8 @@
       "pubDate": "2026-07-12T03:05:06.319296+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 24,
-      "id": 300
+      "clusterId": 28,
+      "id": 348
     },
     {
       "source": "hani",
@@ -5132,7 +5948,7 @@
       "image": "",
       "entities": "",
       "clusterId": 11,
-      "id": 301
+      "id": 349
     },
     {
       "source": "hani",
@@ -5148,8 +5964,8 @@
       "pubDate": "2026-07-12T03:05:06.319175+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 13,
-      "id": 302
+      "clusterId": 19,
+      "id": 350
     },
     {
       "source": "hani",
@@ -5165,8 +5981,8 @@
       "pubDate": "2026-07-12T03:05:06.319083+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 29,
-      "id": 303
+      "clusterId": 36,
+      "id": 351
     },
     {
       "source": "yonhap",
@@ -5183,7 +5999,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712020647x83_01_i.jpg",
       "entities": "",
       "clusterId": 14,
-      "id": 304
+      "id": 352
     },
     {
       "source": "reuters",
@@ -5199,8 +6015,8 @@
       "pubDate": "2026-07-12T01:48:51+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 38,
-      "id": 305
+      "clusterId": 45,
+      "id": 353
     },
     {
       "source": "ap",
@@ -5217,7 +6033,7 @@
       "image": "",
       "entities": "",
       "clusterId": 85,
-      "id": 306
+      "id": 354
     },
     {
       "source": "reuters",
@@ -5234,7 +6050,7 @@
       "image": "",
       "entities": "",
       "clusterId": 73,
-      "id": 307
+      "id": 355
     },
     {
       "source": "ap",
@@ -5251,7 +6067,7 @@
       "image": "",
       "entities": "",
       "clusterId": 83,
-      "id": 308
+      "id": 356
     },
     {
       "source": "thehindu",
@@ -5268,7 +6084,7 @@
       "image": "https://th-i.thgim.com/public/incoming/ihfwoa/article71211459.ece/alternates/LANDSCAPE_1200/APTOPIX_Turkey_NATO_Summit_Trump_52897.jpg",
       "entities": "",
       "clusterId": 20,
-      "id": 309
+      "id": 357
     },
     {
       "source": "scmp",
@@ -5284,25 +6100,8 @@
       "pubDate": "2026-07-12T01:30:06+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 125,
-      "id": 310
-    },
-    {
-      "source": "economist",
-      "sourceName": "The Economist",
-      "category": "business",
-      "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
-      "titleOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power? - The Economist",
-      "description": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
-      "descriptionOriginal": "",
-      "content": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
-      "contentOriginal": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?&nbsp;&nbsp;The Economist",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
-      "pubDate": "2026-07-12T01:25:14+00:00",
-      "image": "",
-      "entities": "",
-      "clusterId": 105,
-      "id": 311
+      "clusterId": 110,
+      "id": 358
     },
     {
       "source": "yonhap",
@@ -5319,7 +6118,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712011253Hc2_01_i.jpg",
       "entities": "",
       "clusterId": 15,
-      "id": 312
+      "id": 359
     },
     {
       "source": "nyt",
@@ -5335,8 +6134,8 @@
       "pubDate": "2026-07-12T01:08:40+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11iran-strait-whmp/11iran-strait-whmp-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 22,
-      "id": 313
+      "clusterId": 3,
+      "id": 360
     },
     {
       "source": "scmp",
@@ -5353,7 +6152,7 @@
       "image": "",
       "entities": "",
       "clusterId": 85,
-      "id": 314
+      "id": 361
     },
     {
       "source": "ap",
@@ -5369,8 +6168,8 @@
       "pubDate": "2026-07-12T00:54:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 39,
-      "id": 315
+      "clusterId": 46,
+      "id": 362
     },
     {
       "source": "yonhap",
@@ -5386,8 +6185,8 @@
       "pubDate": "2026-07-12T00:52:59+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260712005258Yg5_01_i.jpg",
       "entities": "",
-      "clusterId": 4,
-      "id": 316
+      "clusterId": 10,
+      "id": 363
     },
     {
       "source": "ap",
@@ -5403,8 +6202,8 @@
       "pubDate": "2026-07-12T00:45:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 106,
-      "id": 317
+      "clusterId": 40,
+      "id": 364
     },
     {
       "source": "nikkei",
@@ -5421,7 +6220,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 318
+      "id": 365
     },
     {
       "source": "thehindu",
@@ -5438,7 +6237,7 @@
       "image": "",
       "entities": "",
       "clusterId": 21,
-      "id": 319
+      "id": 366
     },
     {
       "source": "techcrunch",
@@ -5454,8 +6253,8 @@
       "pubDate": "2026-07-12T00:16:06+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 107,
-      "id": 320
+      "clusterId": 112,
+      "id": 367
     },
     {
       "source": "nyt",
@@ -5472,7 +6271,7 @@
       "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17Worldcup-header-vqhj/17Worldcup-header-vqhj-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 88,
-      "id": 321
+      "id": 368
     },
     {
       "source": "ft",
@@ -5488,8 +6287,8 @@
       "pubDate": "2026-07-12T00:00:34+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 22,
-      "id": 322
+      "clusterId": 3,
+      "id": 369
     },
     {
       "source": "ft",
@@ -5505,8 +6304,8 @@
       "pubDate": "2026-07-12T00:00:34+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 7,
-      "id": 323
+      "clusterId": 47,
+      "id": 370
     },
     {
       "source": "scmp",
@@ -5522,8 +6321,8 @@
       "pubDate": "2026-07-12T00:00:22+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 22,
-      "id": 324
+      "clusterId": 47,
+      "id": 371
     },
     {
       "source": "bloomberg",
@@ -5540,7 +6339,7 @@
       "image": "",
       "entities": "",
       "clusterId": 108,
-      "id": 325
+      "id": 372
     },
     {
       "source": "bloomberg",
@@ -5557,7 +6356,7 @@
       "image": "",
       "entities": "",
       "clusterId": 121,
-      "id": 326
+      "id": 373
     },
     {
       "source": "bloomberg",
@@ -5574,7 +6373,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 327
+      "id": 374
     },
     {
       "source": "bbc",
@@ -5590,8 +6389,8 @@
       "pubDate": "2026-07-11T23:58:40+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
       "entities": "",
-      "clusterId": 110,
-      "id": 328
+      "clusterId": 113,
+      "id": 375
     },
     {
       "source": "nikkei",
@@ -5607,8 +6406,8 @@
       "pubDate": "2026-07-11T23:57:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 25,
-      "id": 329
+      "clusterId": 29,
+      "id": 376
     },
     {
       "source": "yonhap",
@@ -5625,7 +6424,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711234800HRK_01_i.jpg",
       "entities": "",
       "clusterId": 16,
-      "id": 330
+      "id": 377
     },
     {
       "source": "reuters",
@@ -5641,8 +6440,8 @@
       "pubDate": "2026-07-11T23:43:18+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 40,
-      "id": 331
+      "clusterId": 48,
+      "id": 378
     },
     {
       "source": "thehindu",
@@ -5659,7 +6458,7 @@
       "image": "https://th-i.thgim.com/public/incoming/lmohg9/article71211629.ece/alternates/LANDSCAPE_1200/AFP__20260623__B82L49E__v1__HighRes__PakistanReligionIslamMuharram.jpg",
       "entities": "",
       "clusterId": 23,
-      "id": 332
+      "id": 379
     },
     {
       "source": "nikkei",
@@ -5676,7 +6475,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 333
+      "id": 380
     },
     {
       "source": "thehindu",
@@ -5692,8 +6491,8 @@
       "pubDate": "2026-07-11T23:25:15+05:30",
       "image": "https://th-i.thgim.com/public/incoming/ihlwtw/article71211603.ece/alternates/LANDSCAPE_1200/2026-07-11T111556Z_1351199082_RC26AMAHPQOD_RTRMADP_3_ISRAEL-PALESTINIANS-WEST-BANK-KHANNA.JPG",
       "entities": "",
-      "clusterId": 41,
-      "id": 334
+      "clusterId": 49,
+      "id": 381
     },
     {
       "source": "reuters",
@@ -5709,8 +6508,8 @@
       "pubDate": "2026-07-11T23:21:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 22,
-      "id": 335
+      "clusterId": 3,
+      "id": 382
     },
     {
       "source": "thehindu",
@@ -5726,8 +6525,8 @@
       "pubDate": "2026-07-11T22:51:11+05:30",
       "image": "",
       "entities": "",
-      "clusterId": 4,
-      "id": 336
+      "clusterId": 8,
+      "id": 383
     },
     {
       "source": "thehindu",
@@ -5743,8 +6542,8 @@
       "pubDate": "2026-07-11T22:47:34+05:30",
       "image": "https://th-i.thgim.com/public/incoming/3bb7sl/article71211511.ece/alternates/LANDSCAPE_1200/2026-07-11T045715Z_592048544_RC2DBMALXE0C_RTRMADP_3_ASIA-WEATHER-CHINA.JPG",
       "entities": "",
-      "clusterId": 35,
-      "id": 337
+      "clusterId": 41,
+      "id": 384
     },
     {
       "source": "mk",
@@ -5760,8 +6559,8 @@
       "pubDate": "2026-07-11T22:38:52",
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.a95683e079464d6d8a04edbac2fa0b35_R.png",
       "entities": "",
-      "clusterId": 2,
-      "id": 338
+      "clusterId": 6,
+      "id": 385
     },
     {
       "source": "yonhap",
@@ -5777,8 +6576,8 @@
       "pubDate": "2026-07-11T22:31:15+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711223114HGS_01_i.jpg",
       "entities": "",
-      "clusterId": 42,
-      "id": 339
+      "clusterId": 50,
+      "id": 386
     },
     {
       "source": "mk",
@@ -5795,7 +6594,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.d36c693f6a9045de8d5b6043b7e0df5d_R.jpg",
       "entities": "",
       "clusterId": 19,
-      "id": 340
+      "id": 387
     },
     {
       "source": "mk",
@@ -5812,7 +6611,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260706.85eac1a98002420eb5137761eafbfebd_R.png",
       "entities": "",
       "clusterId": 20,
-      "id": 341
+      "id": 388
     },
     {
       "source": "yonhap",
@@ -5828,8 +6627,8 @@
       "pubDate": "2026-07-11T22:23:26+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711222325Tai_01_i.jpg",
       "entities": "",
-      "clusterId": 9,
-      "id": 342
+      "clusterId": 11,
+      "id": 389
     },
     {
       "source": "ap",
@@ -5846,7 +6645,7 @@
       "image": "",
       "entities": "",
       "clusterId": 98,
-      "id": 343
+      "id": 390
     },
     {
       "source": "mk",
@@ -5863,7 +6662,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.06d3862312a54318b705f7cef488d2e5_R.png",
       "entities": "",
       "clusterId": 21,
-      "id": 344
+      "id": 391
     },
     {
       "source": "nikkei",
@@ -5880,7 +6679,7 @@
       "image": "",
       "entities": "",
       "clusterId": 48,
-      "id": 345
+      "id": 392
     },
     {
       "source": "techcrunch",
@@ -5888,16 +6687,16 @@
       "category": "tech",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "titleOriginal": "This slushie machine was a lifesaver during NYC’s heat wave",
-      "description": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on",
+      "description": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
       "descriptionOriginal": "",
-      "content": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
-      "contentOriginal": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slushie machine builds on the popularity of the original [&#8230;]",
+      "content": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
+      "contentOriginal": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
       "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
       "pubDate": "2026-07-11T22:00:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 111,
-      "id": 346
+      "clusterId": 114,
+      "id": 393
     },
     {
       "source": "bbc",
@@ -5914,7 +6713,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/5cc44ba0-7d50-11f1-926f-c90d1bcfbc84.jpg",
       "entities": "",
       "clusterId": 41,
-      "id": 347
+      "id": 394
     },
     {
       "source": "yonhap",
@@ -5930,8 +6729,8 @@
       "pubDate": "2026-07-11T21:47:45+09:00",
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR202607112147443FC_01_i.jpg",
       "entities": "",
-      "clusterId": 2,
-      "id": 348
+      "clusterId": 6,
+      "id": 395
     },
     {
       "source": "thehindu",
@@ -5948,7 +6747,7 @@
       "image": "",
       "entities": "",
       "clusterId": 7,
-      "id": 349
+      "id": 396
     },
     {
       "source": "scmp",
@@ -5965,7 +6764,7 @@
       "image": "",
       "entities": "",
       "clusterId": 100,
-      "id": 350
+      "id": 397
     },
     {
       "source": "mk",
@@ -5982,7 +6781,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.b617efc2bbe24c0c9b1e841aaffba773_R.png",
       "entities": "",
       "clusterId": 23,
-      "id": 351
+      "id": 398
     },
     {
       "source": "hankyung",
@@ -5999,7 +6798,7 @@
       "image": "",
       "entities": "",
       "clusterId": 24,
-      "id": 352
+      "id": 399
     },
     {
       "source": "reuters",
@@ -6016,7 +6815,7 @@
       "image": "",
       "entities": "",
       "clusterId": 66,
-      "id": 353
+      "id": 400
     },
     {
       "source": "hankyung",
@@ -6033,7 +6832,7 @@
       "image": "",
       "entities": "",
       "clusterId": 25,
-      "id": 354
+      "id": 401
     },
     {
       "source": "mk",
@@ -6050,7 +6849,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.28dc776734844fbb87138933a0229d21_R.jpg",
       "entities": "",
       "clusterId": 18,
-      "id": 355
+      "id": 402
     },
     {
       "source": "hani",
@@ -6067,7 +6866,7 @@
       "image": "",
       "entities": "",
       "clusterId": 3,
-      "id": 356
+      "id": 403
     },
     {
       "source": "hani",
@@ -6083,8 +6882,8 @@
       "pubDate": "2026-07-11T21:01:06.229840+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 11,
-      "id": 357
+      "clusterId": 18,
+      "id": 404
     },
     {
       "source": "hani",
@@ -6100,8 +6899,8 @@
       "pubDate": "2026-07-11T21:01:06.229781+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 43,
-      "id": 358
+      "clusterId": 51,
+      "id": 405
     },
     {
       "source": "hani",
@@ -6117,8 +6916,8 @@
       "pubDate": "2026-07-11T21:01:06.229723+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 2,
-      "id": 359
+      "clusterId": 17,
+      "id": 406
     },
     {
       "source": "hani",
@@ -6134,8 +6933,8 @@
       "pubDate": "2026-07-11T21:01:06.229665+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 27,
-      "id": 360
+      "clusterId": 31,
+      "id": 407
     },
     {
       "source": "hani",
@@ -6152,7 +6951,7 @@
       "image": "",
       "entities": "",
       "clusterId": 32,
-      "id": 361
+      "id": 408
     },
     {
       "source": "hani",
@@ -6168,8 +6967,8 @@
       "pubDate": "2026-07-11T21:01:06.229538+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 42,
-      "id": 362
+      "clusterId": 50,
+      "id": 409
     },
     {
       "source": "hani",
@@ -6186,7 +6985,7 @@
       "image": "",
       "entities": "",
       "clusterId": 33,
-      "id": 363
+      "id": 410
     },
     {
       "source": "hankyung",
@@ -6203,7 +7002,7 @@
       "image": "",
       "entities": "",
       "clusterId": 26,
-      "id": 364
+      "id": 411
     },
     {
       "source": "mk",
@@ -6220,7 +7019,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260710.966f6c6cddca46be8c2af0d5db001d9f_R.png",
       "entities": "",
       "clusterId": 20,
-      "id": 365
+      "id": 412
     },
     {
       "source": "yonhap",
@@ -6237,7 +7036,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR202607112046505SE_01_i.jpg",
       "entities": "",
       "clusterId": 21,
-      "id": 366
+      "id": 413
     },
     {
       "source": "hankyung",
@@ -6254,7 +7053,7 @@
       "image": "",
       "entities": "",
       "clusterId": 27,
-      "id": 367
+      "id": 414
     },
     {
       "source": "mk",
@@ -6271,7 +7070,7 @@
       "image": "https://pimg.mk.co.kr/news/cms/202607/11/news-p.v1.20260711.879e9b6535fb45a3979320bd020a62fa_R.jpg",
       "entities": "",
       "clusterId": 23,
-      "id": 368
+      "id": 415
     },
     {
       "source": "reuters",
@@ -6287,8 +7086,8 @@
       "pubDate": "2026-07-11T20:44:23+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 44,
-      "id": 369
+      "clusterId": 52,
+      "id": 416
     },
     {
       "source": "reuters",
@@ -6305,7 +7104,7 @@
       "image": "",
       "entities": "",
       "clusterId": 46,
-      "id": 370
+      "id": 417
     },
     {
       "source": "reuters",
@@ -6322,7 +7121,7 @@
       "image": "",
       "entities": "",
       "clusterId": 101,
-      "id": 371
+      "id": 418
     },
     {
       "source": "reuters",
@@ -6339,7 +7138,7 @@
       "image": "",
       "entities": "",
       "clusterId": 52,
-      "id": 372
+      "id": 419
     },
     {
       "source": "ap",
@@ -6356,7 +7155,7 @@
       "image": "",
       "entities": "",
       "clusterId": 53,
-      "id": 373
+      "id": 420
     },
     {
       "source": "bloomberg",
@@ -6373,7 +7172,7 @@
       "image": "",
       "entities": "",
       "clusterId": 98,
-      "id": 374
+      "id": 421
     },
     {
       "source": "yonhap",
@@ -6390,7 +7189,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711203220pah_01_i.jpg",
       "entities": "",
       "clusterId": 88,
-      "id": 375
+      "id": 422
     },
     {
       "source": "reuters",
@@ -6407,7 +7206,7 @@
       "image": "",
       "entities": "",
       "clusterId": 94,
-      "id": 376
+      "id": 423
     },
     {
       "source": "yonhap",
@@ -6424,7 +7223,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711202108hga_01_i.jpg",
       "entities": "",
       "clusterId": 89,
-      "id": 377
+      "id": 424
     },
     {
       "source": "hankyung",
@@ -6440,8 +7239,8 @@
       "pubDate": "2026-07-11T20:20:38+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 37,
-      "id": 378
+      "clusterId": 43,
+      "id": 425
     },
     {
       "source": "yonhap",
@@ -6458,7 +7257,7 @@
       "image": "https://media.yonhapnewstv.co.kr/article/AKR/20260711/AKR20260711202004SBB_01_i.jpg",
       "entities": "",
       "clusterId": 90,
-      "id": 379
+      "id": 426
     },
     {
       "source": "nikkei",
@@ -6475,7 +7274,7 @@
       "image": "",
       "entities": "",
       "clusterId": 116,
-      "id": 380
+      "id": 427
     },
     {
       "source": "nikkei",
@@ -6492,7 +7291,7 @@
       "image": "",
       "entities": "",
       "clusterId": 130,
-      "id": 381
+      "id": 428
     },
     {
       "source": "ap",
@@ -6509,7 +7308,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 382
+      "id": 429
     },
     {
       "source": "nikkei",
@@ -6526,7 +7325,7 @@
       "image": "",
       "entities": "",
       "clusterId": 45,
-      "id": 383
+      "id": 430
     },
     {
       "source": "reuters",
@@ -6542,8 +7341,8 @@
       "pubDate": "2026-07-11T20:03:08+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 39,
-      "id": 384
+      "clusterId": 46,
+      "id": 431
     },
     {
       "source": "hankyung",
@@ -6560,7 +7359,7 @@
       "image": "",
       "entities": "",
       "clusterId": 29,
-      "id": 385
+      "id": 432
     },
     {
       "source": "hankyung",
@@ -6576,8 +7375,8 @@
       "pubDate": "2026-07-11T19:53:34+09:00",
       "image": "",
       "entities": "",
-      "clusterId": 43,
-      "id": 386
+      "clusterId": 51,
+      "id": 433
     },
     {
       "source": "hankyung",
@@ -6594,7 +7393,7 @@
       "image": "",
       "entities": "",
       "clusterId": 5,
-      "id": 387
+      "id": 434
     },
     {
       "source": "reuters",
@@ -6611,7 +7410,7 @@
       "image": "",
       "entities": "",
       "clusterId": 102,
-      "id": 388
+      "id": 435
     },
     {
       "source": "nyt",
@@ -6627,8 +7426,8 @@
       "pubDate": "2026-07-11T19:25:29+00:00",
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg",
       "entities": "",
-      "clusterId": 40,
-      "id": 389
+      "clusterId": 48,
+      "id": 436
     },
     {
       "source": "bloomberg",
@@ -6645,7 +7444,7 @@
       "image": "",
       "entities": "",
       "clusterId": 95,
-      "id": 390
+      "id": 437
     },
     {
       "source": "thehindu",
@@ -6662,7 +7461,7 @@
       "image": "https://th-i.thgim.com/public/incoming/p32hap/article71192468.ece/alternates/LANDSCAPE_1200/Indonesia_India_821_6.jpg",
       "entities": "",
       "clusterId": 48,
-      "id": 391
+      "id": 438
     },
     {
       "source": "reuters",
@@ -6678,8 +7477,8 @@
       "pubDate": "2026-07-11T18:04:55+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 45,
-      "id": 392
+      "clusterId": 53,
+      "id": 439
     },
     {
       "source": "bbc",
@@ -6695,8 +7494,8 @@
       "pubDate": "2026-07-11T18:00:09+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
       "entities": "",
-      "clusterId": 41,
-      "id": 393
+      "clusterId": 49,
+      "id": 440
     },
     {
       "source": "nikkei",
@@ -6713,7 +7512,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 394
+      "id": 441
     },
     {
       "source": "ap",
@@ -6730,7 +7529,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 395
+      "id": 442
     },
     {
       "source": "thehindu",
@@ -6746,8 +7545,8 @@
       "pubDate": "2026-07-11T17:34:25+05:30",
       "image": "https://th-i.thgim.com/public/news/national/k9ve9v/article71210319.ece/alternates/LANDSCAPE_1200/Spain%201.png",
       "entities": "",
-      "clusterId": 46,
-      "id": 396
+      "clusterId": 54,
+      "id": 443
     },
     {
       "source": "techcrunch",
@@ -6763,8 +7562,8 @@
       "pubDate": "2026-07-11T17:30:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 113,
-      "id": 397
+      "clusterId": 115,
+      "id": 444
     },
     {
       "source": "guardian",
@@ -6780,8 +7579,8 @@
       "pubDate": "2026-07-11T17:23:19+00:00",
       "image": "https://i.guim.co.uk/img/media/45bfd090b2fc996f49cae89b6964db6583c5179e/876_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a0200f32904d618c7b42e114e12a816f",
       "entities": "",
-      "clusterId": 45,
-      "id": 398
+      "clusterId": 53,
+      "id": 445
     },
     {
       "source": "verge",
@@ -6798,7 +7597,7 @@
       "image": "",
       "entities": "",
       "clusterId": 104,
-      "id": 399
+      "id": 446
     },
     {
       "source": "bbc",
@@ -6815,7 +7614,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg",
       "entities": "",
       "clusterId": 31,
-      "id": 400
+      "id": 447
     },
     {
       "source": "bbc",
@@ -6831,8 +7630,8 @@
       "pubDate": "2026-07-11T16:11:33+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg",
       "entities": "",
-      "clusterId": 39,
-      "id": 401
+      "clusterId": 46,
+      "id": 448
     },
     {
       "source": "ap",
@@ -6849,7 +7648,7 @@
       "image": "",
       "entities": "",
       "clusterId": 31,
-      "id": 402
+      "id": 449
     },
     {
       "source": "scmp",
@@ -6865,8 +7664,8 @@
       "pubDate": "2026-07-11T15:12:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 41,
-      "id": 403
+      "clusterId": 49,
+      "id": 450
     },
     {
       "source": "bbc",
@@ -6882,8 +7681,8 @@
       "pubDate": "2026-07-11T15:03:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
       "entities": "",
-      "clusterId": 27,
-      "id": 404
+      "clusterId": 31,
+      "id": 451
     },
     {
       "source": "bbc",
@@ -6900,7 +7699,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
       "entities": "",
       "clusterId": 40,
-      "id": 405
+      "id": 452
     },
     {
       "source": "nyt",
@@ -6917,7 +7716,7 @@
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-spain-fire-fhqc/11int-spain-fire-fhqc-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 40,
-      "id": 406
+      "id": 453
     },
     {
       "source": "verge",
@@ -6934,7 +7733,7 @@
       "image": "",
       "entities": "",
       "clusterId": 105,
-      "id": 407
+      "id": 454
     },
     {
       "source": "nikkei",
@@ -6950,8 +7749,8 @@
       "pubDate": "2026-07-11T14:32:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 47,
-      "id": 408
+      "clusterId": 44,
+      "id": 455
     },
     {
       "source": "scmp",
@@ -6968,7 +7767,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 409
+      "id": 456
     },
     {
       "source": "bbc",
@@ -6985,7 +7784,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94a/live/062ee420-7d2e-11f1-9bb6-f90d2cb001e2.jpg",
       "entities": "",
       "clusterId": 42,
-      "id": 410
+      "id": 457
     },
     {
       "source": "techcrunch",
@@ -7001,8 +7800,8 @@
       "pubDate": "2026-07-11T14:13:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 114,
-      "id": 411
+      "clusterId": 116,
+      "id": 458
     },
     {
       "source": "scmp",
@@ -7018,8 +7817,8 @@
       "pubDate": "2026-07-11T14:10:05+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 46,
-      "id": 412
+      "clusterId": 54,
+      "id": 459
     },
     {
       "source": "bloomberg",
@@ -7036,7 +7835,7 @@
       "image": "",
       "entities": "",
       "clusterId": 57,
-      "id": 413
+      "id": 460
     },
     {
       "source": "scmp",
@@ -7053,7 +7852,7 @@
       "image": "",
       "entities": "",
       "clusterId": 76,
-      "id": 414
+      "id": 461
     },
     {
       "source": "bloomberg",
@@ -7070,7 +7869,7 @@
       "image": "",
       "entities": "",
       "clusterId": 59,
-      "id": 415
+      "id": 462
     },
     {
       "source": "bbc",
@@ -7086,8 +7885,8 @@
       "pubDate": "2026-07-11T13:44:03+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff78/live/f1159af0-7d1b-11f1-b61e-1b6852ddc42f.jpg",
       "entities": "",
-      "clusterId": 34,
-      "id": 416
+      "clusterId": 39,
+      "id": 463
     },
     {
       "source": "bbc",
@@ -7104,7 +7903,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
       "entities": "",
       "clusterId": 27,
-      "id": 417
+      "id": 464
     },
     {
       "source": "bloomberg",
@@ -7121,7 +7920,7 @@
       "image": "",
       "entities": "",
       "clusterId": 60,
-      "id": 418
+      "id": 465
     },
     {
       "source": "nyt",
@@ -7138,7 +7937,7 @@
       "image": "",
       "entities": "",
       "clusterId": 37,
-      "id": 419
+      "id": 466
     },
     {
       "source": "scmp",
@@ -7154,8 +7953,8 @@
       "pubDate": "2026-07-11T13:20:02+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 39,
-      "id": 420
+      "clusterId": 46,
+      "id": 467
     },
     {
       "source": "ap",
@@ -7172,7 +7971,7 @@
       "image": "",
       "entities": "",
       "clusterId": 48,
-      "id": 421
+      "id": 468
     },
     {
       "source": "nyt",
@@ -7189,7 +7988,7 @@
       "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11int-uk-murder-tlpm/11int-uk-murder-tlpm-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 101,
-      "id": 422
+      "id": 469
     },
     {
       "source": "bbc",
@@ -7206,7 +8005,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7562/live/ef363980-cfa0-11ef-b967-0b921216563e.jpg",
       "entities": "",
       "clusterId": 40,
-      "id": 423
+      "id": 470
     },
     {
       "source": "reuters",
@@ -7223,7 +8022,7 @@
       "image": "",
       "entities": "",
       "clusterId": 63,
-      "id": 424
+      "id": 471
     },
     {
       "source": "reuters",
@@ -7240,7 +8039,7 @@
       "image": "",
       "entities": "",
       "clusterId": 39,
-      "id": 425
+      "id": 472
     },
     {
       "source": "economist",
@@ -7257,7 +8056,7 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 426
+      "id": 473
     },
     {
       "source": "ft",
@@ -7274,7 +8073,7 @@
       "image": "",
       "entities": "",
       "clusterId": 51,
-      "id": 427
+      "id": 474
     },
     {
       "source": "guardian",
@@ -7290,8 +8089,8 @@
       "pubDate": "2026-07-11T11:59:11+00:00",
       "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
       "entities": "",
-      "clusterId": 115,
-      "id": 428
+      "clusterId": 117,
+      "id": 475
     },
     {
       "source": "ap",
@@ -7308,7 +8107,7 @@
       "image": "",
       "entities": "",
       "clusterId": 53,
-      "id": 429
+      "id": 476
     },
     {
       "source": "wired",
@@ -7324,8 +8123,8 @@
       "pubDate": "2026-07-11T11:02:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 116,
-      "id": 430
+      "clusterId": 118,
+      "id": 477
     },
     {
       "source": "verge",
@@ -7342,7 +8141,7 @@
       "image": "",
       "entities": "",
       "clusterId": 104,
-      "id": 431
+      "id": 478
     },
     {
       "source": "verge",
@@ -7359,7 +8158,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 432
+      "id": 479
     },
     {
       "source": "bloomberg",
@@ -7376,7 +8175,7 @@
       "image": "",
       "entities": "",
       "clusterId": 57,
-      "id": 433
+      "id": 480
     },
     {
       "source": "wired",
@@ -7393,7 +8192,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 434
+      "id": 481
     },
     {
       "source": "scmp",
@@ -7410,7 +8209,7 @@
       "image": "",
       "entities": "",
       "clusterId": 70,
-      "id": 435
+      "id": 482
     },
     {
       "source": "nikkei",
@@ -7426,8 +8225,8 @@
       "pubDate": "2026-07-11T10:40:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 35,
-      "id": 436
+      "clusterId": 41,
+      "id": 483
     },
     {
       "source": "nikkei",
@@ -7443,8 +8242,8 @@
       "pubDate": "2026-07-11T10:40:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 17,
-      "id": 437
+      "clusterId": 25,
+      "id": 484
     },
     {
       "source": "wired",
@@ -7461,7 +8260,7 @@
       "image": "",
       "entities": "",
       "clusterId": 71,
-      "id": 438
+      "id": 485
     },
     {
       "source": "wired",
@@ -7478,7 +8277,7 @@
       "image": "",
       "entities": "",
       "clusterId": 72,
-      "id": 439
+      "id": 486
     },
     {
       "source": "verge",
@@ -7495,7 +8294,7 @@
       "image": "",
       "entities": "",
       "clusterId": 84,
-      "id": 440
+      "id": 487
     },
     {
       "source": "bloomberg",
@@ -7512,7 +8311,7 @@
       "image": "",
       "entities": "",
       "clusterId": 50,
-      "id": 441
+      "id": 488
     },
     {
       "source": "nyt",
@@ -7529,7 +8328,7 @@
       "image": "https://static01.nyt.com/images/2026/07/11/world/11-int-canadaletter-04/11-int-canadaletter-04-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 73,
-      "id": 442
+      "id": 489
     },
     {
       "source": "wired",
@@ -7546,7 +8345,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 443
+      "id": 490
     },
     {
       "source": "scmp",
@@ -7563,7 +8362,7 @@
       "image": "",
       "entities": "",
       "clusterId": 75,
-      "id": 444
+      "id": 491
     },
     {
       "source": "wired",
@@ -7580,7 +8379,7 @@
       "image": "",
       "entities": "",
       "clusterId": 76,
-      "id": 445
+      "id": 492
     },
     {
       "source": "wired",
@@ -7597,7 +8396,7 @@
       "image": "",
       "entities": "",
       "clusterId": 77,
-      "id": 446
+      "id": 493
     },
     {
       "source": "scmp",
@@ -7614,7 +8413,7 @@
       "image": "",
       "entities": "",
       "clusterId": 55,
-      "id": 447
+      "id": 494
     },
     {
       "source": "verge",
@@ -7631,7 +8430,7 @@
       "image": "",
       "entities": "",
       "clusterId": 85,
-      "id": 448
+      "id": 495
     },
     {
       "source": "wired",
@@ -7648,7 +8447,7 @@
       "image": "",
       "entities": "",
       "clusterId": 79,
-      "id": 449
+      "id": 496
     },
     {
       "source": "bloomberg",
@@ -7665,7 +8464,7 @@
       "image": "",
       "entities": "",
       "clusterId": 58,
-      "id": 450
+      "id": 497
     },
     {
       "source": "verge",
@@ -7682,7 +8481,7 @@
       "image": "",
       "entities": "",
       "clusterId": 86,
-      "id": 451
+      "id": 498
     },
     {
       "source": "verge",
@@ -7699,7 +8498,7 @@
       "image": "",
       "entities": "",
       "clusterId": 87,
-      "id": 452
+      "id": 499
     },
     {
       "source": "nikkei",
@@ -7716,7 +8515,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 453
+      "id": 500
     },
     {
       "source": "bloomberg",
@@ -7733,7 +8532,7 @@
       "image": "",
       "entities": "",
       "clusterId": 113,
-      "id": 454
+      "id": 501
     },
     {
       "source": "nikkei",
@@ -7750,7 +8549,7 @@
       "image": "",
       "entities": "",
       "clusterId": 77,
-      "id": 455
+      "id": 502
     },
     {
       "source": "bloomberg",
@@ -7767,7 +8566,7 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 456
+      "id": 503
     },
     {
       "source": "scmp",
@@ -7784,7 +8583,7 @@
       "image": "",
       "entities": "",
       "clusterId": 83,
-      "id": 457
+      "id": 504
     },
     {
       "source": "scmp",
@@ -7801,7 +8600,7 @@
       "image": "",
       "entities": "",
       "clusterId": 84,
-      "id": 458
+      "id": 505
     },
     {
       "source": "scmp",
@@ -7818,7 +8617,7 @@
       "image": "",
       "entities": "",
       "clusterId": 62,
-      "id": 459
+      "id": 506
     },
     {
       "source": "scmp",
@@ -7835,7 +8634,7 @@
       "image": "",
       "entities": "",
       "clusterId": 67,
-      "id": 460
+      "id": 507
     },
     {
       "source": "ft",
@@ -7852,7 +8651,7 @@
       "image": "",
       "entities": "",
       "clusterId": 81,
-      "id": 461
+      "id": 508
     },
     {
       "source": "ft",
@@ -7869,7 +8668,7 @@
       "image": "",
       "entities": "",
       "clusterId": 61,
-      "id": 462
+      "id": 509
     },
     {
       "source": "ft",
@@ -7886,7 +8685,7 @@
       "image": "",
       "entities": "",
       "clusterId": 71,
-      "id": 463
+      "id": 510
     },
     {
       "source": "ft",
@@ -7903,7 +8702,7 @@
       "image": "",
       "entities": "",
       "clusterId": 65,
-      "id": 464
+      "id": 511
     },
     {
       "source": "nyt",
@@ -7920,7 +8719,7 @@
       "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 82,
-      "id": 465
+      "id": 512
     },
     {
       "source": "ft",
@@ -7937,7 +8736,7 @@
       "image": "",
       "entities": "",
       "clusterId": 64,
-      "id": 466
+      "id": 513
     },
     {
       "source": "ft",
@@ -7954,7 +8753,7 @@
       "image": "",
       "entities": "",
       "clusterId": 69,
-      "id": 467
+      "id": 514
     },
     {
       "source": "ft",
@@ -7971,7 +8770,7 @@
       "image": "",
       "entities": "",
       "clusterId": 93,
-      "id": 468
+      "id": 515
     },
     {
       "source": "ft",
@@ -7988,7 +8787,7 @@
       "image": "",
       "entities": "",
       "clusterId": 68,
-      "id": 469
+      "id": 516
     },
     {
       "source": "ft",
@@ -8005,7 +8804,7 @@
       "image": "",
       "entities": "",
       "clusterId": 67,
-      "id": 470
+      "id": 517
     },
     {
       "source": "ft",
@@ -8022,7 +8821,7 @@
       "image": "",
       "entities": "",
       "clusterId": 70,
-      "id": 471
+      "id": 518
     },
     {
       "source": "scmp",
@@ -8039,7 +8838,7 @@
       "image": "",
       "entities": "",
       "clusterId": 3,
-      "id": 472
+      "id": 519
     },
     {
       "source": "verge",
@@ -8056,7 +8855,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 473
+      "id": 520
     },
     {
       "source": "bloomberg",
@@ -8073,7 +8872,7 @@
       "image": "",
       "entities": "",
       "clusterId": 52,
-      "id": 474
+      "id": 521
     },
     {
       "source": "techcrunch",
@@ -8089,8 +8888,8 @@
       "pubDate": "2026-07-11T01:01:28+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 117,
-      "id": 475
+      "clusterId": 119,
+      "id": 522
     },
     {
       "source": "reuters",
@@ -8107,7 +8906,7 @@
       "image": "",
       "entities": "",
       "clusterId": 89,
-      "id": 476
+      "id": 523
     },
     {
       "source": "ap",
@@ -8124,7 +8923,7 @@
       "image": "",
       "entities": "",
       "clusterId": 78,
-      "id": 477
+      "id": 524
     },
     {
       "source": "techcrunch",
@@ -8140,8 +8939,8 @@
       "pubDate": "2026-07-11T00:29:25+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 118,
-      "id": 478
+      "clusterId": 120,
+      "id": 525
     },
     {
       "source": "ap",
@@ -8158,7 +8957,7 @@
       "image": "",
       "entities": "",
       "clusterId": 91,
-      "id": 479
+      "id": 526
     },
     {
       "source": "ap",
@@ -8175,7 +8974,7 @@
       "image": "",
       "entities": "",
       "clusterId": 92,
-      "id": 480
+      "id": 527
     },
     {
       "source": "techcrunch",
@@ -8191,8 +8990,8 @@
       "pubDate": "2026-07-10T23:55:07+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 38,
-      "id": 481
+      "clusterId": 45,
+      "id": 528
     },
     {
       "source": "nikkei",
@@ -8209,7 +9008,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 482
+      "id": 529
     },
     {
       "source": "reuters",
@@ -8226,7 +9025,7 @@
       "image": "",
       "entities": "",
       "clusterId": 83,
-      "id": 483
+      "id": 530
     },
     {
       "source": "bloomberg",
@@ -8243,7 +9042,7 @@
       "image": "",
       "entities": "",
       "clusterId": 93,
-      "id": 484
+      "id": 531
     },
     {
       "source": "nikkei",
@@ -8260,7 +9059,7 @@
       "image": "",
       "entities": "",
       "clusterId": 74,
-      "id": 485
+      "id": 532
     },
     {
       "source": "scmp",
@@ -8277,7 +9076,7 @@
       "image": "",
       "entities": "",
       "clusterId": 82,
-      "id": 486
+      "id": 533
     },
     {
       "source": "scmp",
@@ -8293,8 +9092,8 @@
       "pubDate": "2026-07-10T22:27:02+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 44,
-      "id": 487
+      "clusterId": 52,
+      "id": 534
     },
     {
       "source": "scmp",
@@ -8311,7 +9110,7 @@
       "image": "",
       "entities": "",
       "clusterId": 85,
-      "id": 488
+      "id": 535
     },
     {
       "source": "ap",
@@ -8327,8 +9126,8 @@
       "pubDate": "2026-07-10T22:17:00+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 25,
-      "id": 489
+      "clusterId": 29,
+      "id": 536
     },
     {
       "source": "techcrunch",
@@ -8345,7 +9144,7 @@
       "image": "",
       "entities": "",
       "clusterId": 109,
-      "id": 490
+      "id": 537
     },
     {
       "source": "reuters",
@@ -8361,8 +9160,8 @@
       "pubDate": "2026-07-10T21:36:03+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 25,
-      "id": 491
+      "clusterId": 29,
+      "id": 538
     },
     {
       "source": "reuters",
@@ -8379,7 +9178,7 @@
       "image": "",
       "entities": "",
       "clusterId": 107,
-      "id": 492
+      "id": 539
     },
     {
       "source": "reuters",
@@ -8396,7 +9195,7 @@
       "image": "",
       "entities": "",
       "clusterId": 95,
-      "id": 493
+      "id": 540
     },
     {
       "source": "reuters",
@@ -8413,7 +9212,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 494
+      "id": 541
     },
     {
       "source": "ap",
@@ -8430,7 +9229,7 @@
       "image": "",
       "entities": "",
       "clusterId": 89,
-      "id": 495
+      "id": 542
     },
     {
       "source": "techcrunch",
@@ -8446,8 +9245,8 @@
       "pubDate": "2026-07-10T21:00:29+00:00",
       "image": "",
       "entities": "",
-      "clusterId": 44,
-      "id": 496
+      "clusterId": 52,
+      "id": 543
     },
     {
       "source": "nikkei",
@@ -8464,7 +9263,7 @@
       "image": "",
       "entities": "",
       "clusterId": 91,
-      "id": 497
+      "id": 544
     },
     {
       "source": "bloomberg",
@@ -8481,7 +9280,7 @@
       "image": "",
       "entities": "",
       "clusterId": 58,
-      "id": 498
+      "id": 545
     },
     {
       "source": "bloomberg",
@@ -8498,7 +9297,7 @@
       "image": "",
       "entities": "",
       "clusterId": 92,
-      "id": 499
+      "id": 546
     },
     {
       "source": "ft",
@@ -8515,7 +9314,7 @@
       "image": "",
       "entities": "",
       "clusterId": 66,
-      "id": 500
+      "id": 547
     },
     {
       "source": "reuters",
@@ -8532,7 +9331,7 @@
       "image": "",
       "entities": "",
       "clusterId": 105,
-      "id": 501
+      "id": 548
     },
     {
       "source": "verge",
@@ -8549,7 +9348,7 @@
       "image": "",
       "entities": "",
       "clusterId": 93,
-      "id": 502
+      "id": 549
     },
     {
       "source": "bloomberg",
@@ -8566,7 +9365,7 @@
       "image": "",
       "entities": "",
       "clusterId": 94,
-      "id": 503
+      "id": 550
     },
     {
       "source": "nikkei",
@@ -8583,7 +9382,7 @@
       "image": "",
       "entities": "",
       "clusterId": 76,
-      "id": 504
+      "id": 551
     },
     {
       "source": "verge",
@@ -8599,8 +9398,8 @@
       "pubDate": "2026-07-10T19:49:50-04:00",
       "image": "",
       "entities": "",
-      "clusterId": 38,
-      "id": 505
+      "clusterId": 45,
+      "id": 552
     },
     {
       "source": "reuters",
@@ -8617,7 +9416,7 @@
       "image": "",
       "entities": "",
       "clusterId": 95,
-      "id": 506
+      "id": 553
     },
     {
       "source": "nikkei",
@@ -8634,7 +9433,7 @@
       "image": "",
       "entities": "",
       "clusterId": 96,
-      "id": 507
+      "id": 554
     },
     {
       "source": "reuters",
@@ -8651,7 +9450,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 508
+      "id": 555
     },
     {
       "source": "techcrunch",
@@ -8668,7 +9467,7 @@
       "image": "",
       "entities": "",
       "clusterId": 97,
-      "id": 509
+      "id": 556
     },
     {
       "source": "techcrunch",
@@ -8685,7 +9484,7 @@
       "image": "",
       "entities": "",
       "clusterId": 112,
-      "id": 510
+      "id": 557
     },
     {
       "source": "reuters",
@@ -8702,7 +9501,7 @@
       "image": "",
       "entities": "",
       "clusterId": 8,
-      "id": 511
+      "id": 558
     },
     {
       "source": "economist",
@@ -8719,7 +9518,7 @@
       "image": "",
       "entities": "",
       "clusterId": 68,
-      "id": 512
+      "id": 559
     },
     {
       "source": "scmp",
@@ -8736,7 +9535,7 @@
       "image": "",
       "entities": "",
       "clusterId": 84,
-      "id": 513
+      "id": 560
     },
     {
       "source": "nyt",
@@ -8753,7 +9552,7 @@
       "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10int-Iran-Supreme-Leader-lpbq/10int-Iran-Supreme-Leader-lpbq-mediumSquareAt3X.jpg",
       "entities": "",
       "clusterId": 89,
-      "id": 514
+      "id": 561
     },
     {
       "source": "ft",
@@ -8770,7 +9569,7 @@
       "image": "",
       "entities": "",
       "clusterId": 62,
-      "id": 515
+      "id": 562
     },
     {
       "source": "guardian",
@@ -8786,8 +9585,8 @@
       "pubDate": "2026-07-10T07:00:14+00:00",
       "image": "https://i.guim.co.uk/img/media/1f3499a36b13998727100bda701915513e4c6156/149_0_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=3a9965c4a40c281dd153f2e8e18170a6",
       "entities": "",
-      "clusterId": 119,
-      "id": 516
+      "clusterId": 121,
+      "id": 563
     },
     {
       "source": "guardian",
@@ -8804,7 +9603,7 @@
       "image": "https://i.guim.co.uk/img/media/d0cfc80c5603c13819ba56c51101b2175286d613/378_0_2678_2143/master/2678.jpg?width=140&quality=85&auto=format&fit=max&s=3e08e0f3ae95d4bb57c7e897404c3e56",
       "entities": "",
       "clusterId": 76,
-      "id": 517
+      "id": 564
     },
     {
       "source": "guardian",
@@ -8820,8 +9619,8 @@
       "pubDate": "2026-07-09T16:20:41+00:00",
       "image": "https://i.guim.co.uk/img/media/f80796421f1ba8310e6cf11d9923b0d36fda17d6/584_0_3309_2649/master/3309.jpg?width=140&quality=85&auto=format&fit=max&s=2c7e4088119348a28d3bdfa3bae10781",
       "entities": "",
-      "clusterId": 120,
-      "id": 518
+      "clusterId": 122,
+      "id": 565
     },
     {
       "source": "guardian",
@@ -8837,8 +9636,8 @@
       "pubDate": "2026-07-09T12:59:24+00:00",
       "image": "https://i.guim.co.uk/img/media/cb64db381071a26d7d1ec4f5be1dd6a4cec35e1b/373_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=657bd343268c53ef0b7f90b382be7899",
       "entities": "",
-      "clusterId": 121,
-      "id": 519
+      "clusterId": 123,
+      "id": 566
     },
     {
       "source": "guardian",
@@ -8855,9 +9654,9 @@
       "image": "https://i.guim.co.uk/img/media/1187bdfd3c4a3cbb71340e89c8fc9f455b7f72b5/501_358_1830_1464/master/1830.jpg?width=140&quality=85&auto=format&fit=max&s=a519940cfcc5c97f2c25c967b1c78dfe",
       "entities": "",
       "clusterId": 93,
-      "id": 520
+      "id": 567
     }
   ],
-  "updated": "2026-07-12T22:07:32.843949+00:00",
+  "updated": "2026-07-13T01:04:46.706294+00:00",
   "sourceCount": 19
 }
